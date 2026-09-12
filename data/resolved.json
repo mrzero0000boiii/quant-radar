@@ -1,0 +1,1240 @@
+{
+ "360 Trading Networks": {
+  "checked_at": "2026-09-12T00:49:28.559260+00:00",
+  "method": "careers-page",
+  "sources": [
+   "personio:360t"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "3Red Partners": {
+  "checked_at": "2026-09-12T00:47:59.023825+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:3redpartners"
+  ],
+  "status": "ok",
+  "tried": 2
+ },
+ "AQR Capital Management": {
+  "checked_at": "2026-09-12T00:51:46.756924+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:aqr"
+  ],
+  "status": "ok",
+  "tried": 3
+ },
+ "Akuna Capital": {
+  "checked_at": "2026-09-12T00:45:36.860521+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:akunacapital"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Akuna Capital Sydney": {
+  "checked_at": "2026-09-12T00:50:47.646305+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "All Options": {
+  "checked_at": "2026-09-12T00:47:00.048255+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Allston Trading": {
+  "checked_at": "2026-09-12T00:46:41.173997+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "AlphaGrep Securities": {
+  "checked_at": "2026-09-12T00:47:04.601055+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:alphagrepsecurities"
+  ],
+  "status": "ok",
+  "tried": 3
+ },
+ "Amsterdam Trading Group": {
+  "checked_at": "2026-09-12T00:46:55.959637+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "ashby:atg"
+  ],
+  "status": "ok",
+  "tried": 9
+ },
+ "Aquatic Capital Management": {
+  "checked_at": "2026-09-12T00:47:22.964154+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:aquaticcapitalmanagement"
+  ],
+  "status": "ok",
+  "tried": 4
+ },
+ "Arb Trading Group": {
+  "checked_at": "2026-09-12T00:48:45.102221+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Ardea Partners": {
+  "checked_at": "2026-09-12T00:49:57.993091+00:00",
+  "method": "careers-page",
+  "sources": [
+   "ashby:ardea-partners"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Balyasny Asset Management": {
+  "checked_at": "2026-09-12T00:51:40.983407+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Beacon Platform": {
+  "checked_at": "2026-09-12T00:49:24.818532+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Belvedere Trading": {
+  "checked_at": "2026-09-12T00:45:57.422940+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "lever:belvederetrading"
+  ],
+  "status": "ok",
+  "tried": 6
+ },
+ "BlackEdge Capital": {
+  "checked_at": "2026-09-12T00:56:35.046833+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:blackedgecapital"
+  ],
+  "status": "ok",
+  "tried": 2
+ },
+ "Blackcore Trading": {
+  "checked_at": "2026-09-12T00:50:43.855384+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Blue Capital Group": {
+  "checked_at": "2026-09-12T00:48:12.427901+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "lever:blue"
+  ],
+  "status": "ok",
+  "tried": 6
+ },
+ "Bluecrest Capital Management": {
+  "checked_at": "2026-09-12T00:49:39.121517+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:bluecrestcapitalmanagement"
+  ],
+  "status": "ok",
+  "tried": 4
+ },
+ "Bluefin Companies": {
+  "checked_at": "2026-09-12T00:48:51.245028+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Bridgewater Associates": {
+  "checked_at": "2026-09-12T00:52:13.791233+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "CMT Group": {
+  "checked_at": "2026-09-12T00:48:15.833932+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:cmt"
+  ],
+  "status": "ok",
+  "tried": 4
+ },
+ "Cheiron Trading": {
+  "checked_at": "2026-09-12T00:49:10.878247+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Chicago Trading Company": {
+  "checked_at": "2026-09-12T00:45:51.274823+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:chicagotrading"
+  ],
+  "status": "ok",
+  "tried": 4
+ },
+ "Citadel": {
+  "checked_at": "2026-09-12T00:51:21.463921+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 17
+ },
+ "Citadel Securities": {
+  "checked_at": "2026-09-12T00:46:36.002179+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 23
+ },
+ "Consolidated Trading": {
+  "checked_at": "2026-09-12T00:48:06.096449+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Convexity": {
+  "checked_at": "2026-09-12T00:48:58.317606+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Cutler Group": {
+  "checked_at": "2026-09-12T00:47:11.808384+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "D. E. Shaw & Co.": {
+  "checked_at": "2026-09-12T00:52:06.381105+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 23
+ },
+ "DRW": {
+  "checked_at": "2026-09-12T00:45:34.777410+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:drweng"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "DV Trading": {
+  "checked_at": "2026-09-12T00:47:53.722900+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:dvtrading"
+  ],
+  "status": "ok",
+  "tried": 2
+ },
+ "Da Vinci Trading": {
+  "checked_at": "2026-09-12T00:46:32.244283+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:davinciderivatives"
+  ],
+  "status": "ok",
+  "tried": 4
+ },
+ "Dolat Capital": {
+  "checked_at": "2026-09-12T00:47:47.646125+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Domeyard": {
+  "checked_at": "2026-09-12T00:49:16.510928+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 9
+ },
+ "ETS Trading": {
+  "checked_at": "2026-09-12T00:50:04.267829+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Eagle Seven": {
+  "checked_at": "2026-09-12T00:46:29.400735+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "workable:eagle-seven"
+  ],
+  "status": "ok",
+  "tried": 19
+ },
+ "Eclipse Options": {
+  "checked_at": "2026-09-12T00:47:36.621372+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Endeavour Trading": {
+  "checked_at": "2026-09-12T00:48:48.208731+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Estee Advisors": {
+  "checked_at": "2026-09-12T00:47:43.938965+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "ExodusPoint Capital": {
+  "checked_at": "2026-09-12T00:51:21.514687+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:exoduspoint"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Five Rings": {
+  "checked_at": "2026-09-12T00:45:45.477925+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:fiveringsllc"
+  ],
+  "status": "ok",
+  "tried": 3
+ },
+ "Flow Traders": {
+  "checked_at": "2026-09-12T00:45:35.569561+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:flowtraders"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Futures First": {
+  "checked_at": "2026-09-12T00:47:34.877678+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "GTS": {
+  "checked_at": "2026-09-12T00:47:17.409858+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Gelber Group": {
+  "checked_at": "2026-09-12T00:46:41.873165+00:00",
+  "method": "careers-page",
+  "sources": [
+   "greenhouse:gelbergroup"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Geneva Trading": {
+  "checked_at": "2026-09-12T00:45:47.954445+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:genevatrading"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Grasshopper Asia": {
+  "checked_at": "2026-09-12T00:47:02.597583+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:grasshopperasia"
+  ],
+  "status": "ok",
+  "tried": 3
+ },
+ "Grasshopper Trading": {
+  "checked_at": "2026-09-12T00:50:47.282705+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Graviton Research Capital": {
+  "checked_at": "2026-09-12T00:47:03.736807+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:gravitonresearchcapital"
+  ],
+  "status": "ok",
+  "tried": 4
+ },
+ "Great Point Capital": {
+  "checked_at": "2026-09-12T00:48:29.257132+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Group One Trading": {
+  "checked_at": "2026-09-12T00:46:43.173842+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Hap Capital": {
+  "checked_at": "2026-09-12T00:47:25.584594+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Headlands Technologies": {
+  "checked_at": "2026-09-12T00:45:41.164690+00:00",
+  "method": "careers-page",
+  "sources": [
+   "greenhouse:headlandstechnologiesllc"
+  ],
+  "status": "ok",
+  "tried": 2
+ },
+ "Hehmeyer": {
+  "checked_at": "2026-09-12T00:47:06.807617+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 9
+ },
+ "Hillroute Capital": {
+  "checked_at": "2026-09-12T00:51:29.837797+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Hudson River Trading": {
+  "checked_at": "2026-09-12T00:45:37.318403+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:hrttalentcommunity"
+  ],
+  "status": "ok",
+  "tried": 2
+ },
+ "IMC Asia Pacific": {
+  "checked_at": "2026-09-12T00:50:53.095698+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "IMC Trading": {
+  "checked_at": "2026-09-12T00:45:34.420274+00:00",
+  "method": "hint",
+  "sources": [
+   "html:https://careers.imc.com/us/en/search-results"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Jane Capital Partners": {
+  "checked_at": "2026-09-12T00:47:43.655710+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "ashby:jane"
+  ],
+  "status": "ok",
+  "tried": 10
+ },
+ "Jane Street": {
+  "checked_at": "2026-09-12T00:45:44.096699+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:janestreet"
+  ],
+  "status": "ok",
+  "tried": 3
+ },
+ "Jane Street Capital Asia": {
+  "checked_at": "2026-09-12T00:49:40.839361+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Jump Trading": {
+  "checked_at": "2026-09-12T00:45:33.987753+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:jumptrading"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Kershner Trading Group": {
+  "checked_at": "2026-09-12T00:47:18.247702+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Ketchum Trading": {
+  "checked_at": "2026-09-12T00:52:18.888658+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Kronos Research": {
+  "checked_at": "2026-09-12T00:51:06.128439+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Liquid Capital": {
+  "checked_at": "2026-09-12T00:46:40.766922+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "ashby:liquid"
+  ],
+  "status": "ok",
+  "tried": 10
+ },
+ "Mako Trading": {
+  "checked_at": "2026-09-12T00:47:06.440640+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Man Group": {
+  "checked_at": "2026-09-12T00:52:47.036145+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:mangroup"
+  ],
+  "status": "ok",
+  "tried": 3
+ },
+ "Mansa Capital": {
+  "checked_at": "2026-09-12T00:51:28.499225+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Marex Solutions": {
+  "checked_at": "2026-09-12T00:50:09.433782+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Marquette Partners": {
+  "checked_at": "2026-09-12T00:46:41.172132+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Matrix Executions": {
+  "checked_at": "2026-09-12T00:47:54.939160+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Maven Securities": {
+  "checked_at": "2026-09-12T00:46:57.090575+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Millburn Ridgefield": {
+  "checked_at": "2026-09-12T00:50:24.794945+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Millennium Management": {
+  "checked_at": "2026-09-12T00:51:34.797266+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Mint Tower Capital Management": {
+  "checked_at": "2026-09-12T00:49:43.500247+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "NK Securities Research": {
+  "checked_at": "2026-09-12T00:47:09.360945+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:nksecuritiesresearch"
+  ],
+  "status": "ok",
+  "tried": 4
+ },
+ "Nico Trading": {
+  "checked_at": "2026-09-12T00:48:27.292423+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Nine Mile Financial": {
+  "checked_at": "2026-09-12T00:48:09.482857+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Nine Mile Trading": {
+  "checked_at": "2026-09-12T00:51:11.484984+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Nyenburgh Holding": {
+  "checked_at": "2026-09-12T00:49:54.266177+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "OSTC": {
+  "checked_at": "2026-09-12T00:47:19.428951+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Old Mission Capital": {
+  "checked_at": "2026-09-12T00:45:37.290060+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:oldmissioncapital"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Open Futures": {
+  "checked_at": "2026-09-12T00:47:47.070638+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Optimal Trading": {
+  "checked_at": "2026-09-12T00:48:11.485985+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Optiver": {
+  "checked_at": "2026-09-12T00:45:35.077910+00:00",
+  "method": "hint",
+  "sources": [
+   "html:https://optiver.com/working-at-optiver/career-opportunities/"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Optiver Asia Pacific": {
+  "checked_at": "2026-09-12T00:50:34.765494+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Optiver Europe": {
+  "checked_at": "2026-09-12T00:49:39.986890+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Optiver US": {
+  "checked_at": "2026-09-12T00:48:06.610936+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:optiverus"
+  ],
+  "status": "ok",
+  "tried": 2
+ },
+ "PDT Capital": {
+  "checked_at": "2026-09-12T00:49:25.981404+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "PDT Partners": {
+  "checked_at": "2026-09-12T00:51:50.303556+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:pdtpartners"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "PEAK6": {
+  "checked_at": "2026-09-12T00:46:20.339226+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 9
+ },
+ "Pico Quantitative Trading": {
+  "checked_at": "2026-09-12T00:49:06.488934+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:picoquantitativetrading"
+  ],
+  "status": "ok",
+  "tried": 3
+ },
+ "Point72": {
+  "checked_at": "2026-09-12T00:51:11.839673+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:point72"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Presto Labs": {
+  "checked_at": "2026-09-12T00:50:40.971429+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "lever:prestolabs"
+  ],
+  "status": "ok",
+  "tried": 5
+ },
+ "Prime Trading": {
+  "checked_at": "2026-09-12T00:47:47.673452+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Propex Derivatives": {
+  "checked_at": "2026-09-12T00:50:47.661238+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Quadeye Securities": {
+  "checked_at": "2026-09-12T00:47:32.432688+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Quant Capital": {
+  "checked_at": "2026-09-12T00:53:06.780565+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "QuantBox Research": {
+  "checked_at": "2026-09-12T00:51:53.573900+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Quantitative Systematic Strategies": {
+  "checked_at": "2026-09-12T00:49:57.657283+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Quantlab Financial": {
+  "checked_at": "2026-09-12T00:46:38.743014+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Qube RT Europe": {
+  "checked_at": "2026-09-12T00:49:57.627957+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Qube Research & Technologies": {
+  "checked_at": "2026-09-12T00:52:01.249415+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Radix Trading": {
+  "checked_at": "2026-09-12T00:46:13.323076+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "recruitee:radix"
+  ],
+  "status": "ok",
+  "tried": 14
+ },
+ "Renaissance Technologies": {
+  "checked_at": "2026-09-12T00:52:06.374679+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Rock Trading": {
+  "checked_at": "2026-09-12T00:48:39.436390+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "SMB Capital": {
+  "checked_at": "2026-09-12T00:52:02.814602+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Sacred Capital": {
+  "checked_at": "2026-09-12T00:51:33.557518+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Schonfeld Strategic Advisors": {
+  "checked_at": "2026-09-12T00:51:21.873664+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:schonfeld"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Scientific Trading": {
+  "checked_at": "2026-09-12T00:49:36.666284+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Sentosa Capital": {
+  "checked_at": "2026-09-12T00:50:53.944653+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Seven Eight Capital": {
+  "checked_at": "2026-09-12T00:49:26.847392+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Seven Points Capital": {
+  "checked_at": "2026-09-12T00:47:21.032416+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Simplex Trading": {
+  "checked_at": "2026-09-12T00:45:55.689578+00:00",
+  "method": "careers-page",
+  "sources": [
+   "greenhouse:simplextrading"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Spot Trading": {
+  "checked_at": "2026-09-12T00:47:16.126991+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Squarepoint Capital": {
+  "checked_at": "2026-09-12T00:51:28.556977+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:squarepointcapital"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Squarepoint India": {
+  "checked_at": "2026-09-12T00:51:21.900027+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Stevens Capital Management": {
+  "checked_at": "2026-09-12T00:49:03.962821+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Sumo Capital": {
+  "checked_at": "2026-09-12T00:50:47.655185+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Sun Trading Europe": {
+  "checked_at": "2026-09-12T00:50:29.770750+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Susquehanna International Group": {
+  "checked_at": "2026-09-12T00:46:20.237970+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "personio:sig"
+  ],
+  "status": "ok",
+  "tried": 21
+ },
+ "Susquehanna Pacific": {
+  "checked_at": "2026-09-12T00:48:10.318182+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Susquehanna Private Equity": {
+  "checked_at": "2026-09-12T00:49:08.527313+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Sussex Partners": {
+  "checked_at": "2026-09-12T00:50:07.076072+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "T3 Trading Group": {
+  "checked_at": "2026-09-12T00:47:55.319288+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "TGS Management": {
+  "checked_at": "2026-09-12T00:48:27.609692+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "recruitee:tgs"
+  ],
+  "status": "ok",
+  "tried": 15
+ },
+ "Talos Trading": {
+  "checked_at": "2026-09-12T00:47:26.055365+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "ashby:talos-trading"
+  ],
+  "status": "ok",
+  "tried": 7
+ },
+ "Taurus Trading": {
+  "checked_at": "2026-09-12T00:59:54.130081+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Teza Technologies": {
+  "checked_at": "2026-09-12T00:45:47.243828+00:00",
+  "method": "careers-page",
+  "sources": [
+   "ashby:teza-technologies"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Tibra Capital": {
+  "checked_at": "2026-09-12T00:47:28.441326+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Tibra Trading Europe": {
+  "checked_at": "2026-09-12T00:50:14.079614+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Tower Research Capital": {
+  "checked_at": "2026-09-12T00:45:35.125000+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:towerresearchcapital"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Tower Research Capital India": {
+  "checked_at": "2026-09-12T00:51:28.541597+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Tradebot Systems": {
+  "checked_at": "2026-09-12T00:46:41.176913+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Tradelink Securities": {
+  "checked_at": "2026-09-12T00:48:50.868620+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Tradition": {
+  "checked_at": "2026-09-12T00:50:02.905506+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "smartrecruiters:tradition"
+  ],
+  "status": "ok",
+  "tried": 8
+ },
+ "Traditum Group": {
+  "checked_at": "2026-09-12T00:48:29.663840+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "TransMarket Group": {
+  "checked_at": "2026-09-12T00:45:42.405828+00:00",
+  "method": "careers-page",
+  "sources": [
+   "greenhouse:transmarketgroup"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Tsagas Capital": {
+  "checked_at": "2026-09-12T00:49:27.216918+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Two Sigma": {
+  "checked_at": "2026-09-12T00:51:56.766639+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Tyler Capital": {
+  "checked_at": "2026-09-12T00:49:03.957182+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Valkyrie Trading": {
+  "checked_at": "2026-09-12T00:46:55.123439+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "lever:valkyrietrading"
+  ],
+  "status": "ok",
+  "tried": 4
+ },
+ "Vatic Labs": {
+  "checked_at": "2026-09-12T00:45:39.265450+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:vaticlabs"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
+ "Verition Fund Management": {
+  "checked_at": "2026-09-12T00:51:49.979936+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Virtu Financial": {
+  "checked_at": "2026-09-12T00:45:40.797232+00:00",
+  "method": "careers-page",
+  "sources": [
+   "greenhouse:virtu"
+  ],
+  "status": "ok",
+  "tried": 2
+ },
+ "Vivcourt Trading": {
+  "checked_at": "2026-09-12T00:50:09.100707+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:vivcourt"
+  ],
+  "status": "ok",
+  "tried": 2
+ },
+ "Vivienne Court Trading": {
+  "checked_at": "2026-09-12T00:47:00.371430+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "greenhouse:vivcourt"
+  ],
+  "status": "ok",
+  "tried": 3
+ },
+ "Vivienne Investissement": {
+  "checked_at": "2026-09-12T00:50:14.085350+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Volant Trading": {
+  "checked_at": "2026-09-12T00:46:45.514957+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "WH Trading": {
+  "checked_at": "2026-09-12T00:48:13.110126+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "Walleye Capital": {
+  "checked_at": "2026-09-12T00:51:56.308759+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Webb Traders": {
+  "checked_at": "2026-09-12T00:46:36.590664+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "recruitee:webbtraders"
+  ],
+  "status": "ok",
+  "tried": 10
+ },
+ "Wolverine Trading": {
+  "checked_at": "2026-09-12T00:46:35.897475+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "XR Trading": {
+  "checked_at": "2026-09-12T00:46:43.983774+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "XTX Markets": {
+  "checked_at": "2026-09-12T00:46:35.640366+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ },
+ "Zeta Markets": {
+  "checked_at": "2026-09-12T00:47:49.685026+00:00",
+  "method": "slug-guess",
+  "sources": [
+   "lever:zeta"
+  ],
+  "status": "ok",
+  "tried": 6
+ },
+ "Zeta Trading": {
+  "checked_at": "2026-09-12T00:50:38.911063+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
+ },
+ "iRage Capital": {
+  "checked_at": "2026-09-12T00:47:43.600475+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
+ }
+}
