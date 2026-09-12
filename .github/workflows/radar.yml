@@ -1,0 +1,97 @@
+name: radar
+
+on:
+  schedule:
+    # Every 4 hours, on the hour (UTC). GitHub's scheduler drifts under load;
+    # in practice runs land within ~5-15 min of the mark.
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+    inputs:
+      force_resolve:
+        description: "Re-probe every firm's ATS from scratch (slow)"
+        type: boolean
+        default: false
+      probe_budget:
+        description: "Max not-yet-known firms to discover this run (0 = unlimited)"
+        type: string
+        default: ""
+      no_email:
+        description: "Skip alerts for this run"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # commit state back
+  pages: write      # publish the site
+  id-token: write
+  issues: write     # open an Issue per batch of new postings (this is the alert)
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Sweep
+        env:
+          # Alerts go out as GitHub Issues by default - GITHUB_TOKEN is injected
+          # by Actions, is scoped to this repo only, and needs no setup. GitHub
+          # emails you about your own issues. SMTP below is optional.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO:   ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          SITE_URL:  ${{ vars.SITE_URL }}
+        run: |
+          python -m radar.main \
+            ${{ inputs.force_resolve && '--force-resolve' || '' }} \
+            ${{ inputs.no_email && '--no-email' || '' }} \
+            ${{ inputs.probe_budget && format('--probe-budget {0}', inputs.probe_budget) || '' }}
+
+      - name: Commit state
+        run: |
+          git config user.name  "radar[bot]"
+          git config user.email "radar@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "no state change"
+          else
+            MSG=$(jq -r '"radar: \(.live) live, \(.new_this_run) new, \(.closed_this_run) closed, \(.firms_swept) firms"' data/last_run.json)
+            git commit -m "$MSG"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "### Radar sweep" >> $GITHUB_STEP_SUMMARY
+          echo '```json' >> $GITHUB_STEP_SUMMARY
+          cat data/last_run.json >> $GITHUB_STEP_SUMMARY || true
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          echo "Site: ${{ steps.deploy.outputs.page_url }}" >> $GITHUB_STEP_SUMMARY

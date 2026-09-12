@@ -1,0 +1,8932 @@
+version: 1
+note: ats entries are HINTS probed first. The resolver validates every candidate and writes confirmed
+  sources to data/resolved.json. Add a firm by appending a block here; leave `ats` empty to let the resolver
+  discover it.
+firms:
+- name: Jane Street
+  category: prop
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  - nl
+  domain: janestreet.com
+  ats:
+  - html:https://www.janestreet.com/join-jane-street/open-roles/
+  slugs:
+  - janestreet
+  - jane-street
+- name: Citadel Securities
+  category: prop
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  - ie
+  domain: citadelsecurities.com
+  ats:
+  - html:https://www.citadelsecurities.com/careers/open-opportunities/
+  slugs:
+  - citadelsecurities
+  - citadel
+  - citadel-securities
+- name: Optiver
+  category: prop
+  regions:
+  - nl
+  - us
+  - au
+  - uk
+  - sg
+  - hk
+  - tw
+  - in
+  domain: optiver.com
+  ats:
+  - html:https://optiver.com/working-at-optiver/career-opportunities/
+  slugs:
+  - optiver
+  - optiverus
+- name: IMC Trading
+  category: prop
+  regions:
+  - nl
+  - us
+  - au
+  - in
+  - ch
+  domain: imc.com
+  ats:
+  - html:https://careers.imc.com/us/en/search-results
+  slugs:
+  - imc
+  - imctrading
+  - imc-trading
+- name: Susquehanna International Group
+  category: prop
+  regions:
+  - us
+  - ie
+  - au
+  - nl
+  - jp
+  - hk
+  - sg
+  domain: sig.com
+  ats:
+  - html:https://careers.sig.com/search-jobs
+  slugs:
+  - sig
+  - susquehanna
+  - susquehannainternationalgroup
+  - susquehannainternational
+  - susquehanna-international-group
+- name: Jump Trading
+  category: prop
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  - nl
+  domain: jumptrading.com
+  ats:
+  - greenhouse:jumptrading
+  slugs:
+  - jumptrading
+  - jump
+  - jump-trading
+- name: Hudson River Trading
+  category: prop
+  regions:
+  - us
+  - uk
+  - sg
+  - ie
+  - au
+  domain: hudsonrivertrading.com
+  ats:
+  - greenhouse:hrttalentcommunity
+  - html:https://www.hudsonrivertrading.com/careers/
+  slugs:
+  - hudsonrivertrading
+  - hrt
+  - wearehrt
+  - hudson-river-trading
+- name: DRW
+  category: prop
+  regions:
+  - us
+  - uk
+  - nl
+  - sg
+  - ca
+  domain: drw.com
+  ats:
+  - greenhouse:drweng
+  slugs:
+  - drw
+  - drwtrading
+  - drweng
+- name: Tower Research Capital
+  category: prop
+  regions:
+  - us
+  - uk
+  - sg
+  - in
+  - hk
+  domain: tower.com
+  ats:
+  - greenhouse:towerresearchcapital
+  slugs:
+  - tower
+  - towerresearch
+  - towerresearchcapital
+  - tower-research-capital
+- name: Flow Traders
+  category: prop
+  regions:
+  - nl
+  - us
+  - sg
+  - hk
+  - uk
+  domain: flowtraders.com
+  ats:
+  - greenhouse:flowtraders
+  slugs:
+  - flowtraders
+  - flow-traders
+- name: XTX Markets
+  category: prop
+  regions:
+  - uk
+  - sg
+  - us
+  - in
+  domain: xtx.com
+  ats:
+  - greenhouse:xtxmarkets
+  slugs:
+  - xtx
+  - xtxmarkets
+  - xtx-markets
+- name: Virtu Financial
+  category: prop
+  regions:
+  - us
+  - ie
+  - sg
+  - au
+  domain: virtu.com
+  ats:
+  - greenhouse:virtufinancial
+  slugs:
+  - virtu
+  - virtufinancial
+  - virtu-financial
+- name: Akuna Capital
+  category: prop
+  regions:
+  - us
+  - au
+  - cn
+  - uk
+  domain: akuna.com
+  ats:
+  - greenhouse:akunacapital
+  slugs:
+  - akuna
+  - akunacapital
+  - akuna-capital
+- name: Old Mission Capital
+  category: prop
+  regions:
+  - us
+  - uk
+  domain: oldmissioncapital.com
+  ats:
+  - greenhouse:oldmissioncapital
+  slugs:
+  - oldmission
+  - oldmissioncapital
+  - old-mission-capital
+- name: Wolverine Trading
+  category: prop
+  regions:
+  - us
+  domain: wolverine.com
+  ats: []
+  slugs:
+  - wolverine
+  - wolverinetrading
+  - wolverine-trading
+- name: Belvedere Trading
+  category: prop
+  regions:
+  - us
+  domain: belvedere.com
+  ats: []
+  slugs:
+  - belvedere
+  - belvederetrading
+  - belvedere-trading
+- name: PEAK6
+  category: prop
+  regions:
+  - us
+  - ie
+  - in
+  domain: peak6.com
+  ats:
+  - greenhouse:peak6
+  slugs:
+  - peak6
+- name: Chicago Trading Company
+  category: prop
+  regions:
+  - us
+  domain: chicagotrading.com
+  ats:
+  - greenhouse:chicagotradingcompany
+  slugs:
+  - ctc
+  - chicagotrading
+  - chicagotradingcompany
+  - chicago-trading-company
+- name: Group One Trading
+  category: prop
+  regions:
+  - us
+  domain: group1.com
+  ats: []
+  slugs:
+  - grouponetrading
+  - group1trading
+  - onetrading
+  - group-one-trading
+- name: Five Rings
+  category: prop
+  regions:
+  - us
+  - in
+  domain: fiveringsllc.com
+  ats:
+  - greenhouse:fiverings
+  slugs:
+  - fiverings
+  - fiveringsllc
+  - five-rings
+- name: Headlands Technologies
+  category: prop
+  regions:
+  - us
+  - uk
+  - sg
+  domain: headlandstech.com
+  ats:
+  - greenhouse:headlandstech
+  slugs:
+  - headlands
+  - headlandstech
+  - headlandstechnologies
+  - headlands-technologies
+- name: Radix Trading
+  category: prop
+  regions:
+  - us
+  - uk
+  domain: radix.com
+  ats:
+  - lever:radix
+  slugs:
+  - radix
+  - radixtrading
+  - radix-trading
+- name: Vatic Labs
+  category: prop
+  regions:
+  - us
+  - uk
+  domain: vatic.com
+  ats:
+  - greenhouse:vaticlabs
+  slugs:
+  - vatic
+  - vaticlabs
+  - vatic-labs
+- name: Quantlab Financial
+  category: prop
+  regions:
+  - us
+  - uk
+  - sg
+  domain: quantlab.com
+  ats:
+  - greenhouse:quantlab
+  slugs:
+  - quantlab
+  - quantlabfinancial
+  - quantlab-financial
+- name: TransMarket Group
+  category: prop
+  regions:
+  - us
+  - uk
+  - sg
+  domain: transmarketgroup.com
+  ats: []
+  slugs:
+  - transmarket
+  - transmarketgroup
+  - transmarket-group
+- name: Allston Trading
+  category: prop
+  regions:
+  - us
+  domain: allston.com
+  ats: []
+  slugs:
+  - allston
+  - allstontrading
+  - allston-trading
+- name: Teza Technologies
+  category: prop
+  regions:
+  - us
+  domain: teza.com
+  ats: []
+  slugs:
+  - teza
+  - tezatech
+  - tezatechnologies
+  - teza-technologies
+- name: Tradebot Systems
+  category: prop
+  regions:
+  - us
+  domain: tradebot.com
+  ats: []
+  slugs:
+  - tradebot
+  - tradebotsystems
+  - tradebot-systems
+- name: Geneva Trading
+  category: prop
+  regions:
+  - us
+  - ie
+  domain: genevatrading.com
+  ats:
+  - greenhouse:genevatrading
+  slugs:
+  - genevatrading
+  - geneva-trading
+- name: Eagle Seven
+  category: prop
+  regions:
+  - us
+  domain: eagleseven.com
+  ats: []
+  slugs:
+  - eagleseven
+  - eagle7
+  - eagle-seven
+- name: Marquette Partners
+  category: prop
+  regions:
+  - us
+  domain: marquettepartners.com
+  ats: []
+  slugs:
+  - marquettepartners
+  - marquette
+  - marquette-partners
+- name: Simplex Trading
+  category: prop
+  regions:
+  - us
+  domain: simplextrading.com
+  ats: []
+  slugs:
+  - simplextrading
+  - simplex-trading
+- name: XR Trading
+  category: prop
+  regions:
+  - us
+  domain: xrtrading.com
+  ats: []
+  slugs:
+  - xrtrading
+  - xr-trading
+- name: Volant Trading
+  category: prop
+  regions:
+  - us
+  domain: volanttrading.com
+  ats: []
+  slugs:
+  - volanttrading
+  - volant
+  - volant-trading
+- name: Maven Securities
+  category: prop
+  regions:
+  - uk
+  - hk
+  - sg
+  - us
+  domain: mavensecurities.com
+  ats:
+  - greenhouse:mavensecurities
+  slugs:
+  - maven
+  - mavensecurities
+  - maven-securities
+- name: Da Vinci Trading
+  category: prop
+  regions:
+  - nl
+  domain: davinciderivatives.com
+  ats:
+  - html:https://davinciderivatives.com/careers/
+  slugs:
+  - davincitrading
+  - davinciderivatives
+  - da-vinci-trading
+- name: All Options
+  category: prop
+  regions:
+  - nl
+  - us
+  domain: alloptions.nl
+  ats: []
+  slugs:
+  - alloptions
+  - all-options
+- name: Webb Traders
+  category: prop
+  regions:
+  - nl
+  domain: webbtraders.com
+  ats: []
+  slugs:
+  - webbtraders
+  - webb-traders
+- name: Amsterdam Trading Group
+  category: prop
+  regions:
+  - nl
+  domain: atg.nl
+  ats: []
+  slugs:
+  - amsterdamtradinggroup
+  - atg
+  - amsterdamtrading
+  - amsterdam-trading-group
+- name: Mako Trading
+  category: prop
+  regions:
+  - uk
+  - sg
+  domain: mako.com
+  ats: []
+  slugs:
+  - makotrading
+  - makoglobal
+  - mako-trading
+- name: Liquid Capital
+  category: prop
+  regions:
+  - uk
+  - au
+  - hk
+  domain: liquidcapitalgroup.com
+  ats: []
+  slugs:
+  - liquidcapital
+  - liquidcapitalgroup
+  - liquid
+  - liquid-capital
+- name: OSTC
+  category: prop
+  regions:
+  - uk
+  - pl
+  - in
+  domain: ostc.com
+  ats: []
+  slugs:
+  - ostc
+  - ostcltd
+- name: Cutler Group
+  category: prop
+  regions:
+  - us
+  domain: cutlergroup.com
+  ats: []
+  slugs:
+  - cutlergroup
+  - cutler
+  - cutler-group
+- name: Hehmeyer
+  category: prop
+  regions:
+  - us
+  - uk
+  domain: hehmeyer.com
+  ats: []
+  slugs:
+  - hehmeyer
+- name: Valkyrie Trading
+  category: prop
+  regions:
+  - us
+  domain: valkyrietrading.com
+  ats: []
+  slugs:
+  - valkyrietrading
+  - valkyrie-trading
+- name: Gelber Group
+  category: prop
+  regions:
+  - us
+  domain: gelbergroup.com
+  ats: []
+  slugs:
+  - gelbergroup
+  - gelber
+  - gelber-group
+- name: Kershner Trading Group
+  category: prop
+  regions:
+  - us
+  domain: kershnertrading.com
+  ats: []
+  slugs:
+  - kershnertrading
+  - kershner
+  - kershnertradinggroup
+  - kershner-trading-group
+- name: Seven Points Capital
+  category: prop
+  regions:
+  - us
+  domain: sevenpointscapital.com
+  ats: []
+  slugs:
+  - sevenpointscapital
+  - sevenpoints
+  - seven-points-capital
+- name: GTS
+  category: prop
+  regions:
+  - us
+  domain: gtsx.com
+  ats:
+  - greenhouse:gtsx
+  slugs:
+  - gts
+  - gtsx
+- name: Hap Capital
+  category: prop
+  regions:
+  - us
+  domain: hapcapital.com
+  ats: []
+  slugs:
+  - hapcapital
+  - hap
+  - hap-capital
+- name: Spot Trading
+  category: prop
+  regions:
+  - us
+  domain: spottrading.com
+  ats: []
+  slugs:
+  - spottrading
+  - spot-trading
+- name: Prime Trading
+  category: prop
+  regions:
+  - us
+  domain: primetrading.com
+  ats: []
+  slugs:
+  - primetrading
+  - prime-trading
+- name: Tibra Capital
+  category: prop
+  regions:
+  - au
+  - uk
+  domain: tibra.com
+  ats: []
+  slugs:
+  - tibra
+  - tibracapital
+  - tibra-capital
+- name: Vivienne Court Trading
+  category: prop
+  regions:
+  - au
+  domain: viviennecourt.com
+  ats: []
+  slugs:
+  - viviennecourt
+  - vivcourt
+  - viviennecourttrading
+  - vivienne-court-trading
+- name: Eclipse Options
+  category: prop
+  regions:
+  - au
+  domain: eclipseoptions.com
+  ats: []
+  slugs:
+  - eclipseoptions
+  - eclipse-options
+- name: Grasshopper Asia
+  category: prop
+  regions:
+  - sg
+  domain: grasshopper.com
+  ats: []
+  slugs:
+  - grasshopper
+  - grasshopperasia
+  - grasshopper-asia
+- name: Graviton Research Capital
+  category: prop
+  regions:
+  - in
+  domain: gravitontrading.com
+  ats: []
+  slugs:
+  - graviton
+  - gravitontrading
+  - gravitonresearchcapital
+  - gravitonresearch
+  - graviton-research-capital
+- name: AlphaGrep Securities
+  category: prop
+  regions:
+  - in
+  - sg
+  domain: alphagrep.com
+  ats: []
+  slugs:
+  - alphagrep
+  - alphagrepsecurities
+  - alphagrep-securities
+- name: Quadeye Securities
+  category: prop
+  regions:
+  - in
+  domain: quadeye.com
+  ats: []
+  slugs:
+  - quadeye
+  - quadeyesecurities
+  - quadeye-securities
+- name: iRage Capital
+  category: prop
+  regions:
+  - in
+  domain: irage.com
+  ats: []
+  slugs:
+  - irage
+  - iragecapital
+  - irage-capital
+- name: NK Securities Research
+  category: prop
+  regions:
+  - in
+  domain: nksecurities.com
+  ats: []
+  slugs:
+  - nksecurities
+  - nkrsec
+  - nksecuritiesresearch
+  - nkresearch
+  - nk-securities-research
+- name: Futures First
+  category: prop
+  regions:
+  - in
+  domain: futuresfirst.com
+  ats: []
+  slugs:
+  - futuresfirst
+  - futures-first
+- name: Estee Advisors
+  category: prop
+  regions:
+  - in
+  domain: esteeadvisors.com
+  ats: []
+  slugs:
+  - estee
+  - esteeadvisors
+  - estee-advisors
+- name: Dolat Capital
+  category: prop
+  regions:
+  - in
+  domain: dolatcapital.com
+  ats: []
+  slugs:
+  - dolatcapital
+  - dolat
+  - dolat-capital
+- name: QuantBox Research
+  category: prop
+  regions:
+  - in
+  domain: quantbox.com
+  ats: []
+  slugs:
+  - quantbox
+  - quantboxresearch
+  - quantbox-research
+- name: Open Futures
+  category: prop
+  regions:
+  - in
+  domain: openfutures.com
+  ats: []
+  slugs:
+  - openfutures
+  - open-futures
+- name: Aquatic Capital Management
+  category: prop
+  regions:
+  - us
+  domain: aquatic.com
+  ats:
+  - greenhouse:aquatic
+  slugs:
+  - aquatic
+  - aquaticcapital
+  - aquaticcapitalmanagement
+  - aquatic-capital-management
+- name: Talos Trading
+  category: prop
+  regions:
+  - us
+  domain: talostrading.com
+  ats: []
+  slugs:
+  - talostrading
+  - talos-trading
+- name: Matrix Executions
+  category: prop
+  regions:
+  - us
+  domain: matrixexecutions.com
+  ats: []
+  slugs:
+  - matrixexecutions
+  - matrix-executions
+- name: T3 Trading Group
+  category: prop
+  regions:
+  - us
+  domain: t3trading.com
+  ats: []
+  slugs:
+  - t3trading
+  - t3tradinggroup
+  - t3-trading-group
+- name: SMB Capital
+  category: prop
+  regions:
+  - us
+  domain: smbcapital.com
+  ats: []
+  slugs:
+  - smbcapital
+  - smbtraining
+  - smb
+  - smb-capital
+- name: Bluefin Companies
+  category: prop
+  regions:
+  - us
+  domain: bluefincompanies.com
+  ats: []
+  slugs:
+  - bluefincompanies
+  - bluefin
+  - bluefin-companies
+- name: Consolidated Trading
+  category: prop
+  regions:
+  - us
+  domain: consolidatedtrading.com
+  ats: []
+  slugs:
+  - consolidatedtrading
+  - consolidated-trading
+- name: Jane Capital Partners
+  category: prop
+  regions:
+  - us
+  domain: janecapital.com
+  ats: []
+  slugs:
+  - janecapital
+  - janecapitalpartners
+  - jane
+  - jane-capital-partners
+- name: Sumo Capital
+  category: prop
+  regions:
+  - us
+  domain: sumocapital.com
+  ats: []
+  slugs:
+  - sumocapital
+  - sumo
+  - sumo-capital
+- name: Optimal Trading
+  category: prop
+  regions:
+  - us
+  domain: optimaltrading.com
+  ats: []
+  slugs:
+  - optimaltrading
+  - optimal-trading
+- name: Nine Mile Financial
+  category: prop
+  regions:
+  - au
+  domain: ninemilefinancial.com
+  ats: []
+  slugs:
+  - ninemilefinancial
+  - nine-mile-financial
+- name: Zeta Markets
+  category: prop
+  regions:
+  - au
+  domain: zetamarkets.com
+  ats: []
+  slugs:
+  - zetamarkets
+  - zeta
+  - zeta-markets
+- name: Susquehanna Pacific
+  category: prop
+  regions:
+  - au
+  domain: sig.com
+  ats: []
+  slugs:
+  - susquehannapacific
+  - susquehanna-pacific
+- name: DV Trading
+  category: prop
+  regions:
+  - us
+  - ca
+  - uk
+  domain: dvtrading.com
+  ats: []
+  slugs:
+  - dvtrading
+  - dvtrading-llc
+  - dv-trading
+- name: Nico Trading
+  category: prop
+  regions:
+  - us
+  domain: nicotrading.com
+  ats: []
+  slugs:
+  - nicotrading
+  - nicoholdings
+  - nico-trading
+- name: WH Trading
+  category: prop
+  regions:
+  - us
+  domain: whtrading.com
+  ats: []
+  slugs:
+  - whtrading
+  - wh-trading
+- name: Ketchum Trading
+  category: prop
+  regions:
+  - us
+  domain: ketchumtrading.com
+  ats: []
+  slugs:
+  - ketchumtrading
+  - ketchum-trading
+- name: Great Point Capital
+  category: prop
+  regions:
+  - us
+  domain: greatpointcapital.com
+  ats: []
+  slugs:
+  - greatpointcapital
+  - greatpoint
+  - great-point-capital
+- name: 3Red Partners
+  category: prop
+  regions:
+  - us
+  domain: 3redpartners.com
+  ats: []
+  slugs:
+  - 3redpartners
+  - threeredpartners
+  - 3red
+  - 3red-partners
+- name: Traditum Group
+  category: prop
+  regions:
+  - us
+  domain: traditum.com
+  ats: []
+  slugs:
+  - traditum
+  - traditumgroup
+  - traditum-group
+- name: Optiver US
+  category: prop
+  regions:
+  - us
+  domain: optiverus.com
+  ats: []
+  slugs:
+  - optiverus
+  - optiver-us
+- name: Tradelink Securities
+  category: prop
+  regions:
+  - us
+  domain: tradelink.com
+  ats: []
+  slugs:
+  - tradelink
+  - tradelinksecurities
+  - tradelink-securities
+- name: CMT Group
+  category: prop
+  regions:
+  - us
+  domain: cmtgroup.com
+  ats: []
+  slugs:
+  - cmtgroup
+  - chicagomercantiletrading
+  - cmt
+  - cmt-group
+- name: Blue Capital Group
+  category: prop
+  regions:
+  - us
+  domain: bluecapitalgroup.com
+  ats: []
+  slugs:
+  - bluecapitalgroup
+  - blue
+  - blue-capital-group
+- name: Arb Trading Group
+  category: prop
+  regions:
+  - us
+  domain: arbtrading.com
+  ats: []
+  slugs:
+  - arbtrading
+  - arbtradinggroup
+  - arb-trading-group
+- name: Endeavour Trading
+  category: prop
+  regions:
+  - us
+  domain: endeavourtrading.com
+  ats: []
+  slugs:
+  - endeavourtrading
+  - endeavour-trading
+- name: Rock Trading
+  category: prop
+  regions:
+  - us
+  domain: rocktrading.com
+  ats: []
+  slugs:
+  - rocktrading
+  - rock-trading
+- name: TGS Management
+  category: prop
+  regions:
+  - us
+  domain: tgsmc.com
+  ats: []
+  slugs:
+  - tgsmanagement
+  - tgs
+  - tgs-management
+- name: Stevens Capital Management
+  category: prop
+  regions:
+  - us
+  domain: stevenscapital.com
+  ats: []
+  slugs:
+  - stevenscapital
+  - scm-lp
+  - stevenscapitalmanagement
+  - stevens
+  - stevens-capital-management
+- name: BlackEdge Capital
+  category: prop
+  regions:
+  - us
+  domain: blackedgecapital.com
+  ats: []
+  slugs:
+  - blackedgecapital
+  - blackedge
+  - blackedge-capital
+- name: Cheiron Trading
+  category: prop
+  regions:
+  - us
+  - sg
+  domain: cheirontrading.com
+  ats: []
+  slugs:
+  - cheirontrading
+  - cheiron-trading
+- name: Tyler Capital
+  category: prop
+  regions:
+  - us
+  - uk
+  domain: tylercapital.com
+  ats: []
+  slugs:
+  - tylercapital
+  - tyler
+  - tyler-capital
+- name: Convexity
+  category: prop
+  regions:
+  - us
+  domain: convexity.com
+  ats: []
+  slugs:
+  - convexity
+  - convexitycapital
+- name: Susquehanna Private Equity
+  category: prop
+  regions:
+  - us
+  domain: sig.com
+  ats: []
+  slugs:
+  - sigpe
+  - susquehannaprivateequity
+  - susquehanna-private-equity
+- name: Seven Eight Capital
+  category: prop
+  regions:
+  - us
+  domain: seveneightcapital.com
+  ats: []
+  slugs:
+  - seveneightcapital
+  - seveneight
+  - seven-eight-capital
+- name: Tsagas Capital
+  category: prop
+  regions:
+  - us
+  domain: tsagascapital.com
+  ats: []
+  slugs:
+  - tsagascapital
+  - tsagas
+  - tsagas-capital
+- name: PDT Capital
+  category: prop
+  regions:
+  - us
+  domain: pdtcapital.com
+  ats: []
+  slugs:
+  - pdtcapital
+  - pdt
+  - pdt-capital
+- name: Beacon Platform
+  category: prop
+  regions:
+  - us
+  - uk
+  domain: beaconplatform.com
+  ats:
+  - greenhouse:beaconplatform
+  slugs:
+  - beaconplatform
+  - beacon
+  - beacon-platform
+- name: Domeyard
+  category: prop
+  regions:
+  - us
+  domain: domeyard.com
+  ats: []
+  slugs:
+  - domeyard
+- name: Pico Quantitative Trading
+  category: prop
+  regions:
+  - us
+  domain: picotrading.com
+  ats: []
+  slugs:
+  - picotrading
+  - picoquantitativetrading
+  - pico-quantitative-trading
+- name: Jane Street Capital Asia
+  category: prop
+  regions:
+  - hk
+  domain: janestreetasia.com
+  ats: []
+  slugs:
+  - janestreetasia
+  - janestreetcapitalasia
+  - jane-street-capital-asia
+- name: Optiver Europe
+  category: prop
+  regions:
+  - nl
+  domain: optivereurope.com
+  ats: []
+  slugs:
+  - optivereurope
+  - optiver-europe
+- name: Mint Tower Capital Management
+  category: prop
+  regions:
+  - nl
+  domain: minttower.com
+  ats: []
+  slugs:
+  - minttower
+  - minttowercapitalmanagement
+  - mint-tower-capital-management
+- name: Scientific Trading
+  category: prop
+  regions:
+  - nl
+  domain: scientifictrading.com
+  ats: []
+  slugs:
+  - scientifictrading
+  - scientific-trading
+- name: Nyenburgh Holding
+  category: prop
+  regions:
+  - nl
+  domain: nyenburgh.com
+  ats: []
+  slugs:
+  - nyenburgh
+  - nyenburghholding
+  - nyenburgh-holding
+- name: 360 Trading Networks
+  category: prop
+  regions:
+  - de
+  - in
+  domain: 360t.com
+  ats: []
+  slugs:
+  - 360t
+  - 360trading
+  - 360tradingnetworks
+  - 360-trading-networks
+- name: Tibra Trading Europe
+  category: prop
+  regions:
+  - uk
+  domain: tibraeurope.com
+  ats: []
+  slugs:
+  - tibraeurope
+  - tibratradingeurope
+  - tibra-trading-europe
+- name: Qube RT Europe
+  category: prop
+  regions:
+  - fr
+  domain: quberteurope.com
+  ats: []
+  slugs:
+  - quberteurope
+  - qube-rt-europe
+- name: ETS Trading
+  category: prop
+  regions:
+  - at
+  - de
+  domain: etstrading.com
+  ats: []
+  slugs:
+  - etstrading
+  - ets
+  - ets-trading
+- name: Quantitative Systematic Strategies
+  category: prop
+  regions:
+  - uk
+  domain: qssgroup.com
+  ats: []
+  slugs:
+  - qssgroup
+  - quantitativesystematicstrategies
+  - quantitative-systematic-strategies
+- name: Bluecrest Capital Management
+  category: prop
+  regions:
+  - uk
+  - us
+  - ch
+  - sg
+  domain: bluecrest.com
+  ats: []
+  slugs:
+  - bluecrest
+  - bluecrestcapital
+  - bluecrestcapitalmanagement
+  - bluecrest-capital-management
+- name: Millburn Ridgefield
+  category: prop
+  regions:
+  - us
+  domain: millburn.com
+  ats: []
+  slugs:
+  - millburn
+  - millburnridgefield
+  - millburn-ridgefield
+- name: Sussex Partners
+  category: prop
+  regions:
+  - uk
+  domain: sussexpartners.com
+  ats: []
+  slugs:
+  - sussexpartners
+  - sussex
+  - sussex-partners
+- name: Marex Solutions
+  category: prop
+  regions:
+  - uk
+  domain: marexsolutions.com
+  ats: []
+  slugs:
+  - marexsolutions
+  - marex-solutions
+- name: Vivienne Investissement
+  category: prop
+  regions:
+  - fr
+  domain: vivienneinvestissement.com
+  ats: []
+  slugs:
+  - vivienneinvestissement
+  - vivienne-investissement
+- name: Sun Trading Europe
+  category: prop
+  regions:
+  - uk
+  domain: suntradingeurope.com
+  ats: []
+  slugs:
+  - suntradingeurope
+  - sun-trading-europe
+- name: Tradition
+  category: prop
+  regions:
+  - ch
+  - uk
+  - us
+  - sg
+  domain: tradition.com
+  ats: []
+  slugs:
+  - tradition
+  - tradition-group
+- name: Ardea Partners
+  category: prop
+  regions:
+  - us
+  - uk
+  domain: ardeapartners.com
+  ats: []
+  slugs:
+  - ardeapartners
+  - ardea
+  - ardea-partners
+- name: Optiver Asia Pacific
+  category: prop
+  regions:
+  - au
+  - hk
+  - sg
+  - tw
+  domain: optiverapac.com
+  ats: []
+  slugs:
+  - optiverapac
+  - optiverasiapacific
+  - optiver-asia-pacific
+- name: Vivcourt Trading
+  category: prop
+  regions:
+  - au
+  domain: vivcourt.com
+  ats: []
+  slugs:
+  - vivcourt
+  - vivcourttrading
+  - vivcourt-trading
+- name: Akuna Capital Sydney
+  category: prop
+  regions:
+  - au
+  domain: akunasydney.com
+  ats: []
+  slugs:
+  - akunasydney
+  - akunacapitalsydney
+  - akuna-capital-sydney
+- name: Zeta Trading
+  category: prop
+  regions:
+  - au
+  domain: zetatrading.com
+  ats: []
+  slugs:
+  - zetatrading
+  - zeta-trading
+- name: Propex Derivatives
+  category: prop
+  regions:
+  - au
+  domain: propex.com
+  ats: []
+  slugs:
+  - propex
+  - propexderivatives
+  - propex-derivatives
+- name: Blackcore Trading
+  category: prop
+  regions:
+  - au
+  domain: blackcoretrading.com
+  ats: []
+  slugs:
+  - blackcoretrading
+  - blackcore-trading
+- name: IMC Asia Pacific
+  category: prop
+  regions:
+  - sg
+  - hk
+  domain: imcapac.com
+  ats: []
+  slugs:
+  - imcapac
+  - imcasiapacific
+  - imc-asia-pacific
+- name: Grasshopper Trading
+  category: prop
+  regions:
+  - sg
+  domain: grasshoppertrading.com
+  ats: []
+  slugs:
+  - grasshoppertrading
+  - grasshopper-trading
+- name: Sentosa Capital
+  category: prop
+  regions:
+  - sg
+  domain: sentosacapital.com
+  ats: []
+  slugs:
+  - sentosacapital
+  - sentosa
+  - sentosa-capital
+- name: Taurus Trading
+  category: prop
+  regions:
+  - sg
+  domain: taurustrading.com
+  ats: []
+  slugs:
+  - taurustrading
+  - taurus-trading
+- name: Kronos Research
+  category: prop
+  regions:
+  - tw
+  - sg
+  domain: kronosresearch.com
+  ats: []
+  slugs:
+  - kronosresearch
+  - kronos
+  - kronos-research
+- name: Presto Labs
+  category: prop
+  regions:
+  - kr
+  - sg
+  domain: prestolabs.com
+  ats: []
+  slugs:
+  - prestolabs
+  - presto
+  - presto-labs
+- name: Nine Mile Trading
+  category: prop
+  regions:
+  - au
+  domain: ninemiletrading.com
+  ats: []
+  slugs:
+  - ninemiletrading
+  - nine-mile-trading
+- name: Tower Research Capital India
+  category: prop
+  regions:
+  - in
+  domain: towerresearchindia.com
+  ats: []
+  slugs:
+  - towerresearchindia
+  - towerresearchcapitalindia
+  - tower-research-capital-india
+- name: Squarepoint India
+  category: prop
+  regions:
+  - in
+  domain: squarepointindia.com
+  ats: []
+  slugs:
+  - squarepointindia
+  - squarepoint-india
+- name: Mansa Capital
+  category: prop
+  regions:
+  - in
+  domain: mansacapital.com
+  ats: []
+  slugs:
+  - mansacapital
+  - mansa
+  - mansa-capital
+- name: Quant Capital
+  category: prop
+  regions:
+  - in
+  domain: quantcapital.com
+  ats: []
+  slugs:
+  - quantcapital
+  - quant
+  - quant-capital
+- name: Hillroute Capital
+  category: prop
+  regions:
+  - in
+  - ae
+  domain: hillroute.com
+  ats: []
+  slugs:
+  - hillroute
+  - hillroutecapital
+  - hillroute-capital
+- name: Sacred Capital
+  category: prop
+  regions:
+  - in
+  domain: sacredcapital.com
+  ats: []
+  slugs:
+  - sacredcapital
+  - sacred
+  - sacred-capital
+- name: Citadel
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  - ie
+  domain: citadel.com
+  ats:
+  - html:https://www.citadel.com/careers/open-opportunities/
+  slugs:
+  - citadel
+  - citadelllc
+- name: Millennium Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  - il
+  domain: mlp.com
+  ats:
+  - greenhouse:millennium
+  slugs:
+  - millennium
+  - mlp
+  - millenniummanagement
+  - millennium-management
+- name: Point72
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  - jp
+  domain: point72.com
+  ats:
+  - greenhouse:point72
+  slugs:
+  - point72
+  - point72assetmanagement
+- name: Balyasny Asset Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  domain: bamfunds.com
+  ats:
+  - greenhouse:balyasny
+  slugs:
+  - balyasny
+  - bamfunds
+  - balyasnyassetmanagement
+  - balyasny-asset-management
+- name: ExodusPoint Capital
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  domain: exoduspoint.com
+  ats:
+  - greenhouse:exoduspoint
+  slugs:
+  - exoduspoint
+  - exoduspointcapital
+  - exoduspoint-capital
+- name: Schonfeld Strategic Advisors
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  domain: schonfeld.com
+  ats:
+  - greenhouse:schonfeld
+  slugs:
+  - schonfeld
+  - schonfeldstrategicadvisors
+  - schonfeldstrategic
+  - schonfeld-strategic-advisors
+- name: Verition Fund Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  domain: verition.com
+  ats:
+  - greenhouse:verition
+  slugs:
+  - verition
+  - veritionfundmanagement
+  - verition-fund-management
+- name: Walleye Capital
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  domain: walleye.com
+  ats:
+  - greenhouse:walleyecapital
+  slugs:
+  - walleye
+  - walleyecapital
+  - walleye-capital
+- name: Squarepoint Capital
+  category: fund
+  regions:
+  - us
+  - uk
+  - fr
+  - sg
+  - hk
+  - in
+  domain: squarepoint-capital.com
+  ats:
+  - greenhouse:squarepointcapital
+  slugs:
+  - squarepoint
+  - squarepointcapital
+  - squarepoint-capital
+- name: Qube Research & Technologies
+  category: fund
+  regions:
+  - uk
+  - us
+  - sg
+  - hk
+  - in
+  domain: qube-rt.com
+  ats:
+  - greenhouse:qube
+  slugs:
+  - qube
+  - quberesearch
+  - qrt
+  - quberesearchandtechnologies
+  - qube-research-technologies
+- name: Man Group
+  category: fund
+  regions:
+  - uk
+  - us
+  - ch
+  - hk
+  - sg
+  domain: man.com
+  ats:
+  - workday:mangroup
+  slugs:
+  - mangroup
+  - manahl
+  - man
+  - man-group
+- name: Two Sigma
+  category: fund
+  regions:
+  - us
+  - uk
+  - jp
+  - hk
+  domain: twosigma.com
+  ats:
+  - greenhouse:twosigma
+  slugs:
+  - twosigma
+  - two-sigma
+- name: D. E. Shaw & Co.
+  category: fund
+  regions:
+  - us
+  - uk
+  - in
+  - hk
+  domain: deshaw.com
+  ats:
+  - html:https://www.deshaw.com/careers
+  slugs:
+  - deshaw
+  - deshawgroup
+  - deshawandco
+  - d-e-shaw-co
+- name: Renaissance Technologies
+  category: fund
+  regions:
+  - us
+  domain: rentec.com
+  ats: []
+  slugs:
+  - renaissancetechnologies
+  - rentec
+  - renaissance
+  - renaissance-technologies
+- name: AQR Capital Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - de
+  - au
+  domain: aqr.com
+  ats:
+  - greenhouse:aqrcapitalmanagement
+  slugs:
+  - aqr
+  - aqrcapital
+  - aqrcapitalmanagement
+  - aqr-capital-management
+- name: Bridgewater Associates
+  category: fund
+  regions:
+  - us
+  - sg
+  domain: bridgewater.com
+  ats:
+  - greenhouse:bridgewater
+  slugs:
+  - bridgewater
+  - bridgewaterassociates
+  - bridgewater-associates
+- name: PDT Partners
+  category: fund
+  regions:
+  - us
+  domain: pdtpartners.com
+  ats:
+  - greenhouse:pdtpartners
+  slugs:
+  - pdtpartners
+  - pdt
+  - pdt-partners
+- name: The Voleon Group
+  category: fund
+  regions:
+  - us
+  domain: voleon.com
+  ats:
+  - greenhouse:voleon
+  slugs:
+  - voleon
+  - voleongroup
+  - thevoleongroup
+  - the-voleon-group
+- name: Marshall Wace
+  category: fund
+  regions:
+  - uk
+  - us
+  - hk
+  - sg
+  domain: mwam.com
+  ats:
+  - greenhouse:marshallwace
+  slugs:
+  - marshallwace
+  - marshall-wace
+- name: Brevan Howard
+  category: fund
+  regions:
+  - uk
+  - us
+  - ch
+  - sg
+  - ae
+  - il
+  domain: brevanhoward.com
+  ats:
+  - greenhouse:brevanhoward
+  slugs:
+  - brevanhoward
+  - brevan-howard
+- name: Rokos Capital Management
+  category: fund
+  regions:
+  - uk
+  - us
+  - sg
+  domain: rokoscapital.com
+  ats:
+  - greenhouse:rokoscapital
+  slugs:
+  - rokos
+  - rokoscapital
+  - rokoscapitalmanagement
+  - rokos-capital-management
+- name: Capula Investment Management
+  category: fund
+  regions:
+  - uk
+  - us
+  - jp
+  - sg
+  domain: capulaglobal.com
+  ats: []
+  slugs:
+  - capula
+  - capulaglobal
+  - capulainvestmentmanagement
+  - capula-investment-management
+- name: Eisler Capital
+  category: fund
+  regions:
+  - uk
+  - us
+  - sg
+  domain: eisler.com
+  ats:
+  - greenhouse:eislercapital
+  slugs:
+  - eisler
+  - eislercapital
+  - eisler-capital
+- name: Winton
+  category: fund
+  regions:
+  - uk
+  - us
+  - hk
+  - au
+  domain: winton.com
+  ats: []
+  slugs:
+  - winton
+  - wintoncapital
+- name: GSA Capital
+  category: fund
+  regions:
+  - uk
+  - us
+  domain: gsacapital.com
+  ats: []
+  slugs:
+  - gsacapital
+  - gsa
+  - gsa-capital
+- name: Aspect Capital
+  category: fund
+  regions:
+  - uk
+  - us
+  domain: aspectcapital.com
+  ats: []
+  slugs:
+  - aspectcapital
+  - aspect
+  - aspect-capital
+- name: Systematica Investments
+  category: fund
+  regions:
+  - ch
+  - uk
+  - us
+  - sg
+  domain: systematica.com
+  ats: []
+  slugs:
+  - systematica
+  - systematicainvestments
+  - systematica-investments
+- name: Florin Court Capital
+  category: fund
+  regions:
+  - uk
+  domain: florincourt.com
+  ats: []
+  slugs:
+  - florincourt
+  - florincourtcapital
+  - florin-court-capital
+- name: Quadrature Capital
+  category: fund
+  regions:
+  - uk
+  domain: quadrature.ai
+  ats:
+  - greenhouse:quadraturecapital
+  slugs:
+  - quadrature
+  - quadraturecapital
+  - quadrature-capital
+- name: G-Research
+  category: fund
+  regions:
+  - uk
+  - us
+  - ch
+  - tr
+  domain: gresearch.com
+  ats:
+  - html:https://www.gresearch.com/careers/
+  slugs:
+  - gresearch
+  - g-research
+- name: Trium Capital
+  category: fund
+  regions:
+  - uk
+  domain: triumcapital.com
+  ats: []
+  slugs:
+  - triumcapital
+  - trium
+  - trium-capital
+- name: Cheyne Capital
+  category: fund
+  regions:
+  - uk
+  domain: cheynecapital.com
+  ats: []
+  slugs:
+  - cheynecapital
+  - cheyne
+  - cheyne-capital
+- name: CQS
+  category: fund
+  regions:
+  - uk
+  - us
+  - hk
+  domain: cqs.com
+  ats: []
+  slugs:
+  - cqs
+  - cqsm
+- name: Lansdowne Partners
+  category: fund
+  regions:
+  - uk
+  domain: lansdownepartners.com
+  ats: []
+  slugs:
+  - lansdownepartners
+  - lansdowne
+  - lansdowne-partners
+- name: Sculptor Capital Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  domain: sculptorcapital.com
+  ats: []
+  slugs:
+  - sculptorcapital
+  - sculptor
+  - sculptorcapitalmanagement
+  - sculptor-capital-management
+- name: Elliott Investment Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  domain: elliott.com
+  ats:
+  - greenhouse:elliottmanagement
+  slugs:
+  - elliott
+  - elliottmanagement
+  - elliottinvestmentmanagement
+  - elliott-investment-management
+- name: Davidson Kempner
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  domain: davidsonkempner.com
+  ats: []
+  slugs:
+  - davidsonkempner
+  - dkpartners
+  - davidson-kempner
+- name: King Street Capital
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  domain: kingstreet.com
+  ats: []
+  slugs:
+  - kingstreet
+  - kingstreetcapital
+  - king-street-capital
+- name: Magnetar Capital
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: magnetar.com
+  ats:
+  - greenhouse:magnetar
+  slugs:
+  - magnetar
+  - magnetarcapital
+  - magnetar-capital
+- name: Garda Capital Partners
+  category: fund
+  regions:
+  - us
+  - ch
+  domain: gardacapital.com
+  ats: []
+  slugs:
+  - gardacapital
+  - garda
+  - gardacapitalpartners
+  - garda-capital-partners
+- name: LMR Partners
+  category: fund
+  regions:
+  - uk
+  - us
+  - hk
+  - ae
+  domain: lmrpartners.com
+  ats: []
+  slugs:
+  - lmrpartners
+  - lmr
+  - lmr-partners
+- name: Hudson Bay Capital
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: hudsonbaycapital.com
+  ats: []
+  slugs:
+  - hudsonbaycapital
+  - hudsonbay
+  - hudson-bay-capital
+- name: Alyeska Investment Group
+  category: fund
+  regions:
+  - us
+  domain: alyeska.com
+  ats: []
+  slugs:
+  - alyeska
+  - alyeskacapital
+  - alyeskainvestmentgroup
+  - alyeska-investment-group
+- name: Holocene Advisors
+  category: fund
+  regions:
+  - us
+  domain: holoceneadvisors.com
+  ats: []
+  slugs:
+  - holoceneadvisors
+  - holocene
+  - holocene-advisors
+- name: Woodline Partners
+  category: fund
+  regions:
+  - us
+  domain: woodlinepartners.com
+  ats: []
+  slugs:
+  - woodlinepartners
+  - woodline
+  - woodline-partners
+- name: Candlestick Capital
+  category: fund
+  regions:
+  - us
+  domain: candlestickcapital.com
+  ats: []
+  slugs:
+  - candlestickcapital
+  - candlestick
+  - candlestick-capital
+- name: Freestone Grove Partners
+  category: fund
+  regions:
+  - us
+  domain: freestonegrove.com
+  ats: []
+  slugs:
+  - freestonegrove
+  - freestonegrovepartners
+  - freestone-grove-partners
+- name: Jain Global
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  domain: jainglobal.com
+  ats:
+  - greenhouse:jainglobal
+  slugs:
+  - jainglobal
+  - jain
+  - jain-global
+- name: Bracebridge Capital
+  category: fund
+  regions:
+  - us
+  domain: bracebridgecapital.com
+  ats: []
+  slugs:
+  - bracebridgecapital
+  - bracebridge
+  - bracebridge-capital
+- name: Arrowstreet Capital
+  category: fund
+  regions:
+  - us
+  domain: arrowstreetcapital.com
+  ats:
+  - greenhouse:arrowstreetcapital
+  slugs:
+  - arrowstreet
+  - arrowstreetcapital
+  - arrowstreet-capital
+- name: Acadian Asset Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - au
+  - sg
+  - jp
+  domain: acadian-asset.com
+  ats: []
+  slugs:
+  - acadian
+  - acadianasset
+  - acadianassetmanagement
+  - acadian-asset-management
+- name: Dimensional Fund Advisors
+  category: fund
+  regions:
+  - us
+  - uk
+  - au
+  - sg
+  domain: dimensional.com
+  ats:
+  - workday:dimensional
+  slugs:
+  - dimensional
+  - dfa
+  - dimensionalfundadvisors
+  - dimensional-fund-advisors
+- name: Voloridge Investment Management
+  category: fund
+  regions:
+  - us
+  domain: voloridge.com
+  ats:
+  - greenhouse:voloridge
+  slugs:
+  - voloridge
+  - voloridgeinvestmentmanagement
+  - voloridge-investment-management
+- name: SurgoCap Partners
+  category: fund
+  regions:
+  - us
+  domain: surgocap.com
+  ats: []
+  slugs:
+  - surgocap
+  - surgocappartners
+  - surgocap-partners
+- name: Taula Capital
+  category: fund
+  regions:
+  - uk
+  domain: taulacapital.com
+  ats: []
+  slugs:
+  - taulacapital
+  - taula
+  - taula-capital
+- name: Ilex Capital Partners
+  category: fund
+  regions:
+  - uk
+  domain: ilexcapital.com
+  ats: []
+  slugs:
+  - ilexcapital
+  - ilexcapitalpartners
+  - ilex
+  - ilex-capital-partners
+- name: Diameter Capital Partners
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: diametercapital.com
+  ats: []
+  slugs:
+  - diametercapital
+  - diametercapitalpartners
+  - diameter
+  - diameter-capital-partners
+- name: Silver Point Capital
+  category: fund
+  regions:
+  - us
+  domain: silverpointcapital.com
+  ats: []
+  slugs:
+  - silverpointcapital
+  - silverpoint
+  - silver-point-capital
+- name: Marathon Asset Management
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: marathonassetmanagement.com
+  ats: []
+  slugs:
+  - marathonassetmanagement
+  - marathon
+  - marathon-asset-management
+- name: Fortress Investment Group
+  category: fund
+  regions:
+  - us
+  - uk
+  - jp
+  domain: fortress.com
+  ats: []
+  slugs:
+  - fortress
+  - fortressinvestment
+  - fortressinvestmentgroup
+  - fortress-investment-group
+- name: Cinctive Capital
+  category: fund
+  regions:
+  - us
+  domain: cinctivecapital.com
+  ats: []
+  slugs:
+  - cinctivecapital
+  - cinctive
+  - cinctive-capital
+- name: Tudor Investment Corporation
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  domain: tudor.com
+  ats: []
+  slugs:
+  - tudor
+  - tudorinvestment
+  - tudorinvestmentcorporation
+  - tudorcorporation
+  - tudor-investment-corporation
+- name: Moore Capital Management
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: moorecapital.com
+  ats: []
+  slugs:
+  - moorecapital
+  - moorecapitalmanagement
+  - moore
+  - moore-capital-management
+- name: Caxton Associates
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  domain: caxton.com
+  ats: []
+  slugs:
+  - caxton
+  - caxtonassociates
+  - caxton-associates
+- name: Element Capital Management
+  category: fund
+  regions:
+  - us
+  domain: elementcapital.com
+  ats: []
+  slugs:
+  - elementcapital
+  - elementcapitalmanagement
+  - element
+  - element-capital-management
+- name: Autonomy Capital
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: autonomycapital.com
+  ats: []
+  slugs:
+  - autonomycapital
+  - autonomy
+  - autonomy-capital
+- name: Alphadyne Asset Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  domain: alphadyne.com
+  ats: []
+  slugs:
+  - alphadyne
+  - alphadyneassetmanagement
+  - alphadyne-asset-management
+- name: Kirkoswald Asset Management
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: kirkoswald.com
+  ats: []
+  slugs:
+  - kirkoswald
+  - kirkoswaldassetmanagement
+  - kirkoswald-asset-management
+- name: Symmetry Investments
+  category: fund
+  regions:
+  - hk
+  - uk
+  - us
+  - sg
+  domain: symmetryinvestments.com
+  ats: []
+  slugs:
+  - symmetryinvestments
+  - symmetry
+  - symmetry-investments
+- name: Modular Asset Management
+  category: fund
+  regions:
+  - sg
+  domain: modularasset.com
+  ats: []
+  slugs:
+  - modularasset
+  - modularassetmanagement
+  - modular
+  - modular-asset-management
+- name: Dymon Asia Capital
+  category: fund
+  regions:
+  - sg
+  - hk
+  domain: dymonasia.com
+  ats: []
+  slugs:
+  - dymonasia
+  - dymon
+  - dymonasiacapital
+  - dymon-asia-capital
+- name: Quantedge Capital
+  category: fund
+  regions:
+  - sg
+  - us
+  domain: quantedge.com
+  ats: []
+  slugs:
+  - quantedge
+  - quantedgecapital
+  - quantedge-capital
+- name: Pinpoint Asset Management
+  category: fund
+  regions:
+  - hk
+  - cn
+  domain: pinpointasset.com
+  ats: []
+  slugs:
+  - pinpointasset
+  - pinpointassetmanagement
+  - pinpoint
+  - pinpoint-asset-management
+- name: Polymer Capital Management
+  category: fund
+  regions:
+  - hk
+  - sg
+  domain: polymercapital.com
+  ats: []
+  slugs:
+  - polymercapital
+  - polymercapitalmanagement
+  - polymer
+  - polymer-capital-management
+- name: Triata Capital
+  category: fund
+  regions:
+  - hk
+  domain: triatacapital.com
+  ats: []
+  slugs:
+  - triatacapital
+  - triata
+  - triata-capital
+- name: FengHe Fund Management
+  category: fund
+  regions:
+  - sg
+  - hk
+  domain: fenghefund.com
+  ats: []
+  slugs:
+  - fenghefund
+  - fenghefundmanagement
+  - fenghe
+  - fenghe-fund-management
+- name: Aspex Management
+  category: fund
+  regions:
+  - hk
+  domain: aspexmanagement.com
+  ats: []
+  slugs:
+  - aspexmanagement
+  - aspex
+  - aspex-management
+- name: Hillhouse Investment
+  category: fund
+  regions:
+  - sg
+  - hk
+  - cn
+  - us
+  domain: hillhouse.com
+  ats: []
+  slugs:
+  - hillhouse
+  - hillhousecapital
+  - hillhouseinvestment
+  - hillhouse-investment
+- name: Myriad Asset Management
+  category: fund
+  regions:
+  - hk
+  domain: myriadasset.com
+  ats: []
+  slugs:
+  - myriadasset
+  - myriadassetmanagement
+  - myriad
+  - myriad-asset-management
+- name: Tybourne Capital
+  category: fund
+  regions:
+  - hk
+  domain: tybournecapital.com
+  ats: []
+  slugs:
+  - tybournecapital
+  - tybourne
+  - tybourne-capital
+- name: Oasis Management
+  category: fund
+  regions:
+  - hk
+  - jp
+  domain: oasiscapital.com
+  ats: []
+  slugs:
+  - oasiscapital
+  - oasismanagement
+  - oasis
+  - oasis-management
+- name: Indus Capital Partners
+  category: fund
+  regions:
+  - us
+  - hk
+  - jp
+  domain: induscapital.com
+  ats: []
+  slugs:
+  - induscapital
+  - induscapitalpartners
+  - indus
+  - indus-capital-partners
+- name: Coatue Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  domain: coatue.com
+  ats:
+  - greenhouse:coatue
+  slugs:
+  - coatue
+  - coatuemanagement
+  - coatue-management
+- name: Tiger Global Management
+  category: fund
+  regions:
+  - us
+  domain: tigerglobal.com
+  ats: []
+  slugs:
+  - tigerglobal
+  - tigerglobalmanagement
+  - tiger
+  - tiger-global-management
+- name: Viking Global Investors
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  domain: vikingglobal.com
+  ats: []
+  slugs:
+  - vikingglobal
+  - vikingglobalinvestors
+  - vikinginvestors
+  - viking-global-investors
+- name: Lone Pine Capital
+  category: fund
+  regions:
+  - us
+  domain: lonepinecapital.com
+  ats: []
+  slugs:
+  - lonepinecapital
+  - lonepine
+  - lone-pine-capital
+- name: Maverick Capital
+  category: fund
+  regions:
+  - us
+  domain: maverickcapital.com
+  ats: []
+  slugs:
+  - maverickcapital
+  - maverick
+  - maverick-capital
+- name: Third Point
+  category: fund
+  regions:
+  - us
+  domain: thirdpoint.com
+  ats: []
+  slugs:
+  - thirdpoint
+  - thirdpointllc
+  - third-point
+- name: Farallon Capital Management
+  category: fund
+  regions:
+  - us
+  - sg
+  - hk
+  domain: farallon.com
+  ats: []
+  slugs:
+  - farallon
+  - faralloncapital
+  - faralloncapitalmanagement
+  - farallon-capital-management
+- name: Angelo Gordon
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  domain: angelogordon.com
+  ats: []
+  slugs:
+  - angelogordon
+  - angelo-gordon
+- name: Anchorage Capital Group
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: anchoragecapital.com
+  ats: []
+  slugs:
+  - anchoragecapital
+  - anchoragecapitalgroup
+  - anchorage
+  - anchorage-capital-group
+- name: Blue Owl Capital
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  domain: blueowl.com
+  ats:
+  - greenhouse:blueowlcapital
+  slugs:
+  - blueowl
+  - blueowlcapital
+  - blue-owl-capital
+- name: Sixth Street
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  domain: sixthstreet.com
+  ats:
+  - greenhouse:sixthstreet
+  slugs:
+  - sixthstreet
+  - sixth-street
+- name: Blackstone
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  - in
+  domain: blackstone.com
+  ats:
+  - greenhouse:blackstone
+  slugs:
+  - blackstone
+- name: KKR
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  - jp
+  domain: kkr.com
+  ats:
+  - workday:kkr
+  slugs:
+  - kkr
+- name: Apollo Global Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  - in
+  domain: apollo.com
+  ats:
+  - workday:apollo
+  slugs:
+  - apollo
+  - apolloglobal
+  - apolloglobalmanagement
+  - apollo-global-management
+- name: The Carlyle Group
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  - jp
+  domain: carlyle.com
+  ats:
+  - workday:carlyle
+  slugs:
+  - carlyle
+  - carlylegroup
+  - thecarlylegroup
+  - the-carlyle-group
+- name: Ares Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  domain: ares.com
+  ats:
+  - workday:ares
+  slugs:
+  - ares
+  - aresmgmt
+  - aresmanagement
+  - ares-management
+- name: TPG
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  domain: tpg.com
+  ats:
+  - greenhouse:tpg
+  slugs:
+  - tpg
+  - tpginc
+- name: Brookfield Asset Management
+  category: fund
+  regions:
+  - ca
+  - us
+  - uk
+  - au
+  - in
+  domain: brookfield.com
+  ats:
+  - workday:brookfield
+  slugs:
+  - brookfield
+  - brookfieldassetmanagement
+  - brookfield-asset-management
+- name: Oaktree Capital Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  domain: oaktree.com
+  ats:
+  - workday:oaktree
+  slugs:
+  - oaktree
+  - oaktreecapital
+  - oaktreecapitalmanagement
+  - oaktree-capital-management
+- name: PIMCO
+  category: fund
+  regions:
+  - us
+  - uk
+  - de
+  - sg
+  - hk
+  - jp
+  domain: pimco.com
+  ats:
+  - workday:pimco
+  slugs:
+  - pimco
+- name: BlackRock
+  category: fund
+  regions:
+  - us
+  - uk
+  - de
+  - sg
+  - hk
+  - in
+  domain: blackrock.com
+  ats:
+  - workday:blackrock
+  slugs:
+  - blackrock
+- name: Vanguard
+  category: fund
+  regions:
+  - us
+  - uk
+  - au
+  domain: vanguard.com
+  ats:
+  - workday:vanguard
+  slugs:
+  - vanguard
+- name: State Street
+  category: fund
+  regions:
+  - us
+  - uk
+  - ie
+  - pl
+  - in
+  domain: statestreet.com
+  ats:
+  - workday:statestreet
+  slugs:
+  - statestreet
+  - state-street
+- name: Fidelity Investments
+  category: fund
+  regions:
+  - us
+  - ie
+  - in
+  domain: fidelity.com
+  ats:
+  - workday:fidelity
+  slugs:
+  - fidelity
+  - fidelityinvestments
+  - fidelity-investments
+- name: Fidelity International
+  category: fund
+  regions:
+  - uk
+  - cn
+  - jp
+  - in
+  domain: fidelityinternational.com
+  ats: []
+  slugs:
+  - fidelityinternational
+  - fil
+  - fidelity-international
+- name: Wellington Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  - jp
+  domain: wellington.com
+  ats:
+  - workday:wellington
+  slugs:
+  - wellington
+  - wellingtonmanagement
+  - wellington-management
+- name: T. Rowe Price
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  - jp
+  domain: troweprice.com
+  ats:
+  - workday:troweprice
+  slugs:
+  - troweprice
+  - trowe
+  - t-rowe-price
+- name: Capital Group
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  - in
+  domain: capitalgroup.com
+  ats:
+  - workday:capitalgroup
+  slugs:
+  - capitalgroup
+  - capital-group
+- name: Invesco
+  category: fund
+  regions:
+  - us
+  - uk
+  - de
+  - hk
+  - sg
+  - in
+  domain: invesco.com
+  ats:
+  - workday:invesco
+  slugs:
+  - invesco
+- name: Janus Henderson
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  domain: janushenderson.com
+  ats:
+  - workday:janushenderson
+  slugs:
+  - janushenderson
+  - janus-henderson
+- name: Schroders
+  category: fund
+  regions:
+  - uk
+  - sg
+  - hk
+  - ch
+  domain: schroders.com
+  ats:
+  - workday:schroders
+  slugs:
+  - schroders
+- name: Amundi
+  category: fund
+  regions:
+  - fr
+  - uk
+  - it
+  - sg
+  domain: amundi.com
+  ats: []
+  slugs:
+  - amundi
+- name: AXA Investment Managers
+  category: fund
+  regions:
+  - fr
+  - uk
+  - de
+  - jp
+  domain: axa-im.com
+  ats: []
+  slugs:
+  - axaim
+  - axa
+  - axainvestmentmanagers
+  - axamanagers
+  - axa-investment-managers
+- name: Legal & General Investment Management
+  category: fund
+  regions:
+  - uk
+  - us
+  domain: lgim.com
+  ats: []
+  slugs:
+  - lgim
+  - legalandgeneral
+  - legalandgeneralinvestmentmanagement
+  - legalgeneral
+  - legal-general-investment-management
+- name: abrdn
+  category: fund
+  regions:
+  - uk
+  - sg
+  - hk
+  domain: abrdn.com
+  ats: []
+  slugs:
+  - abrdn
+  - aberdeen
+- name: Baillie Gifford
+  category: fund
+  regions:
+  - uk
+  - us
+  domain: bailliegifford.com
+  ats: []
+  slugs:
+  - bailliegifford
+  - baillie-gifford
+- name: Neuberger Berman
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  - jp
+  domain: neubergerberman.com
+  ats:
+  - workday:neubergerberman
+  slugs:
+  - neubergerberman
+  - neuberger-berman
+- name: Nuveen
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: nuveen.com
+  ats: []
+  slugs:
+  - nuveen
+- name: MFS Investment Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  domain: mfs.com
+  ats: []
+  slugs:
+  - mfs
+  - mfsinvestment
+  - mfsinvestmentmanagement
+  - mfs-investment-management
+- name: GMO
+  category: fund
+  regions:
+  - us
+  - uk
+  - au
+  - sg
+  domain: gmo.com
+  ats: []
+  slugs:
+  - gmo
+  - gmollc
+- name: Robeco
+  category: fund
+  regions:
+  - nl
+  - ch
+  - hk
+  domain: robeco.com
+  ats: []
+  slugs:
+  - robeco
+- name: APG Asset Management
+  category: fund
+  regions:
+  - nl
+  - us
+  - hk
+  domain: apg.com
+  ats: []
+  slugs:
+  - apg
+  - apgassetmanagement
+  - apg-asset-management
+- name: PGGM
+  category: fund
+  regions:
+  - nl
+  domain: pggm.com
+  ats: []
+  slugs:
+  - pggm
+- name: Norges Bank Investment Management
+  category: fund
+  regions:
+  - 'no'
+  - uk
+  - us
+  - sg
+  domain: nbim.no
+  ats: []
+  slugs:
+  - nbim
+  - norgesbank
+  - norgesbankinvestmentmanagement
+  - norges-bank-investment-management
+- name: GIC
+  category: fund
+  regions:
+  - sg
+  - uk
+  - us
+  domain: gic.com
+  ats:
+  - workday:gic
+  slugs:
+  - gic
+- name: Temasek
+  category: fund
+  regions:
+  - sg
+  - us
+  - uk
+  - in
+  - cn
+  domain: temasek.com
+  ats: []
+  slugs:
+  - temasek
+- name: CPP Investments
+  category: fund
+  regions:
+  - ca
+  - uk
+  - us
+  - hk
+  - in
+  domain: cppinvestments.com
+  ats:
+  - workday:cppib
+  slugs:
+  - cppib
+  - cppinvestments
+  - cpp
+  - cpp-investments
+- name: OMERS
+  category: fund
+  regions:
+  - ca
+  - uk
+  - us
+  domain: omers.com
+  ats: []
+  slugs:
+  - omers
+- name: Ontario Teachers' Pension Plan
+  category: fund
+  regions:
+  - ca
+  - uk
+  - sg
+  domain: otpp.com
+  ats: []
+  slugs:
+  - otpp
+  - ontarioteachers
+  - ontarioteacherspensionplan
+  - ontario-teachers-pension-plan
+- name: PSP Investments
+  category: fund
+  regions:
+  - ca
+  - uk
+  domain: pspinvestments.com
+  ats: []
+  slugs:
+  - pspinvestments
+  - psp
+  - psp-investments
+- name: CDPQ
+  category: fund
+  regions:
+  - ca
+  - us
+  - sg
+  domain: cdpq.com
+  ats: []
+  slugs:
+  - cdpq
+- name: Mubadala
+  category: fund
+  regions:
+  - ae
+  - us
+  - uk
+  domain: mubadala.com
+  ats: []
+  slugs:
+  - mubadala
+- name: ADIA
+  category: fund
+  regions:
+  - ae
+  domain: adia.com
+  ats: []
+  slugs:
+  - adia
+- name: PIF
+  category: fund
+  regions:
+  - sa
+  domain: pif.com
+  ats: []
+  slugs:
+  - pif
+  - publicinvestmentfund
+- name: QIA
+  category: fund
+  regions:
+  - qa
+  domain: qia.com
+  ats: []
+  slugs:
+  - qia
+  - qatarinvestmentauthority
+- name: Trexquant Investment
+  category: fund
+  regions:
+  - us
+  domain: trexquant.com
+  ats: []
+  slugs:
+  - trexquant
+  - trexquantinvestment
+  - trexquant-investment
+- name: WorldQuant
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  - in
+  - vn
+  - ru
+  domain: worldquant.com
+  ats:
+  - greenhouse:worldquant
+  slugs:
+  - worldquant
+- name: Numerai
+  category: fund
+  regions:
+  - us
+  domain: numerai.com
+  ats: []
+  slugs:
+  - numerai
+- name: Laurion Capital Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  domain: laurioncapital.com
+  ats: []
+  slugs:
+  - laurioncapital
+  - laurioncapitalmanagement
+  - laurion
+  - laurion-capital-management
+- name: Cubist Systematic Strategies
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  domain: point72.com
+  ats: []
+  slugs:
+  - cubistsystematic
+  - cubist
+  - cubistsystematicstrategies
+  - cubist-systematic-strategies
+- name: Kadensa Capital
+  category: fund
+  regions:
+  - hk
+  domain: kadensacapital.com
+  ats: []
+  slugs:
+  - kadensacapital
+  - kadensa
+  - kadensa-capital
+- name: Ovata Capital Management
+  category: fund
+  regions:
+  - hk
+  domain: ovatacapital.com
+  ats: []
+  slugs:
+  - ovatacapital
+  - ovatacapitalmanagement
+  - ovata
+  - ovata-capital-management
+- name: Segantii Capital Management
+  category: fund
+  regions:
+  - hk
+  domain: segantii.com
+  ats: []
+  slugs:
+  - segantii
+  - segantiicapitalmanagement
+  - segantii-capital-management
+- name: First Quadrant
+  category: fund
+  regions:
+  - us
+  domain: firstquadrant.com
+  ats: []
+  slugs:
+  - firstquadrant
+  - first-quadrant
+- name: Research Affiliates
+  category: fund
+  regions:
+  - us
+  domain: researchaffiliates.com
+  ats: []
+  slugs:
+  - researchaffiliates
+  - research-affiliates
+- name: Los Angeles Capital Management
+  category: fund
+  regions:
+  - us
+  domain: lacapm.com
+  ats: []
+  slugs:
+  - lacapm
+  - losangelescapital
+  - losangelescapitalmanagement
+  - losangeles
+  - los-angeles-capital-management
+- name: Martingale Asset Management
+  category: fund
+  regions:
+  - us
+  domain: martingale.com
+  ats: []
+  slugs:
+  - martingale
+  - martingaleassetmanagement
+  - martingale-asset-management
+- name: Parametric Portfolio Associates
+  category: fund
+  regions:
+  - us
+  domain: parametric.com
+  ats: []
+  slugs:
+  - parametric
+  - parametricportfolio
+  - parametricportfolioassociates
+  - parametric-portfolio-associates
+- name: Crabel Capital Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - jp
+  domain: crabel.com
+  ats: []
+  slugs:
+  - crabel
+  - crabelcapital
+  - crabelcapitalmanagement
+  - crabel-capital-management
+- name: Graham Capital Management
+  category: fund
+  regions:
+  - us
+  domain: grahamcapital.com
+  ats: []
+  slugs:
+  - grahamcapital
+  - grahamcm
+  - grahamcapitalmanagement
+  - graham
+  - graham-capital-management
+- name: Campbell & Company
+  category: fund
+  regions:
+  - us
+  domain: campbell.com
+  ats: []
+  slugs:
+  - campbellandcompany
+  - campbellco
+  - campbell
+  - campbell-company
+- name: Quantitative Investment Management
+  category: fund
+  regions:
+  - us
+  domain: qimnet.com
+  ats: []
+  slugs:
+  - qiminvest
+  - qim
+  - quantitativeinvestmentmanagement
+  - quantitative
+  - quantitative-investment-management
+- name: ISAM
+  category: fund
+  regions:
+  - uk
+  - us
+  domain: isam.com
+  ats: []
+  slugs:
+  - isam
+  - isamfunds
+- name: Transtrend
+  category: fund
+  regions:
+  - nl
+  domain: transtrend.com
+  ats: []
+  slugs:
+  - transtrend
+- name: Lynx Asset Management
+  category: fund
+  regions:
+  - se
+  - uk
+  domain: lynxhedge.se
+  ats: []
+  slugs:
+  - lynxassetmanagement
+  - lynxhedge
+  - lynx
+  - lynx-asset-management
+- name: Brummer & Partners
+  category: fund
+  regions:
+  - se
+  - uk
+  - sg
+  domain: brummer.se
+  ats: []
+  slugs:
+  - brummer
+  - brummerandpartners
+  - brummer-partners
+- name: RPM Risk & Portfolio Management
+  category: fund
+  regions:
+  - se
+  domain: rpm.se
+  ats: []
+  slugs:
+  - rpm
+  - rpmrisk
+  - rpmriskandportfoliomanagement
+  - rpmriskportfolio
+  - rpm-risk-portfolio-management
+- name: Informed Portfolio Management
+  category: fund
+  regions:
+  - se
+  domain: ipm.se
+  ats: []
+  slugs:
+  - ipmswe
+  - informedportfolio
+  - informedportfoliomanagement
+  - informed-portfolio-management
+- name: Nordkinn Asset Management
+  category: fund
+  regions:
+  - 'no'
+  - se
+  domain: nordkinn.com
+  ats: []
+  slugs:
+  - nordkinn
+  - nordkinnassetmanagement
+  - nordkinn-asset-management
+- name: Quantica Capital
+  category: fund
+  regions:
+  - ch
+  domain: quanticacapital.com
+  ats: []
+  slugs:
+  - quanticacapital
+  - quantica
+  - quantica-capital
+- name: Welton Investment Partners
+  category: fund
+  regions:
+  - us
+  domain: welton.com
+  ats: []
+  slugs:
+  - welton
+  - weltoninvestment
+  - weltoninvestmentpartners
+  - welton-investment-partners
+- name: Dunn Capital Management
+  category: fund
+  regions:
+  - us
+  domain: dunncapital.com
+  ats: []
+  slugs:
+  - dunncapital
+  - dunncapitalmanagement
+  - dunn
+  - dunn-capital-management
+- name: Chesapeake Capital
+  category: fund
+  regions:
+  - us
+  domain: chesapeakecapital.com
+  ats: []
+  slugs:
+  - chesapeakecapital
+  - chesapeake
+  - chesapeake-capital
+- name: Mulvaney Capital Management
+  category: fund
+  regions:
+  - uk
+  domain: mulvaneycapital.com
+  ats: []
+  slugs:
+  - mulvaneycapital
+  - mulvaneycapitalmanagement
+  - mulvaney
+  - mulvaney-capital-management
+- name: Abraham Trading Company
+  category: fund
+  regions:
+  - us
+  domain: abrahamtrading.com
+  ats: []
+  slugs:
+  - abrahamtrading
+  - abrahamtradingcompany
+  - abraham-trading-company
+- name: Sandbar Asset Management
+  category: fund
+  regions:
+  - uk
+  domain: sandbarasset.com
+  ats: []
+  slugs:
+  - sandbarasset
+  - sandbarassetmanagement
+  - sandbar
+  - sandbar-asset-management
+- name: Fort LP
+  category: fund
+  regions:
+  - us
+  domain: fortlp.com
+  ats: []
+  slugs:
+  - fortlp
+  - fortinvestment
+  - fort-lp
+- name: GAM Systematic
+  category: fund
+  regions:
+  - uk
+  - ch
+  domain: gamsystematic.com
+  ats: []
+  slugs:
+  - gamsystematic
+  - gam
+  - gam-systematic
+- name: Aspect Diversified
+  category: fund
+  regions:
+  - uk
+  domain: aspectdiversified.com
+  ats: []
+  slugs:
+  - aspectdiversified
+  - aspect-diversified
+- name: Eclipse Capital Management
+  category: fund
+  regions:
+  - us
+  domain: eclipsecapital.com
+  ats: []
+  slugs:
+  - eclipsecapital
+  - eclipsecapitalmanagement
+  - eclipse
+  - eclipse-capital-management
+- name: Polar Asset Management
+  category: fund
+  regions:
+  - ca
+  domain: polarasset.com
+  ats: []
+  slugs:
+  - polarasset
+  - polarassetmanagement
+  - polar
+  - polar-asset-management
+- name: Weiss Multi-Strategy Advisers
+  category: fund
+  regions:
+  - us
+  domain: weissmulti.com
+  ats: []
+  slugs:
+  - weissmulti
+  - gweiss
+  - weissmultistrategyadvisers
+  - weiss-multi-strategy-advisers
+- name: Ellington Management Group
+  category: fund
+  regions:
+  - us
+  domain: ellingtonmgmt.com
+  ats: []
+  slugs:
+  - ellingtonmgmt
+  - ellington
+  - ellingtonmanagementgroup
+  - ellington-management-group
+- name: Pine River Capital Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  domain: pineriver.com
+  ats: []
+  slugs:
+  - pineriver
+  - prcm
+  - pinerivercapitalmanagement
+  - pine-river-capital-management
+- name: Saba Capital Management
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: sabacapital.com
+  ats: []
+  slugs:
+  - sabacapital
+  - sabacapitalmanagement
+  - saba
+  - saba-capital-management
+- name: Whitebox Advisors
+  category: fund
+  regions:
+  - us
+  domain: whiteboxadvisors.com
+  ats: []
+  slugs:
+  - whiteboxadvisors
+  - whitebox
+  - whitebox-advisors
+- name: Napier Park Global Capital
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: napierpark.com
+  ats: []
+  slugs:
+  - napierpark
+  - napierparkglobalcapital
+  - napier-park-global-capital
+- name: Palmer Square Capital Management
+  category: fund
+  regions:
+  - us
+  domain: palmersquare.com
+  ats: []
+  slugs:
+  - palmersquare
+  - palmersquarecapitalmanagement
+  - palmer-square-capital-management
+- name: Beach Point Capital
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: beachpointcapital.com
+  ats: []
+  slugs:
+  - beachpointcapital
+  - beachpoint
+  - beach-point-capital
+- name: Canyon Partners
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: canyonpartners.com
+  ats: []
+  slugs:
+  - canyonpartners
+  - canyon
+  - canyon-partners
+- name: Redwood Capital Management
+  category: fund
+  regions:
+  - us
+  domain: redwoodcapital.com
+  ats: []
+  slugs:
+  - redwoodcapital
+  - redwoodcapitalmanagement
+  - redwood
+  - redwood-capital-management
+- name: Knighthead Capital
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: knightheadcapital.com
+  ats: []
+  slugs:
+  - knightheadcapital
+  - knighthead
+  - knighthead-capital
+- name: Monarch Alternative Capital
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: monarchalternative.com
+  ats: []
+  slugs:
+  - monarchalternative
+  - monarchalternativecapital
+  - monarch-alternative-capital
+- name: Avenue Capital Group
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  domain: avenuecapital.com
+  ats: []
+  slugs:
+  - avenuecapital
+  - avenuecapitalgroup
+  - avenue
+  - avenue-capital-group
+- name: Centerbridge Partners
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: centerbridge.com
+  ats: []
+  slugs:
+  - centerbridge
+  - centerbridgepartners
+  - centerbridge-partners
+- name: GoldenTree Asset Management
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  domain: goldentree.com
+  ats: []
+  slugs:
+  - goldentree
+  - goldentreeassetmanagement
+  - goldentree-asset-management
+- name: Fir Tree Partners
+  category: fund
+  regions:
+  - us
+  domain: firtreepartners.com
+  ats: []
+  slugs:
+  - firtreepartners
+  - firtree
+  - fir-tree-partners
+- name: Arena Investors
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: arenainvestors.com
+  ats: []
+  slugs:
+  - arenainvestors
+  - arena-investors
+- name: Mariner Investment Group
+  category: fund
+  regions:
+  - us
+  domain: marinerinvestment.com
+  ats: []
+  slugs:
+  - marinerinvestment
+  - marinerinvestmentgroup
+  - mariner
+  - mariner-investment-group
+- name: Axonic Capital
+  category: fund
+  regions:
+  - us
+  domain: axoniccapital.com
+  ats: []
+  slugs:
+  - axoniccapital
+  - axonic
+  - axonic-capital
+- name: Hein Park Capital
+  category: fund
+  regions:
+  - us
+  domain: heinpark.com
+  ats: []
+  slugs:
+  - heinpark
+  - heinparkcapital
+  - hein-park-capital
+- name: Lighthouse Investment Partners
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: lighthousepartners.com
+  ats: []
+  slugs:
+  - lighthousepartners
+  - lighthouseinvestmentpartners
+  - lighthouse
+  - lighthouse-investment-partners
+- name: Sona Asset Management
+  category: fund
+  regions:
+  - uk
+  domain: sonaasset.com
+  ats: []
+  slugs:
+  - sonaasset
+  - sonaassetmanagement
+  - sona
+  - sona-asset-management
+- name: Kite Lake Capital
+  category: fund
+  regions:
+  - uk
+  domain: kitelake.com
+  ats: []
+  slugs:
+  - kitelake
+  - kitelakecapital
+  - kite-lake-capital
+- name: Melqart Asset Management
+  category: fund
+  regions:
+  - uk
+  domain: melqart.com
+  ats: []
+  slugs:
+  - melqart
+  - melqartassetmanagement
+  - melqart-asset-management
+- name: Syquant Capital
+  category: fund
+  regions:
+  - fr
+  domain: syquant.com
+  ats: []
+  slugs:
+  - syquant
+  - syquantcapital
+  - syquant-capital
+- name: Boussard & Gavaudan
+  category: fund
+  regions:
+  - uk
+  - fr
+  domain: bgam.com
+  ats: []
+  slugs:
+  - bgam
+  - boussardgavaudan
+  - boussardandgavaudan
+  - boussard-gavaudan
+- name: Tyrus Capital
+  category: fund
+  regions:
+  - mc
+  - uk
+  domain: tyruscapital.com
+  ats: []
+  slugs:
+  - tyruscapital
+  - tyrus
+  - tyrus-capital
+- name: Naya Capital Management
+  category: fund
+  regions:
+  - uk
+  domain: nayacapital.com
+  ats: []
+  slugs:
+  - nayacapital
+  - nayacapitalmanagement
+  - naya
+  - naya-capital-management
+- name: Marble Bar Asset Management
+  category: fund
+  regions:
+  - uk
+  domain: marblebar.com
+  ats: []
+  slugs:
+  - marblebar
+  - mbam
+  - marblebarassetmanagement
+  - marble-bar-asset-management
+- name: Pertento Partners
+  category: fund
+  regions:
+  - uk
+  domain: pertento.com
+  ats: []
+  slugs:
+  - pertento
+  - pertentopartners
+  - pertento-partners
+- name: Glen Point Capital
+  category: fund
+  regions:
+  - uk
+  domain: glenpoint.com
+  ats: []
+  slugs:
+  - glenpoint
+  - glenpointcapital
+  - glen-point-capital
+- name: Astaris Capital
+  category: fund
+  regions:
+  - uk
+  domain: astariscapital.com
+  ats: []
+  slugs:
+  - astariscapital
+  - astaris
+  - astaris-capital
+- name: Trium Alternatives
+  category: fund
+  regions:
+  - uk
+  domain: triumalternatives.com
+  ats: []
+  slugs:
+  - triumalternatives
+  - trium-alternatives
+- name: CastleKnight Management
+  category: fund
+  regions:
+  - us
+  domain: castleknight.com
+  ats: []
+  slugs:
+  - castleknight
+  - castleknightmanagement
+  - castleknight-management
+- name: Balyasny Europe
+  category: fund
+  regions:
+  - uk
+  domain: balyasnyeurope.com
+  ats: []
+  slugs:
+  - balyasnyeurope
+  - balyasny-europe
+- name: Pershing Square Capital
+  category: fund
+  regions:
+  - us
+  domain: pershingsquare.com
+  ats: []
+  slugs:
+  - pershingsquare
+  - pershingsquarecapital
+  - pershing-square-capital
+- name: Greenlight Capital
+  category: fund
+  regions:
+  - us
+  domain: greenlightcapital.com
+  ats: []
+  slugs:
+  - greenlightcapital
+  - greenlight
+  - greenlight-capital
+- name: Glenview Capital Management
+  category: fund
+  regions:
+  - us
+  domain: glenviewcapital.com
+  ats: []
+  slugs:
+  - glenviewcapital
+  - glenviewcapitalmanagement
+  - glenview
+  - glenview-capital-management
+- name: Starboard Value
+  category: fund
+  regions:
+  - us
+  domain: starboardvalue.com
+  ats: []
+  slugs:
+  - starboardvalue
+  - starboard-value
+- name: Trian Partners
+  category: fund
+  regions:
+  - us
+  domain: trianpartners.com
+  ats: []
+  slugs:
+  - trianpartners
+  - trian
+  - trian-partners
+- name: ValueAct Capital
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: valueactcapital.com
+  ats: []
+  slugs:
+  - valueactcapital
+  - valueact
+  - valueact-capital
+- name: Corvex Management
+  category: fund
+  regions:
+  - us
+  domain: corvexmanagement.com
+  ats: []
+  slugs:
+  - corvexmanagement
+  - corvex
+  - corvex-management
+- name: Sachem Head Capital
+  category: fund
+  regions:
+  - us
+  domain: sachemhead.com
+  ats: []
+  slugs:
+  - sachemhead
+  - sachemheadcapital
+  - sachem-head-capital
+- name: Senator Investment Group
+  category: fund
+  regions:
+  - us
+  domain: senatorinvestment.com
+  ats: []
+  slugs:
+  - senatorinvestment
+  - senatorinvestmentgroup
+  - senator
+  - senator-investment-group
+- name: Select Equity Group
+  category: fund
+  regions:
+  - us
+  domain: selectequity.com
+  ats: []
+  slugs:
+  - selectequity
+  - selectequitygroup
+  - select-equity-group
+- name: Egerton Capital
+  category: fund
+  regions:
+  - uk
+  domain: egertoncapital.com
+  ats: []
+  slugs:
+  - egertoncapital
+  - egerton
+  - egerton-capital
+- name: TCI Fund Management
+  category: fund
+  regions:
+  - uk
+  domain: tcifund.com
+  ats: []
+  slugs:
+  - tcifund
+  - tcifundmanagement
+  - tci
+  - tci-fund-management
+- name: Marathon Trading
+  category: fund
+  regions:
+  - us
+  domain: marathontrading.com
+  ats: []
+  slugs:
+  - marathontrading
+  - marathon-trading
+- name: Anatole Investment Management
+  category: fund
+  regions:
+  - hk
+  domain: anatoleinvestment.com
+  ats: []
+  slugs:
+  - anatoleinvestment
+  - anatoleinvestmentmanagement
+  - anatole
+  - anatole-investment-management
+- name: Golden Pine Capital
+  category: fund
+  regions:
+  - hk
+  domain: goldenpinecapital.com
+  ats: []
+  slugs:
+  - goldenpinecapital
+  - goldenpine
+  - golden-pine-capital
+- name: Keywise Capital
+  category: fund
+  regions:
+  - hk
+  domain: keywisecapital.com
+  ats: []
+  slugs:
+  - keywisecapital
+  - keywise
+  - keywise-capital
+- name: Greenwoods Asset Management
+  category: fund
+  regions:
+  - cn
+  - hk
+  - sg
+  domain: greenwoodsasset.com
+  ats: []
+  slugs:
+  - greenwoodsasset
+  - greenwoodsassetmanagement
+  - greenwoods
+  - greenwoods-asset-management
+- name: Panview Capital
+  category: fund
+  regions:
+  - hk
+  domain: panviewcapital.com
+  ats: []
+  slugs:
+  - panviewcapital
+  - panview
+  - panview-capital
+- name: Zeal Asset Management
+  category: fund
+  regions:
+  - hk
+  domain: zealasset.com
+  ats: []
+  slugs:
+  - zealasset
+  - zealassetmanagement
+  - zeal
+  - zeal-asset-management
+- name: Trivest Advisors
+  category: fund
+  regions:
+  - hk
+  domain: trivestadvisors.com
+  ats: []
+  slugs:
+  - trivestadvisors
+  - trivest
+  - trivest-advisors
+- name: Athos Capital
+  category: fund
+  regions:
+  - hk
+  domain: athoscapital.com
+  ats: []
+  slugs:
+  - athoscapital
+  - athos
+  - athos-capital
+- name: Blue Pool Capital
+  category: fund
+  regions:
+  - hk
+  domain: bluepoolcapital.com
+  ats: []
+  slugs:
+  - bluepoolcapital
+  - bluepool
+  - blue-pool-capital
+- name: Janchor Partners
+  category: fund
+  regions:
+  - hk
+  domain: janchorpartners.com
+  ats: []
+  slugs:
+  - janchorpartners
+  - janchor
+  - janchor-partners
+- name: Ward Ferry Management
+  category: fund
+  regions:
+  - hk
+  domain: wardferry.com
+  ats: []
+  slugs:
+  - wardferry
+  - wardferrymanagement
+  - ward-ferry-management
+- name: Karst Peak Capital
+  category: fund
+  regions:
+  - hk
+  domain: karstpeak.com
+  ats: []
+  slugs:
+  - karstpeak
+  - karstpeakcapital
+  - karst-peak-capital
+- name: Torq Capital Management
+  category: fund
+  regions:
+  - hk
+  domain: torqcapital.com
+  ats: []
+  slugs:
+  - torqcapital
+  - torqcapitalmanagement
+  - torq
+  - torq-capital-management
+- name: Nine Masts Capital
+  category: fund
+  regions:
+  - hk
+  domain: ninemasts.com
+  ats: []
+  slugs:
+  - ninemasts
+  - ninemastscapital
+  - nine-masts-capital
+- name: Double Haven Capital
+  category: fund
+  regions:
+  - hk
+  domain: doublehaven.com
+  ats: []
+  slugs:
+  - doublehaven
+  - doublehavencapital
+  - double-haven-capital
+- name: LIM Advisors
+  category: fund
+  regions:
+  - hk
+  domain: limadvisors.com
+  ats: []
+  slugs:
+  - limadvisors
+  - lim
+  - lim-advisors
+- name: Value Partners Group
+  category: fund
+  regions:
+  - hk
+  - sg
+  - cn
+  domain: valuepartners.com
+  ats: []
+  slugs:
+  - valuepartners
+  - valuepartnersgroup
+  - value
+  - value-partners-group
+- name: CloudAlpha Capital
+  category: fund
+  regions:
+  - hk
+  domain: cloudalpha.com
+  ats: []
+  slugs:
+  - cloudalpha
+  - cloudalphacapital
+  - cloudalpha-capital
+- name: Tairen Capital
+  category: fund
+  regions:
+  - cn
+  - hk
+  domain: tairencapital.com
+  ats: []
+  slugs:
+  - tairencapital
+  - tairen
+  - tairen-capital
+- name: Springs Capital
+  category: fund
+  regions:
+  - cn
+  - hk
+  domain: springscapital.com
+  ats: []
+  slugs:
+  - springscapital
+  - springs
+  - springs-capital
+- name: Vantage Point Asset Management
+  category: fund
+  regions:
+  - sg
+  domain: vantagepointasset.com
+  ats: []
+  slugs:
+  - vantagepointasset
+  - vantagepointassetmanagement
+  - vantagepoint
+  - vantage-point-asset-management
+- name: Asia Research & Capital Management
+  category: fund
+  regions:
+  - hk
+  domain: arcm.com
+  ats: []
+  slugs:
+  - arcm
+  - asiaresearchcapital
+  - asiaresearchandcapitalmanagement
+  - asiaresearch
+  - asia-research-capital-management
+- name: High-Flyer Quant
+  category: fund
+  regions:
+  - cn
+  domain: high-flyer.cn
+  ats: []
+  slugs:
+  - highflyer
+  - highflyerquant
+  - high-flyer-quant
+- name: Ubiquant Investment
+  category: fund
+  regions:
+  - cn
+  domain: ubiquant.com
+  ats: []
+  slugs:
+  - ubiquant
+  - ubiquantinvestment
+  - ubiquant-investment
+- name: Minghong Investment
+  category: fund
+  regions:
+  - cn
+  domain: minghong.com
+  ats: []
+  slugs:
+  - minghong
+  - minghonginvestment
+  - minghong-investment
+- name: Lingjun Investment
+  category: fund
+  regions:
+  - cn
+  domain: lingjun.com
+  ats: []
+  slugs:
+  - lingjun
+  - lingjuninvestment
+  - lingjun-investment
+- name: Yanfu Investments
+  category: fund
+  regions:
+  - cn
+  domain: yanfu.com
+  ats: []
+  slugs:
+  - yanfu
+  - yanfuinvestments
+  - yanfu-investments
+- name: Mingshi Investment Management
+  category: fund
+  regions:
+  - cn
+  - hk
+  - uk
+  domain: mingshi.com
+  ats: []
+  slugs:
+  - mingshi
+  - mingshiinvestmentmanagement
+  - mingshi-investment-management
+- name: Baiont Quant
+  category: fund
+  regions:
+  - cn
+  domain: baiont.com
+  ats: []
+  slugs:
+  - baiont
+  - baiontquant
+  - baiont-quant
+- name: Panyao Capital
+  category: fund
+  regions:
+  - cn
+  domain: panyaocapital.com
+  ats: []
+  slugs:
+  - panyaocapital
+  - panyao
+  - panyao-capital
+- name: Franklin Templeton
+  category: fund
+  regions:
+  - us
+  - uk
+  - in
+  - sg
+  domain: franklintempleton.com
+  ats:
+  - workday:franklintempleton
+  slugs:
+  - franklintempleton
+  - franklin-templeton
+- name: PGIM
+  category: fund
+  regions:
+  - us
+  - uk
+  - jp
+  - sg
+  domain: pgim.com
+  ats:
+  - workday:prudential
+  slugs:
+  - pgim
+- name: AllianceBernstein
+  category: fund
+  regions:
+  - us
+  - uk
+  - in
+  - sg
+  domain: alliancebernstein.com
+  ats:
+  - workday:alliancebernstein
+  slugs:
+  - alliancebernstein
+  - ab
+- name: DWS Group
+  category: fund
+  regions:
+  - de
+  - uk
+  - us
+  domain: dws.com
+  ats: []
+  slugs:
+  - dws
+  - dwsgroup
+  - dws-group
+- name: Allianz Global Investors
+  category: fund
+  regions:
+  - de
+  - uk
+  - us
+  - hk
+  domain: allianzgi.com
+  ats: []
+  slugs:
+  - allianzgi
+  - allianzglobalinvestors
+  - allianzinvestors
+  - allianz-global-investors
+- name: Columbia Threadneedle
+  category: fund
+  regions:
+  - us
+  - uk
+  - lu
+  domain: columbiathreadneedle.com
+  ats: []
+  slugs:
+  - columbiathreadneedle
+  - columbia-threadneedle
+- name: Federated Hermes
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: federatedhermes.com
+  ats: []
+  slugs:
+  - federatedhermes
+  - federated-hermes
+- name: Artisan Partners
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: artisanpartners.com
+  ats: []
+  slugs:
+  - artisanpartners
+  - artisan
+  - artisan-partners
+- name: Dodge & Cox
+  category: fund
+  regions:
+  - us
+  - uk
+  domain: dodgeandcox.com
+  ats: []
+  slugs:
+  - dodgeandcox
+  - dodgecox
+  - dodge-cox
+- name: American Century Investments
+  category: fund
+  regions:
+  - us
+  - uk
+  - hk
+  domain: americancentury.com
+  ats: []
+  slugs:
+  - americancentury
+  - americancenturyinvestments
+  - american-century-investments
+- name: Loomis Sayles
+  category: fund
+  regions:
+  - us
+  - uk
+  - sg
+  domain: loomissayles.com
+  ats: []
+  slugs:
+  - loomissayles
+  - loomis-sayles
+- name: Principal Financial Group
+  category: fund
+  regions:
+  - us
+  - uk
+  - in
+  - hk
+  domain: principal.com
+  ats:
+  - workday:principal
+  slugs:
+  - principal
+  - principalfinancialgroup
+  - principalfinancial
+  - principal-financial-group
+- name: Voya Investment Management
+  category: fund
+  regions:
+  - us
+  domain: voya.com
+  ats: []
+  slugs:
+  - voya
+  - voyainvestmentmanagement
+  - voya-investment-management
+- name: Fisher Investments
+  category: fund
+  regions:
+  - us
+  - uk
+  - de
+  domain: fisherinvestments.com
+  ats:
+  - workday:fisherinvestments
+  slugs:
+  - fisherinvestments
+  - fisher
+  - fisher-investments
+- name: Russell Investments
+  category: fund
+  regions:
+  - us
+  - uk
+  - au
+  - cn
+  domain: russellinvestments.com
+  ats: []
+  slugs:
+  - russellinvestments
+  - russell
+  - russell-investments
+- name: Fiera Capital
+  category: fund
+  regions:
+  - ca
+  - uk
+  - us
+  domain: fieracapital.com
+  ats: []
+  slugs:
+  - fieracapital
+  - fiera
+  - fiera-capital
+- name: CI Financial
+  category: fund
+  regions:
+  - ca
+  - us
+  domain: cifinancial.com
+  ats: []
+  slugs:
+  - cifinancial
+  - ci-financial
+- name: Mackenzie Investments
+  category: fund
+  regions:
+  - ca
+  domain: mackenzieinvestments.com
+  ats: []
+  slugs:
+  - mackenzieinvestments
+  - mackenzie
+  - mackenzie-investments
+- name: Nikko Asset Management
+  category: fund
+  regions:
+  - jp
+  - sg
+  - uk
+  domain: nikkoam.com
+  ats: []
+  slugs:
+  - nikkoam
+  - nikkoassetmanagement
+  - nikko
+  - nikko-asset-management
+- name: Nomura Asset Management
+  category: fund
+  regions:
+  - jp
+  - uk
+  - sg
+  domain: nomuraam.com
+  ats: []
+  slugs:
+  - nomuraam
+  - nomuraassetmanagement
+  - nomura
+  - nomura-asset-management
+- name: Eastspring Investments
+  category: fund
+  regions:
+  - sg
+  - hk
+  - jp
+  - in
+  domain: eastspring.com
+  ats: []
+  slugs:
+  - eastspring
+  - eastspringinvestments
+  - eastspring-investments
+- name: Fullerton Fund Management
+  category: fund
+  regions:
+  - sg
+  domain: fullertonfund.com
+  ats: []
+  slugs:
+  - fullertonfund
+  - fullertonfundmanagement
+  - fullerton
+  - fullerton-fund-management
+- name: Lion Global Investors
+  category: fund
+  regions:
+  - sg
+  domain: lionglobalinvestors.com
+  ats: []
+  slugs:
+  - lionglobalinvestors
+  - lioninvestors
+  - lion-global-investors
+- name: China Asset Management
+  category: fund
+  regions:
+  - cn
+  - hk
+  domain: chinaamc.com
+  ats: []
+  slugs:
+  - chinaamc
+  - chinaassetmanagement
+  - china
+  - china-asset-management
+- name: E Fund Management
+  category: fund
+  regions:
+  - cn
+  - hk
+  domain: efundmanagement.com
+  ats: []
+  slugs:
+  - efundmanagement
+  - e-fund-management
+- name: Harvest Fund Management
+  category: fund
+  regions:
+  - cn
+  - hk
+  domain: harvestfund.com
+  ats: []
+  slugs:
+  - harvestfund
+  - harvestfundmanagement
+  - harvest
+  - harvest-fund-management
+- name: Bosera Asset Management
+  category: fund
+  regions:
+  - cn
+  - hk
+  domain: boseraasset.com
+  ats: []
+  slugs:
+  - boseraasset
+  - boseraassetmanagement
+  - bosera
+  - bosera-asset-management
+- name: Mirae Asset Global Investments
+  category: fund
+  regions:
+  - kr
+  - us
+  - uk
+  - in
+  domain: miraeasset.com
+  ats: []
+  slugs:
+  - miraeasset
+  - miraeassetglobalinvestments
+  - mirae
+  - mirae-asset-global-investments
+- name: Samsung Asset Management
+  category: fund
+  regions:
+  - kr
+  domain: samsungasset.com
+  ats: []
+  slugs:
+  - samsungasset
+  - samsungassetmanagement
+  - samsung
+  - samsung-asset-management
+- name: Goldman Sachs
+  category: bank
+  regions:
+  - us
+  - uk
+  - in
+  - sg
+  - hk
+  - jp
+  - pl
+  domain: goldmansachs.com
+  ats:
+  - html:https://higher.gs.com/roles
+  slugs:
+  - goldmansachs
+  - gs
+  - goldman-sachs
+- name: Morgan Stanley
+  category: bank
+  regions:
+  - us
+  - uk
+  - in
+  - hk
+  - sg
+  - jp
+  - hu
+  domain: morganstanley.com
+  ats:
+  - workday:morganstanley
+  slugs:
+  - morganstanley
+  - ms
+  - morgan-stanley
+- name: JPMorgan Chase
+  category: bank
+  regions:
+  - us
+  - uk
+  - in
+  - sg
+  - hk
+  - pl
+  domain: jpmorganchase.com
+  ats:
+  - workday:jpmc
+  slugs:
+  - jpmorgan
+  - jpmc
+  - jpmorganchase
+  - jpmorgan-chase
+- name: Bank of America
+  category: bank
+  regions:
+  - us
+  - uk
+  - in
+  - sg
+  - hk
+  domain: bankofamerica.com
+  ats:
+  - workday:bankofamerica
+  slugs:
+  - bankofamerica
+  - bofa
+  - baml
+  - bank-of-america
+- name: Citi
+  category: bank
+  regions:
+  - us
+  - uk
+  - in
+  - sg
+  - hk
+  - pl
+  - ie
+  domain: citigroup.com
+  ats:
+  - workday:citi
+  slugs:
+  - citi
+  - citigroup
+- name: Barclays
+  category: bank
+  regions:
+  - uk
+  - us
+  - in
+  - sg
+  - jp
+  domain: barclays.com
+  ats:
+  - workday:barclays
+  slugs:
+  - barclays
+- name: HSBC
+  category: bank
+  regions:
+  - uk
+  - hk
+  - in
+  - sg
+  - us
+  - pl
+  domain: hsbc.com
+  ats:
+  - workday:hsbc
+  slugs:
+  - hsbc
+- name: Deutsche Bank
+  category: bank
+  regions:
+  - de
+  - uk
+  - us
+  - in
+  - sg
+  domain: db.com
+  ats:
+  - workday:db
+  slugs:
+  - deutschebank
+  - db
+  - deutsche-bank
+- name: UBS
+  category: bank
+  regions:
+  - ch
+  - uk
+  - us
+  - sg
+  - hk
+  - pl
+  - in
+  domain: ubs.com
+  ats:
+  - workday:ubs
+  slugs:
+  - ubs
+- name: BNP Paribas
+  category: bank
+  regions:
+  - fr
+  - uk
+  - us
+  - in
+  - sg
+  - pt
+  domain: bnpparibas.com
+  ats:
+  - html:https://group.bnpparibas/en/careers/job-offers
+  slugs:
+  - bnpparibas
+  - bnp
+  - bnp-paribas
+- name: Societe Generale
+  category: bank
+  regions:
+  - fr
+  - uk
+  - us
+  - in
+  - hk
+  domain: societegenerale.com
+  ats: []
+  slugs:
+  - societegenerale
+  - socgen
+  - sg
+  - societe-generale
+- name: Natixis
+  category: bank
+  regions:
+  - fr
+  - uk
+  - us
+  - pt
+  domain: natixis.com
+  ats: []
+  slugs:
+  - natixis
+- name: Credit Agricole CIB
+  category: bank
+  regions:
+  - fr
+  - uk
+  - us
+  - sg
+  - hk
+  domain: creditagricole.com
+  ats: []
+  slugs:
+  - creditagricole
+  - ca-cib
+  - creditagricolecib
+  - credit-agricole-cib
+- name: Santander
+  category: bank
+  regions:
+  - es
+  - uk
+  - us
+  - pl
+  - br
+  domain: santander.com
+  ats:
+  - workday:santander
+  slugs:
+  - santander
+- name: BBVA
+  category: bank
+  regions:
+  - es
+  - uk
+  - us
+  - mx
+  domain: bbva.com
+  ats: []
+  slugs:
+  - bbva
+- name: ING
+  category: bank
+  regions:
+  - nl
+  - be
+  - uk
+  - pl
+  - sg
+  domain: ing.com
+  ats:
+  - workday:ing
+  slugs:
+  - ing
+  - inggroup
+- name: Rabobank
+  category: bank
+  regions:
+  - nl
+  - us
+  - au
+  domain: rabobank.com
+  ats: []
+  slugs:
+  - rabobank
+- name: ABN AMRO
+  category: bank
+  regions:
+  - nl
+  - uk
+  domain: abnamro.com
+  ats: []
+  slugs:
+  - abnamro
+  - abn-amro
+- name: Nomura
+  category: bank
+  regions:
+  - jp
+  - uk
+  - us
+  - in
+  - sg
+  - hk
+  domain: nomura.com
+  ats:
+  - workday:nomura
+  slugs:
+  - nomura
+- name: Mizuho
+  category: bank
+  regions:
+  - jp
+  - us
+  - uk
+  - sg
+  - hk
+  domain: mizuho.com
+  ats:
+  - workday:mizuho
+  slugs:
+  - mizuho
+- name: MUFG
+  category: bank
+  regions:
+  - jp
+  - us
+  - uk
+  - sg
+  - hk
+  domain: mufg.com
+  ats:
+  - workday:mufg
+  slugs:
+  - mufg
+  - mufgbank
+- name: SMBC Nikko
+  category: bank
+  regions:
+  - jp
+  - uk
+  - us
+  - hk
+  domain: smbcnikko.com
+  ats: []
+  slugs:
+  - smbcnikko
+  - smbc
+  - smbc-nikko
+- name: Daiwa Securities
+  category: bank
+  regions:
+  - jp
+  - uk
+  - us
+  - hk
+  domain: daiwa.com
+  ats: []
+  slugs:
+  - daiwa
+  - daiwasecurities
+  - daiwa-securities
+- name: RBC Capital Markets
+  category: bank
+  regions:
+  - ca
+  - us
+  - uk
+  - au
+  domain: rbc.com
+  ats:
+  - workday:rbc
+  slugs:
+  - rbc
+  - royalbank
+  - rbccapitalmarkets
+  - rbc-capital-markets
+- name: BMO Capital Markets
+  category: bank
+  regions:
+  - ca
+  - us
+  - uk
+  domain: bmo.com
+  ats:
+  - workday:bmo
+  slugs:
+  - bmo
+  - bankofmontreal
+  - bmocapitalmarkets
+  - bmo-capital-markets
+- name: TD Securities
+  category: bank
+  regions:
+  - ca
+  - us
+  - uk
+  - sg
+  domain: tdsecurities.com
+  ats:
+  - workday:td
+  slugs:
+  - tdsecurities
+  - td
+  - td-securities
+- name: Scotiabank
+  category: bank
+  regions:
+  - ca
+  - us
+  - uk
+  domain: scotiabank.com
+  ats:
+  - workday:scotiabank
+  slugs:
+  - scotiabank
+- name: CIBC
+  category: bank
+  regions:
+  - ca
+  - us
+  - uk
+  domain: cibc.com
+  ats:
+  - workday:cibc
+  slugs:
+  - cibc
+- name: Macquarie Group
+  category: bank
+  regions:
+  - au
+  - uk
+  - us
+  - sg
+  - hk
+  - in
+  domain: macquarie.com
+  ats:
+  - workday:macquarie
+  slugs:
+  - macquarie
+  - macquariegroup
+  - macquarie-group
+- name: Standard Chartered
+  category: bank
+  regions:
+  - uk
+  - sg
+  - hk
+  - in
+  - ae
+  domain: sc.com
+  ats:
+  - workday:standardchartered
+  slugs:
+  - standardchartered
+  - scb
+  - standard-chartered
+- name: Jefferies
+  category: bank
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  - in
+  domain: jefferies.com
+  ats:
+  - workday:jefferies
+  slugs:
+  - jefferies
+- name: Lazard
+  category: bank
+  regions:
+  - us
+  - uk
+  - fr
+  domain: lazard.com
+  ats: []
+  slugs:
+  - lazard
+- name: Wells Fargo
+  category: bank
+  regions:
+  - us
+  - uk
+  - in
+  domain: wellsfargo.com
+  ats:
+  - workday:wellsfargo
+  slugs:
+  - wellsfargo
+  - wells-fargo
+- name: BNY
+  category: bank
+  regions:
+  - us
+  - uk
+  - in
+  - pl
+  - ie
+  domain: bny.com
+  ats:
+  - workday:bny
+  slugs:
+  - bny
+  - bnymellon
+- name: Northern Trust
+  category: bank
+  regions:
+  - us
+  - uk
+  - ie
+  - in
+  domain: northerntrust.com
+  ats:
+  - workday:northerntrust
+  slugs:
+  - northerntrust
+  - northern-trust
+- name: Nordea
+  category: bank
+  regions:
+  - fi
+  - se
+  - dk
+  - 'no'
+  - pl
+  domain: nordea.com
+  ats: []
+  slugs:
+  - nordea
+- name: SEB
+  category: bank
+  regions:
+  - se
+  - uk
+  - lt
+  domain: seb.com
+  ats: []
+  slugs:
+  - seb
+  - sebgroup
+- name: Danske Bank
+  category: bank
+  regions:
+  - dk
+  - uk
+  - lt
+  - in
+  domain: danskebank.com
+  ats: []
+  slugs:
+  - danskebank
+  - danske-bank
+- name: DNB
+  category: bank
+  regions:
+  - 'no'
+  - uk
+  domain: dnb.com
+  ats: []
+  slugs:
+  - dnb
+- name: Commerzbank
+  category: bank
+  regions:
+  - de
+  - uk
+  - pl
+  domain: commerzbank.com
+  ats: []
+  slugs:
+  - commerzbank
+- name: UniCredit
+  category: bank
+  regions:
+  - it
+  - de
+  - at
+  domain: unicredit.com
+  ats: []
+  slugs:
+  - unicredit
+- name: Intesa Sanpaolo
+  category: bank
+  regions:
+  - it
+  - uk
+  domain: intesasanpaolo.com
+  ats: []
+  slugs:
+  - intesasanpaolo
+  - intesa
+  - intesa-sanpaolo
+- name: Mediobanca
+  category: bank
+  regions:
+  - it
+  - uk
+  domain: mediobanca.com
+  ats: []
+  slugs:
+  - mediobanca
+- name: Julius Baer
+  category: bank
+  regions:
+  - ch
+  - sg
+  - hk
+  domain: juliusbaer.com
+  ats: []
+  slugs:
+  - juliusbaer
+  - julius-baer
+- name: Pictet
+  category: bank
+  regions:
+  - ch
+  - uk
+  - sg
+  - hk
+  domain: pictet.com
+  ats: []
+  slugs:
+  - pictet
+- name: Lombard Odier
+  category: bank
+  regions:
+  - ch
+  - uk
+  - sg
+  - hk
+  domain: lombardodier.com
+  ats: []
+  slugs:
+  - lombardodier
+  - lombard-odier
+- name: Vontobel
+  category: bank
+  regions:
+  - ch
+  - uk
+  - us
+  domain: vontobel.com
+  ats: []
+  slugs:
+  - vontobel
+- name: Zurcher Kantonalbank
+  category: bank
+  regions:
+  - ch
+  domain: zkb.com
+  ats: []
+  slugs:
+  - zkb
+  - zurcherkantonalbank
+  - zurcher-kantonalbank
+- name: Erste Group
+  category: bank
+  regions:
+  - at
+  - cz
+  - ro
+  domain: erstegroup.com
+  ats: []
+  slugs:
+  - erstegroup
+  - erste
+  - erste-group
+- name: KBC
+  category: bank
+  regions:
+  - be
+  - cz
+  - hu
+  domain: kbc.com
+  ats: []
+  slugs:
+  - kbc
+  - kbcgroup
+- name: Belfius
+  category: bank
+  regions:
+  - be
+  domain: belfius.com
+  ats: []
+  slugs:
+  - belfius
+- name: DBS Bank
+  category: bank
+  regions:
+  - sg
+  - hk
+  - in
+  - cn
+  domain: dbs.com
+  ats:
+  - workday:dbs
+  slugs:
+  - dbs
+  - dbsbank
+  - dbs-bank
+- name: OCBC
+  category: bank
+  regions:
+  - sg
+  - hk
+  - cn
+  domain: ocbc.com
+  ats: []
+  slugs:
+  - ocbc
+- name: UOB
+  category: bank
+  regions:
+  - sg
+  - my
+  - th
+  domain: uob.com
+  ats: []
+  slugs:
+  - uob
+  - uobgroup
+- name: Maybank
+  category: bank
+  regions:
+  - my
+  - sg
+  domain: maybank.com
+  ats: []
+  slugs:
+  - maybank
+- name: CIMB
+  category: bank
+  regions:
+  - my
+  - sg
+  domain: cimb.com
+  ats: []
+  slugs:
+  - cimb
+- name: CICC
+  category: bank
+  regions:
+  - cn
+  - hk
+  - uk
+  - us
+  domain: cicc.com
+  ats: []
+  slugs:
+  - cicc
+- name: CITIC Securities
+  category: bank
+  regions:
+  - cn
+  - hk
+  domain: citicsecurities.com
+  ats: []
+  slugs:
+  - citicsecurities
+  - citic
+  - citic-securities
+- name: Huatai Securities
+  category: bank
+  regions:
+  - cn
+  - hk
+  - us
+  domain: huatai.com
+  ats: []
+  slugs:
+  - huatai
+  - huataisecurities
+  - huatai-securities
+- name: Guotai Junan
+  category: bank
+  regions:
+  - cn
+  - hk
+  domain: guotaijunan.com
+  ats: []
+  slugs:
+  - guotaijunan
+  - guotai-junan
+- name: Itau BBA
+  category: bank
+  regions:
+  - br
+  - us
+  - uk
+  domain: itau.com
+  ats: []
+  slugs:
+  - itau
+  - itaubba
+  - itau-bba
+- name: BTG Pactual
+  category: bank
+  regions:
+  - br
+  - us
+  - uk
+  domain: btgpactual.com
+  ats: []
+  slugs:
+  - btgpactual
+  - btg
+  - btg-pactual
+- name: XP Inc.
+  category: bank
+  regions:
+  - br
+  - us
+  domain: xpinc.com
+  ats: []
+  slugs:
+  - xpinc
+  - xp
+  - xp-inc
+- name: NatWest Group
+  category: bank
+  regions:
+  - uk
+  - pl
+  - in
+  domain: natwestgroup.com
+  ats:
+  - workday:natwest
+  slugs:
+  - natwest
+  - natwestgroup
+  - rbs
+  - natwest-group
+- name: Lloyds Banking Group
+  category: bank
+  regions:
+  - uk
+  domain: lloydsbankinggroup.com
+  ats:
+  - workday:lloydsbanking
+  slugs:
+  - lloydsbank
+  - lloyds
+  - lloydsbankinggroup
+  - lloydsbanking
+  - lloyds-banking-group
+- name: Cantor Fitzgerald
+  category: bank
+  regions:
+  - us
+  - uk
+  - hk
+  domain: cantorfitzgerald.com
+  ats: []
+  slugs:
+  - cantorfitzgerald
+  - cantor
+  - cantor-fitzgerald
+- name: BGC Group
+  category: bank
+  regions:
+  - us
+  - uk
+  - sg
+  domain: bgcpartners.com
+  ats: []
+  slugs:
+  - bgcpartners
+  - bgcgroup
+  - bgc
+  - bgc-group
+- name: TP ICAP
+  category: bank
+  regions:
+  - uk
+  - us
+  - sg
+  domain: tpicap.com
+  ats: []
+  slugs:
+  - tpicap
+  - tp-icap
+- name: Oppenheimer & Co.
+  category: bank
+  regions:
+  - us
+  - uk
+  domain: oppenheimer.com
+  ats: []
+  slugs:
+  - oppenheimer
+  - oppenheimerandco
+  - oppenheimer-co
+- name: Piper Sandler
+  category: bank
+  regions:
+  - us
+  - uk
+  domain: pipersandler.com
+  ats: []
+  slugs:
+  - pipersandler
+  - piper-sandler
+- name: Raymond James
+  category: bank
+  regions:
+  - us
+  - uk
+  - ca
+  domain: raymondjames.com
+  ats: []
+  slugs:
+  - raymondjames
+  - raymond-james
+- name: Stifel Financial
+  category: bank
+  regions:
+  - us
+  - uk
+  - de
+  domain: stifel.com
+  ats: []
+  slugs:
+  - stifel
+  - stifelfinancial
+  - stifel-financial
+- name: Guggenheim Partners
+  category: bank
+  regions:
+  - us
+  - uk
+  domain: guggenheimpartners.com
+  ats: []
+  slugs:
+  - guggenheimpartners
+  - guggenheim
+  - guggenheim-partners
+- name: William Blair
+  category: bank
+  regions:
+  - us
+  - uk
+  domain: williamblair.com
+  ats: []
+  slugs:
+  - williamblair
+  - william-blair
+- name: Robert W. Baird
+  category: bank
+  regions:
+  - us
+  - uk
+  domain: rwbaird.com
+  ats: []
+  slugs:
+  - rwbaird
+  - baird
+  - robertwbaird
+  - robert-w-baird
+- name: Houlihan Lokey
+  category: bank
+  regions:
+  - us
+  - uk
+  - hk
+  domain: houlihanlokey.com
+  ats: []
+  slugs:
+  - houlihanlokey
+  - houlihan-lokey
+- name: Moelis & Company
+  category: bank
+  regions:
+  - us
+  - uk
+  - hk
+  domain: moelis.com
+  ats: []
+  slugs:
+  - moelis
+  - moelisandcompany
+  - moelis-company
+- name: PJT Partners
+  category: bank
+  regions:
+  - us
+  - uk
+  - hk
+  domain: pjtpartners.com
+  ats: []
+  slugs:
+  - pjtpartners
+  - pjt
+  - pjt-partners
+- name: Perella Weinberg Partners
+  category: bank
+  regions:
+  - us
+  - uk
+  domain: pwpartners.com
+  ats: []
+  slugs:
+  - pwpartners
+  - perellaweinberg
+  - perellaweinbergpartners
+  - perella-weinberg-partners
+- name: Rothschild & Co
+  category: bank
+  regions:
+  - uk
+  - fr
+  - us
+  domain: rothschildandco.com
+  ats: []
+  slugs:
+  - rothschildandco
+  - rothschild
+  - rothschild-co
+- name: Evercore
+  category: bank
+  regions:
+  - us
+  - uk
+  - hk
+  domain: evercore.com
+  ats: []
+  slugs:
+  - evercore
+- name: Truist Securities
+  category: bank
+  regions:
+  - us
+  domain: truist.com
+  ats:
+  - workday:truist
+  slugs:
+  - truist
+  - truistsecurities
+  - truist-securities
+- name: PNC Financial Services
+  category: bank
+  regions:
+  - us
+  domain: pnc.com
+  ats:
+  - workday:pnc
+  slugs:
+  - pnc
+  - pncfinancialservices
+  - pnc-financial-services
+- name: U.S. Bancorp
+  category: bank
+  regions:
+  - us
+  domain: usbank.com
+  ats:
+  - workday:usbank
+  slugs:
+  - usbank
+  - usbancorp
+  - u-s-bancorp
+- name: Citizens Financial Group
+  category: bank
+  regions:
+  - us
+  domain: citizensbank.com
+  ats:
+  - workday:citizensbank
+  slugs:
+  - citizensbank
+  - citizensfinancialgroup
+  - citizensfinancial
+  - citizens-financial-group
+- name: Fifth Third Bank
+  category: bank
+  regions:
+  - us
+  domain: fifththird.com
+  ats: []
+  slugs:
+  - fifththird
+  - '53'
+  - fifththirdbank
+  - fifth-third-bank
+- name: KeyBank
+  category: bank
+  regions:
+  - us
+  domain: keybank.com
+  ats: []
+  slugs:
+  - keybank
+  - key
+- name: M&T Bank
+  category: bank
+  regions:
+  - us
+  domain: mtb.com
+  ats: []
+  slugs:
+  - mtb
+  - mandtbank
+  - m-t-bank
+- name: Regions Financial
+  category: bank
+  regions:
+  - us
+  domain: regions.com
+  ats: []
+  slugs:
+  - regions
+  - regionsbank
+  - regionsfinancial
+  - regions-financial
+- name: Handelsbanken
+  category: bank
+  regions:
+  - se
+  - uk
+  domain: handelsbanken.com
+  ats: []
+  slugs:
+  - handelsbanken
+- name: Swedbank
+  category: bank
+  regions:
+  - se
+  - lt
+  - ee
+  domain: swedbank.com
+  ats: []
+  slugs:
+  - swedbank
+- name: CaixaBank
+  category: bank
+  regions:
+  - es
+  domain: caixabank.com
+  ats: []
+  slugs:
+  - caixabank
+- name: Banco Sabadell
+  category: bank
+  regions:
+  - es
+  - uk
+  domain: bancosabadell.com
+  ats: []
+  slugs:
+  - bancosabadell
+  - sabadell
+  - banco-sabadell
+- name: Bankinter
+  category: bank
+  regions:
+  - es
+  domain: bankinter.com
+  ats: []
+  slugs:
+  - bankinter
+- name: Raiffeisen Bank International
+  category: bank
+  regions:
+  - at
+  - ro
+  - cz
+  domain: rbinternational.com
+  ats: []
+  slugs:
+  - rbinternational
+  - raiffeisen
+  - raiffeisenbankinternational
+  - raiffeisen-bank-international
+- name: AIB
+  category: bank
+  regions:
+  - ie
+  - uk
+  domain: aib.com
+  ats: []
+  slugs:
+  - aib
+  - aibgroup
+- name: Bank of Ireland
+  category: bank
+  regions:
+  - ie
+  - uk
+  domain: bankofireland.com
+  ats: []
+  slugs:
+  - bankofireland
+  - bank-of-ireland
+- name: Commonwealth Bank of Australia
+  category: bank
+  regions:
+  - au
+  domain: commbank.com.au
+  ats: []
+  slugs:
+  - commbank
+  - cba
+  - commonwealthbankofaustralia
+  - commonwealth-bank-of-australia
+- name: Westpac
+  category: bank
+  regions:
+  - au
+  - nz
+  domain: westpac.com
+  ats: []
+  slugs:
+  - westpac
+- name: ANZ
+  category: bank
+  regions:
+  - au
+  - nz
+  - in
+  domain: anz.com
+  ats: []
+  slugs:
+  - anz
+- name: National Australia Bank
+  category: bank
+  regions:
+  - au
+  domain: nab.com.au
+  ats: []
+  slugs:
+  - nab
+  - nationalaustraliabank
+  - national-australia-bank
+- name: National Bank of Canada
+  category: bank
+  regions:
+  - ca
+  domain: nbc.ca
+  ats: []
+  slugs:
+  - nbc
+  - nationalbankofcanada
+  - national-bank-of-canada
+- name: Bank of China
+  category: bank
+  regions:
+  - cn
+  - hk
+  - uk
+  domain: bankofchina.com
+  ats: []
+  slugs:
+  - bankofchina
+  - bank-of-china
+- name: ICBC
+  category: bank
+  regions:
+  - cn
+  - hk
+  - uk
+  domain: icbc.com
+  ats: []
+  slugs:
+  - icbc
+- name: China Construction Bank
+  category: bank
+  regions:
+  - cn
+  - hk
+  domain: ccb.com
+  ats: []
+  slugs:
+  - ccb
+  - chinaconstructionbank
+  - china-construction-bank
+- name: Shinhan Investment
+  category: bank
+  regions:
+  - kr
+  domain: shinhaninvest.com
+  ats: []
+  slugs:
+  - shinhaninvest
+  - shinhan
+  - shinhaninvestment
+  - shinhan-investment
+- name: Samsung Securities
+  category: bank
+  regions:
+  - kr
+  domain: samsungsecurities.com
+  ats: []
+  slugs:
+  - samsungsecurities
+  - samsung
+  - samsung-securities
+- name: Mirae Asset Securities
+  category: bank
+  regions:
+  - kr
+  - hk
+  - us
+  domain: miraeassetsecurities.com
+  ats: []
+  slugs:
+  - miraeassetsecurities
+  - mirae
+  - mirae-asset-securities
+- name: NH Investment & Securities
+  category: bank
+  regions:
+  - kr
+  domain: nhis.com
+  ats: []
+  slugs:
+  - nhis
+  - nhqv
+  - nhinvestmentandsecurities
+  - nh
+  - nh-investment-securities
+- name: SBI Securities
+  category: bank
+  regions:
+  - jp
+  domain: sbisec.com
+  ats: []
+  slugs:
+  - sbisec
+  - sbisecurities
+  - sbi
+  - sbi-securities
+- name: Monex Group
+  category: bank
+  regions:
+  - jp
+  - us
+  domain: monexgroup.com
+  ats: []
+  slugs:
+  - monexgroup
+  - monex
+  - monex-group
+- name: Rakuten Securities
+  category: bank
+  regions:
+  - jp
+  domain: rakutensec.com
+  ats: []
+  slugs:
+  - rakutensec
+  - rakutensecurities
+  - rakuten
+  - rakuten-securities
+- name: Okasan Securities
+  category: bank
+  regions:
+  - jp
+  domain: okasan.com
+  ats: []
+  slugs:
+  - okasan
+  - okasansecurities
+  - okasan-securities
+- name: Emirates NBD
+  category: bank
+  regions:
+  - ae
+  - in
+  - uk
+  domain: emiratesnbd.com
+  ats: []
+  slugs:
+  - emiratesnbd
+  - emirates-nbd
+- name: First Abu Dhabi Bank
+  category: bank
+  regions:
+  - ae
+  - uk
+  - sg
+  domain: bankfab.com
+  ats: []
+  slugs:
+  - bankfab
+  - fab
+  - firstabudhabibank
+  - first-abu-dhabi-bank
+- name: Qatar National Bank
+  category: bank
+  regions:
+  - qa
+  - uk
+  domain: qnb.com
+  ats: []
+  slugs:
+  - qnb
+  - qatarnationalbank
+  - qatar-national-bank
+- name: Bradesco BBI
+  category: bank
+  regions:
+  - br
+  domain: bradesco.com
+  ats: []
+  slugs:
+  - bradesco
+  - bradescobbi
+  - bradesco-bbi
+- name: Banco Safra
+  category: bank
+  regions:
+  - br
+  domain: bancosafra.com
+  ats: []
+  slugs:
+  - bancosafra
+  - safra
+  - banco-safra
+- name: Nuvama Wealth
+  category: bank
+  regions:
+  - in
+  domain: nuvama.com
+  ats: []
+  slugs:
+  - nuvama
+  - nuvamawealth
+  - nuvama-wealth
+- name: Edelweiss Financial Services
+  category: bank
+  regions:
+  - in
+  domain: edelweiss.com
+  ats: []
+  slugs:
+  - edelweiss
+  - edelweissfin
+  - edelweissfinancialservices
+  - edelweiss-financial-services
+- name: Kotak Securities
+  category: bank
+  regions:
+  - in
+  domain: kotaksecurities.com
+  ats: []
+  slugs:
+  - kotaksecurities
+  - kotak
+  - kotak-securities
+- name: ICICI Securities
+  category: bank
+  regions:
+  - in
+  domain: icicisecurities.com
+  ats: []
+  slugs:
+  - icicisecurities
+  - icicibank
+  - icici
+  - icici-securities
+- name: Axis Capital
+  category: bank
+  regions:
+  - in
+  domain: axiscapital.com
+  ats: []
+  slugs:
+  - axiscapital
+  - axisbank
+  - axis
+  - axis-capital
+- name: Motilal Oswal
+  category: bank
+  regions:
+  - in
+  domain: motilaloswal.com
+  ats: []
+  slugs:
+  - motilaloswal
+  - motilal-oswal
+- name: Zerodha
+  category: bank
+  regions:
+  - in
+  domain: zerodha.com
+  ats: []
+  slugs:
+  - zerodha
+- name: Groww
+  category: bank
+  regions:
+  - in
+  domain: groww.com
+  ats: []
+  slugs:
+  - groww
+- name: Angel One
+  category: bank
+  regions:
+  - in
+  domain: angelone.in
+  ats: []
+  slugs:
+  - angelone
+  - angelbroking
+  - angel-one
+- name: CME Group
+  category: exchange
+  regions:
+  - us
+  - uk
+  - sg
+  - in
+  domain: cmegroup.com
+  ats:
+  - workday:cmegroup
+  slugs:
+  - cmegroup
+  - cme
+  - cme-group
+- name: Intercontinental Exchange
+  category: exchange
+  regions:
+  - us
+  - uk
+  - sg
+  - in
+  - il
+  domain: ice.com
+  ats:
+  - workday:ice
+  slugs:
+  - ice
+  - theice
+  - intercontinentalexchange
+  - intercontinental-exchange
+- name: Nasdaq
+  category: exchange
+  regions:
+  - us
+  - se
+  - uk
+  - in
+  - lt
+  domain: nasdaq.com
+  ats:
+  - workday:nasdaq
+  slugs:
+  - nasdaq
+- name: NYSE
+  category: exchange
+  regions:
+  - us
+  domain: nyse.com
+  ats: []
+  slugs:
+  - nyse
+- name: Cboe Global Markets
+  category: exchange
+  regions:
+  - us
+  - uk
+  - nl
+  - jp
+  - au
+  - ph
+  domain: cboe.com
+  ats:
+  - workday:cboe
+  slugs:
+  - cboe
+  - cboeglobalmarkets
+  - cboe-global-markets
+- name: London Stock Exchange Group
+  category: exchange
+  regions:
+  - uk
+  - us
+  - in
+  - sg
+  - ro
+  domain: lseg.com
+  ats:
+  - workday:lseg
+  slugs:
+  - lseg
+  - londonstockexchange
+  - londonstockexchangegroup
+  - london-stock-exchange-group
+- name: Deutsche Boerse
+  category: exchange
+  regions:
+  - de
+  - lu
+  - cz
+  - in
+  domain: deutscheboerse.com
+  ats: []
+  slugs:
+  - deutscheboerse
+  - eurex
+  - deutsche-boerse
+- name: Euronext
+  category: exchange
+  regions:
+  - nl
+  - fr
+  - be
+  - pt
+  - 'no'
+  - it
+  domain: euronext.com
+  ats: []
+  slugs:
+  - euronext
+- name: SIX Group
+  category: exchange
+  regions:
+  - ch
+  - es
+  domain: sixgroup.com
+  ats: []
+  slugs:
+  - sixgroup
+  - six
+  - six-group
+- name: Hong Kong Exchanges and Clearing
+  category: exchange
+  regions:
+  - hk
+  - cn
+  - uk
+  domain: hkex.com.hk
+  ats: []
+  slugs:
+  - hkex
+  - hongkongexchangesandclearing
+  - hongkongexchangesclearing
+  - hong-kong-exchanges-and-clearing
+- name: Singapore Exchange
+  category: exchange
+  regions:
+  - sg
+  domain: sgx.com
+  ats: []
+  slugs:
+  - sgx
+  - singaporeexchange
+  - singapore-exchange
+- name: Japan Exchange Group
+  category: exchange
+  regions:
+  - jp
+  domain: jpx.co.jp
+  ats: []
+  slugs:
+  - jpx
+  - japanexchangegroup
+  - japanexchange
+  - japan-exchange-group
+- name: ASX
+  category: exchange
+  regions:
+  - au
+  domain: asx.com
+  ats: []
+  slugs:
+  - asx
+- name: TMX Group
+  category: exchange
+  regions:
+  - ca
+  - uk
+  domain: tmx.com
+  ats: []
+  slugs:
+  - tmx
+  - tmxgroup
+  - tmx-group
+- name: B3
+  category: exchange
+  regions:
+  - br
+  domain: b3.com
+  ats: []
+  slugs:
+  - b3
+- name: MIAX
+  category: exchange
+  regions:
+  - us
+  domain: miax.com
+  ats: []
+  slugs:
+  - miax
+  - miaxglobal
+- name: IEX
+  category: exchange
+  regions:
+  - us
+  domain: iex.com
+  ats:
+  - greenhouse:iex
+  slugs:
+  - iex
+  - iextrading
+- name: MEMX
+  category: exchange
+  regions:
+  - us
+  domain: memx.com
+  ats:
+  - greenhouse:memx
+  slugs:
+  - memx
+- name: Tradeweb
+  category: exchange
+  regions:
+  - us
+  - uk
+  - jp
+  - hk
+  domain: tradeweb.com
+  ats:
+  - greenhouse:tradeweb
+  slugs:
+  - tradeweb
+- name: MarketAxess
+  category: exchange
+  regions:
+  - us
+  - uk
+  - sg
+  - nl
+  domain: marketaxess.com
+  ats:
+  - greenhouse:marketaxess
+  slugs:
+  - marketaxess
+- name: Clear Street
+  category: exchange
+  regions:
+  - us
+  - uk
+  domain: clearstreet.com
+  ats:
+  - greenhouse:clearstreet
+  slugs:
+  - clearstreet
+  - clear-street
+- name: Hidden Road
+  category: exchange
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  domain: hiddenroad.com
+  ats:
+  - greenhouse:hiddenroad
+  slugs:
+  - hiddenroad
+  - hidden-road
+- name: Marex
+  category: exchange
+  regions:
+  - uk
+  - us
+  - sg
+  - hk
+  domain: marex.com
+  ats:
+  - workday:marex
+  slugs:
+  - marex
+- name: StoneX Group
+  category: exchange
+  regions:
+  - us
+  - uk
+  - sg
+  - br
+  domain: stonex.com
+  ats:
+  - workday:stonex
+  slugs:
+  - stonex
+  - stonexgroup
+  - stonex-group
+- name: Interactive Brokers
+  category: exchange
+  regions:
+  - us
+  - uk
+  - hk
+  - sg
+  - in
+  - ch
+  domain: interactivebrokers.com
+  ats:
+  - workday:interactivebrokers
+  slugs:
+  - interactivebrokers
+  - ibkr
+  - interactive-brokers
+- name: Virtu ITG
+  category: exchange
+  regions:
+  - us
+  - uk
+  - hk
+  domain: itg.com
+  ats: []
+  slugs:
+  - itg
+  - virtuitg
+  - virtu-itg
+- name: Quantitative Brokers
+  category: exchange
+  regions:
+  - us
+  - uk
+  - in
+  - au
+  domain: quantitativebrokers.com
+  ats:
+  - greenhouse:quantitativebrokers
+  slugs:
+  - quantitativebrokers
+  - quantitative-brokers
+- name: Instinet
+  category: exchange
+  regions:
+  - us
+  - uk
+  - hk
+  - jp
+  domain: instinet.com
+  ats: []
+  slugs:
+  - instinet
+- name: Liquidnet
+  category: exchange
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  domain: liquidnet.com
+  ats: []
+  slugs:
+  - liquidnet
+- name: Apex Fintech Solutions
+  category: exchange
+  regions:
+  - us
+  domain: apexfintechsolutions.com
+  ats:
+  - greenhouse:apexfintechsolutions
+  slugs:
+  - apexclearing
+  - apexfintech
+  - apexfintechsolutions
+  - apex-fintech-solutions
+- name: Broadridge
+  category: exchange
+  regions:
+  - us
+  - uk
+  - in
+  - ca
+  domain: broadridge.com
+  ats:
+  - workday:broadridge
+  slugs:
+  - broadridge
+- name: SS&C Technologies
+  category: exchange
+  regions:
+  - us
+  - uk
+  - in
+  - ca
+  domain: ssctech.com
+  ats:
+  - workday:ssctech
+  slugs:
+  - ssctech
+  - ssnc
+  - ssandctechnologies
+  - ssandc
+  - ss-c-technologies
+- name: FIS
+  category: exchange
+  regions:
+  - us
+  - uk
+  - in
+  domain: fis.com
+  ats:
+  - workday:fis
+  slugs:
+  - fis
+  - fisglobal
+- name: Fiserv
+  category: exchange
+  regions:
+  - us
+  - uk
+  - in
+  domain: fiserv.com
+  ats:
+  - workday:fiserv
+  slugs:
+  - fiserv
+- name: Citco
+  category: exchange
+  regions:
+  - lu
+  - ie
+  - ca
+  - in
+  domain: citco.com
+  ats: []
+  slugs:
+  - citco
+- name: Enfusion
+  category: exchange
+  regions:
+  - us
+  - uk
+  - sg
+  - in
+  domain: enfusion.com
+  ats:
+  - greenhouse:enfusion
+  slugs:
+  - enfusion
+- name: Murex
+  category: exchange
+  regions:
+  - fr
+  - uk
+  - sg
+  - us
+  domain: murex.com
+  ats: []
+  slugs:
+  - murex
+- name: Numerix
+  category: exchange
+  regions:
+  - us
+  - uk
+  - jp
+  domain: numerix.com
+  ats: []
+  slugs:
+  - numerix
+- name: ION Group
+  category: exchange
+  regions:
+  - it
+  - uk
+  - us
+  - in
+  domain: iongroup.com
+  ats: []
+  slugs:
+  - iongroup
+  - iontrading
+  - ion
+  - ion-group
+- name: Bloomberg
+  category: exchange
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  - in
+  domain: bloomberg.com
+  ats:
+  - html:https://careers.bloomberg.com/job/search
+  slugs:
+  - bloomberg
+  - bloomberglp
+- name: MSCI
+  category: exchange
+  regions:
+  - us
+  - uk
+  - hu
+  - in
+  - mx
+  domain: msci.com
+  ats:
+  - workday:msci
+  slugs:
+  - msci
+- name: S&P Global
+  category: exchange
+  regions:
+  - us
+  - uk
+  - in
+  - pl
+  domain: spglobal.com
+  ats:
+  - workday:spglobal
+  slugs:
+  - spglobal
+  - standardandpoors
+  - sandpglobal
+  - sandp
+  - s-p-global
+- name: Moody's
+  category: exchange
+  regions:
+  - us
+  - uk
+  - cz
+  - in
+  domain: moodys.com
+  ats:
+  - workday:moodys
+  slugs:
+  - moodys
+  - moody-s
+- name: Morningstar
+  category: exchange
+  regions:
+  - us
+  - uk
+  - in
+  - cn
+  domain: morningstar.com
+  ats:
+  - workday:morningstar
+  slugs:
+  - morningstar
+- name: FactSet
+  category: exchange
+  regions:
+  - us
+  - uk
+  - in
+  - fr
+  domain: factset.com
+  ats:
+  - workday:factset
+  slugs:
+  - factset
+- name: Databento
+  category: exchange
+  regions:
+  - us
+  domain: databento.com
+  ats:
+  - ashby:databento
+  slugs:
+  - databento
+- name: Polygon.io
+  category: exchange
+  regions:
+  - us
+  domain: polygon.io
+  ats:
+  - ashby:polygon
+  slugs:
+  - polygonio
+  - polygon
+  - polygon-io
+- name: Kaiko
+  category: exchange
+  regions:
+  - fr
+  - uk
+  - us
+  - sg
+  domain: kaiko.com
+  ats: []
+  slugs:
+  - kaiko
+- name: Exabel
+  category: exchange
+  regions:
+  - 'no'
+  - uk
+  domain: exabel.com
+  ats: []
+  slugs:
+  - exabel
+- name: DTCC
+  category: exchange
+  regions:
+  - us
+  - uk
+  - in
+  - ie
+  domain: dtcc.com
+  ats:
+  - workday:dtcc
+  slugs:
+  - dtcc
+- name: Euroclear
+  category: exchange
+  regions:
+  - be
+  - uk
+  - fr
+  - pl
+  domain: euroclear.com
+  ats: []
+  slugs:
+  - euroclear
+- name: Clearstream
+  category: exchange
+  regions:
+  - lu
+  - de
+  domain: clearstream.com
+  ats: []
+  slugs:
+  - clearstream
+- name: Options Clearing Corporation
+  category: exchange
+  regions:
+  - us
+  domain: theocc.com
+  ats: []
+  slugs:
+  - theocc
+  - occ
+  - optionsclearingcorporation
+  - options-clearing-corporation
+- name: LCH
+  category: exchange
+  regions:
+  - uk
+  - fr
+  - us
+  domain: lch.com
+  ats: []
+  slugs:
+  - lch
+  - lchclearnet
+- name: Eurex
+  category: exchange
+  regions:
+  - de
+  - ch
+  - uk
+  domain: eurex.com
+  ats: []
+  slugs:
+  - eurex
+- name: BOX Exchange
+  category: exchange
+  regions:
+  - us
+  domain: boxexchange.com
+  ats: []
+  slugs:
+  - boxexchange
+  - boxoptions
+  - box-exchange
+- name: Long-Term Stock Exchange
+  category: exchange
+  regions:
+  - us
+  domain: ltse.com
+  ats: []
+  slugs:
+  - ltse
+  - longtermstockexchange
+  - long-term-stock-exchange
+- name: OneChronos
+  category: exchange
+  regions:
+  - us
+  domain: onechronos.com
+  ats:
+  - greenhouse:onechronos
+  slugs:
+  - onechronos
+- name: PrimaryBid
+  category: exchange
+  regions:
+  - uk
+  domain: primarybid.com
+  ats: []
+  slugs:
+  - primarybid
+- name: Aquis Exchange
+  category: exchange
+  regions:
+  - uk
+  - fr
+  domain: aquisexchange.com
+  ats: []
+  slugs:
+  - aquisexchange
+  - aquis
+  - aquis-exchange
+- name: Turquoise
+  category: exchange
+  regions:
+  - uk
+  domain: turquoise.com
+  ats: []
+  slugs:
+  - turquoise
+- name: Bursa Malaysia
+  category: exchange
+  regions:
+  - my
+  domain: bursamalaysia.com
+  ats: []
+  slugs:
+  - bursamalaysia
+  - bursa-malaysia
+- name: Philippine Stock Exchange
+  category: exchange
+  regions:
+  - ph
+  domain: pse.com
+  ats: []
+  slugs:
+  - pse
+  - philippinestockexchange
+  - philippine-stock-exchange
+- name: Indonesia Stock Exchange
+  category: exchange
+  regions:
+  - id
+  domain: idx.com
+  ats: []
+  slugs:
+  - idx
+  - indonesiastockexchange
+  - indonesia-stock-exchange
+- name: National Stock Exchange of India
+  category: exchange
+  regions:
+  - in
+  domain: nseindia.com
+  ats: []
+  slugs:
+  - nseindia
+  - nse
+  - nationalstockexchangeofindia
+  - national-stock-exchange-of-india
+- name: BSE Limited
+  category: exchange
+  regions:
+  - in
+  domain: bseindia.com
+  ats: []
+  slugs:
+  - bseindia
+  - bse
+  - bselimited
+  - bse-limited
+- name: Korea Exchange
+  category: exchange
+  regions:
+  - kr
+  domain: krx.co.kr
+  ats: []
+  slugs:
+  - krx
+  - koreaexchange
+  - korea-exchange
+- name: Taiwan Stock Exchange
+  category: exchange
+  regions:
+  - tw
+  domain: twse.com
+  ats: []
+  slugs:
+  - twse
+  - taiwanstockexchange
+  - taiwan-stock-exchange
+- name: Tel Aviv Stock Exchange
+  category: exchange
+  regions:
+  - il
+  domain: tase.com
+  ats: []
+  slugs:
+  - tase
+  - telavivstockexchange
+  - tel-aviv-stock-exchange
+- name: Johannesburg Stock Exchange
+  category: exchange
+  regions:
+  - za
+  domain: jse.com
+  ats: []
+  slugs:
+  - jse
+  - johannesburgstockexchange
+  - johannesburg-stock-exchange
+- name: Borsa Istanbul
+  category: exchange
+  regions:
+  - tr
+  domain: borsaistanbul.com
+  ats: []
+  slugs:
+  - borsaistanbul
+  - borsa-istanbul
+- name: Moscow Exchange
+  category: exchange
+  regions:
+  - ru
+  domain: moex.com
+  ats: []
+  slugs:
+  - moex
+  - moscowexchange
+  - moscow-exchange
+- name: KX
+  category: exchange
+  regions:
+  - uk
+  - ie
+  - us
+  - sg
+  domain: kx.com
+  ats:
+  - greenhouse:kx
+  slugs:
+  - kx
+  - kxsystems
+  - firstderivatives
+- name: Arcesium
+  category: exchange
+  regions:
+  - us
+  - in
+  - uk
+  domain: arcesium.com
+  ats:
+  - greenhouse:arcesium
+  slugs:
+  - arcesium
+- name: Clearwater Analytics
+  category: exchange
+  regions:
+  - us
+  - uk
+  - in
+  domain: clearwateranalytics.com
+  ats:
+  - greenhouse:clearwateranalytics
+  slugs:
+  - clearwateranalytics
+  - clearwater-analytics
+- name: SimCorp
+  category: exchange
+  regions:
+  - dk
+  - uk
+  - us
+  - sg
+  domain: simcorp.com
+  ats: []
+  slugs:
+  - simcorp
+- name: TS Imagine
+  category: exchange
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  domain: tsimagine.com
+  ats:
+  - greenhouse:tsimagine
+  slugs:
+  - tsimagine
+  - tradingscreen
+  - ts-imagine
+- name: Trading Technologies
+  category: exchange
+  regions:
+  - us
+  - uk
+  - sg
+  - in
+  domain: tradingtechnologies.com
+  ats:
+  - greenhouse:tradingtechnologies
+  slugs:
+  - tradingtechnologies
+  - tt
+  - trading
+  - trading-technologies
+- name: CQG
+  category: exchange
+  regions:
+  - us
+  - uk
+  domain: cqg.com
+  ats: []
+  slugs:
+  - cqg
+- name: Exegy
+  category: exchange
+  regions:
+  - us
+  - uk
+  domain: exegy.com
+  ats: []
+  slugs:
+  - exegy
+- name: Pico
+  category: exchange
+  regions:
+  - us
+  - uk
+  - sg
+  domain: pico.com
+  ats:
+  - greenhouse:pico
+  slugs:
+  - pico
+  - picoquantitative
+- name: Beeks Group
+  category: exchange
+  regions:
+  - uk
+  - us
+  domain: beeksgroup.com
+  ats: []
+  slugs:
+  - beeksgroup
+  - beeks
+  - beeks-group
+- name: Options Technology
+  category: exchange
+  regions:
+  - uk
+  - us
+  - hk
+  domain: optionstechnology.com
+  ats: []
+  slugs:
+  - optionstechnology
+  - options-it
+  - options-technology
+- name: OneTick
+  category: exchange
+  regions:
+  - us
+  - uk
+  domain: onetick.com
+  ats: []
+  slugs:
+  - onetick
+  - onemarketdata
+- name: dxFeed
+  category: exchange
+  regions:
+  - us
+  - de
+  - ua
+  domain: dxfeed.com
+  ats: []
+  slugs:
+  - dxfeed
+- name: Adaptive Financial Consulting
+  category: exchange
+  regions:
+  - uk
+  - us
+  domain: weareadaptive.com
+  ats:
+  - greenhouse:adaptive
+  slugs:
+  - weareadaptive
+  - adaptive
+  - adaptivefinancialconsulting
+  - adaptive-financial-consulting
+- name: Finastra
+  category: exchange
+  regions:
+  - uk
+  - us
+  - in
+  - sg
+  domain: finastra.com
+  ats: []
+  slugs:
+  - finastra
+- name: Temenos
+  category: exchange
+  regions:
+  - ch
+  - uk
+  - in
+  domain: temenos.com
+  ats: []
+  slugs:
+  - temenos
+- name: Avaloq
+  category: exchange
+  regions:
+  - ch
+  - sg
+  - de
+  domain: avaloq.com
+  ats: []
+  slugs:
+  - avaloq
+- name: Addepar
+  category: exchange
+  regions:
+  - us
+  - uk
+  - in
+  domain: addepar.com
+  ats:
+  - greenhouse:addepar
+  slugs:
+  - addepar
+- name: Enfusion Europe
+  category: exchange
+  regions:
+  - uk
+  domain: enfusioneurope.com
+  ats: []
+  slugs:
+  - enfusioneurope
+  - enfusion-europe
+- name: Bloomberg Industry Group
+  category: exchange
+  regions:
+  - us
+  - uk
+  domain: bloombergindustry.com
+  ats: []
+  slugs:
+  - bloombergindustry
+  - bloombergindustrygroup
+  - bloomberg-industry-group
+- name: AlphaSense
+  category: exchange
+  regions:
+  - us
+  - uk
+  - in
+  - fi
+  domain: alphasense.com
+  ats:
+  - greenhouse:alphasense
+  slugs:
+  - alphasense
+- name: YipitData
+  category: exchange
+  regions:
+  - us
+  - uk
+  - in
+  domain: yipitdata.com
+  ats:
+  - greenhouse:yipitdata
+  slugs:
+  - yipitdata
+- name: M Science
+  category: exchange
+  regions:
+  - us
+  - uk
+  domain: mscience.com
+  ats: []
+  slugs:
+  - mscience
+  - m-science
+- name: Similarweb
+  category: exchange
+  regions:
+  - il
+  - us
+  - uk
+  domain: similarweb.com
+  ats:
+  - greenhouse:similarweb
+  slugs:
+  - similarweb
+- name: Neudata
+  category: exchange
+  regions:
+  - uk
+  - us
+  domain: neudata.com
+  ats: []
+  slugs:
+  - neudata
+- name: Eagle Alpha
+  category: exchange
+  regions:
+  - ie
+  - us
+  domain: eaglealpha.com
+  ats: []
+  slugs:
+  - eaglealpha
+  - eagle-alpha
+- name: Quandl
+  category: exchange
+  regions:
+  - ca
+  - us
+  domain: quandl.com
+  ats: []
+  slugs:
+  - quandl
+- name: Coin Metrics
+  category: exchange
+  regions:
+  - us
+  - uk
+  domain: coinmetrics.com
+  ats:
+  - greenhouse:coinmetrics
+  slugs:
+  - coinmetrics
+  - coin-metrics
+- name: Amberdata
+  category: exchange
+  regions:
+  - us
+  - uk
+  domain: amberdata.com
+  ats:
+  - greenhouse:amberdata
+  slugs:
+  - amberdata
+- name: Sigma Broking
+  category: exchange
+  regions:
+  - uk
+  domain: sigmabroking.com
+  ats: []
+  slugs:
+  - sigmabroking
+  - sigma-broking
+- name: ED&F Man Capital
+  category: exchange
+  regions:
+  - uk
+  - us
+  domain: edfmancapital.com
+  ats: []
+  slugs:
+  - edfmancapital
+  - edandfmancapital
+  - edandfman
+  - ed-f-man-capital
+- name: R.J. O'Brien
+  category: exchange
+  regions:
+  - us
+  - uk
+  domain: rjobrien.com
+  ats: []
+  slugs:
+  - rjobrien
+  - rjo
+  - r-j-o-brien
+- name: ADM Investor Services
+  category: exchange
+  regions:
+  - us
+  - uk
+  domain: admis.com
+  ats: []
+  slugs:
+  - admis
+  - adminvestorservices
+  - adm-investor-services
+- name: Robinhood
+  category: fintech
+  regions:
+  - us
+  - uk
+  domain: robinhood.com
+  ats:
+  - greenhouse:robinhood
+  slugs:
+  - robinhood
+- name: Charles Schwab
+  category: fintech
+  regions:
+  - us
+  - uk
+  domain: schwab.com
+  ats:
+  - workday:schwab
+  slugs:
+  - schwab
+  - charlesschwab
+  - charles-schwab
+- name: Webull
+  category: fintech
+  regions:
+  - us
+  - sg
+  - hk
+  domain: webull.com
+  ats: []
+  slugs:
+  - webull
+- name: eToro
+  category: fintech
+  regions:
+  - il
+  - uk
+  - cy
+  domain: etoro.com
+  ats:
+  - greenhouse:etoro
+  slugs:
+  - etoro
+- name: IG Group
+  category: fintech
+  regions:
+  - uk
+  - au
+  - sg
+  - de
+  domain: iggroup.com
+  ats:
+  - greenhouse:iggroup
+  slugs:
+  - iggroup
+  - ig
+  - ig-group
+- name: CMC Markets
+  category: fintech
+  regions:
+  - uk
+  - au
+  - sg
+  domain: cmcmarkets.com
+  ats: []
+  slugs:
+  - cmcmarkets
+  - cmc
+  - cmc-markets
+- name: Plus500
+  category: fintech
+  regions:
+  - il
+  - uk
+  - cy
+  - au
+  domain: plus500.com
+  ats: []
+  slugs:
+  - plus500
+- name: Saxo Bank
+  category: fintech
+  regions:
+  - dk
+  - uk
+  - sg
+  domain: saxobank.com
+  ats: []
+  slugs:
+  - saxobank
+  - saxo
+  - saxo-bank
+- name: Tastytrade
+  category: fintech
+  regions:
+  - us
+  domain: tastytrade.com
+  ats: []
+  slugs:
+  - tastytrade
+  - tastyworks
+- name: Stripe
+  category: fintech
+  regions:
+  - us
+  - ie
+  - sg
+  - in
+  domain: stripe.com
+  ats:
+  - greenhouse:stripe
+  slugs:
+  - stripe
+- name: Plaid
+  category: fintech
+  regions:
+  - us
+  - uk
+  domain: plaid.com
+  ats:
+  - greenhouse:plaid
+  slugs:
+  - plaid
+- name: Ramp
+  category: fintech
+  regions:
+  - us
+  - uk
+  domain: ramp.com
+  ats:
+  - ashby:ramp
+  slugs:
+  - ramp
+- name: Brex
+  category: fintech
+  regions:
+  - us
+  - ca
+  domain: brex.com
+  ats:
+  - greenhouse:brex
+  slugs:
+  - brex
+- name: Mercury
+  category: fintech
+  regions:
+  - us
+  domain: mercury.com
+  ats:
+  - ashby:mercury
+  slugs:
+  - mercury
+- name: Modern Treasury
+  category: fintech
+  regions:
+  - us
+  domain: moderntreasury.com
+  ats:
+  - greenhouse:moderntreasury
+  slugs:
+  - moderntreasury
+  - modern-treasury
+- name: Affirm
+  category: fintech
+  regions:
+  - us
+  - ca
+  - pl
+  - es
+  domain: affirm.com
+  ats:
+  - greenhouse:affirm
+  slugs:
+  - affirm
+- name: Marqeta
+  category: fintech
+  regions:
+  - us
+  - uk
+  domain: marqeta.com
+  ats:
+  - greenhouse:marqeta
+  slugs:
+  - marqeta
+- name: Chime
+  category: fintech
+  regions:
+  - us
+  domain: chime.com
+  ats:
+  - greenhouse:chime
+  slugs:
+  - chime
+- name: Revolut
+  category: fintech
+  regions:
+  - uk
+  - pl
+  - pt
+  - in
+  domain: revolut.com
+  ats:
+  - html:https://www.revolut.com/careers/
+  slugs:
+  - revolut
+- name: Monzo
+  category: fintech
+  regions:
+  - uk
+  - ie
+  - us
+  domain: monzo.com
+  ats:
+  - greenhouse:monzo
+  slugs:
+  - monzo
+- name: Starling Bank
+  category: fintech
+  regions:
+  - uk
+  - ie
+  domain: starlingbank.com
+  ats: []
+  slugs:
+  - starlingbank
+  - starling
+  - starling-bank
+- name: N26
+  category: fintech
+  regions:
+  - de
+  - es
+  domain: n26.com
+  ats:
+  - greenhouse:n26
+  slugs:
+  - n26
+- name: Wise
+  category: fintech
+  regions:
+  - uk
+  - ee
+  - sg
+  - hu
+  domain: wise.com
+  ats:
+  - greenhouse:wise
+  slugs:
+  - wise
+  - transferwise
+- name: Klarna
+  category: fintech
+  regions:
+  - se
+  - de
+  - uk
+  - us
+  domain: klarna.com
+  ats:
+  - greenhouse:klarna
+  slugs:
+  - klarna
+- name: Adyen
+  category: fintech
+  regions:
+  - nl
+  - us
+  - sg
+  - es
+  domain: adyen.com
+  ats:
+  - greenhouse:adyen
+  slugs:
+  - adyen
+- name: Checkout.com
+  category: fintech
+  regions:
+  - uk
+  - ae
+  - us
+  domain: checkout.com
+  ats:
+  - greenhouse:checkoutcom
+  slugs:
+  - checkoutcom
+  - checkout
+  - checkout-com
+- name: Airwallex
+  category: fintech
+  regions:
+  - au
+  - hk
+  - sg
+  - uk
+  domain: airwallex.com
+  ats:
+  - greenhouse:airwallex
+  slugs:
+  - airwallex
+- name: Nubank
+  category: fintech
+  regions:
+  - br
+  - mx
+  - co
+  - us
+  domain: nubank.com
+  ats:
+  - greenhouse:nubank
+  slugs:
+  - nubank
+- name: SoFi
+  category: fintech
+  regions:
+  - us
+  domain: sofi.com
+  ats:
+  - greenhouse:sofi
+  slugs:
+  - sofi
+- name: Betterment
+  category: fintech
+  regions:
+  - us
+  domain: betterment.com
+  ats:
+  - greenhouse:betterment
+  slugs:
+  - betterment
+- name: Wealthfront
+  category: fintech
+  regions:
+  - us
+  domain: wealthfront.com
+  ats:
+  - greenhouse:wealthfront
+  slugs:
+  - wealthfront
+- name: Alpaca
+  category: fintech
+  regions:
+  - us
+  - jp
+  domain: alpaca.com
+  ats:
+  - ashby:alpaca
+  slugs:
+  - alpaca
+  - alpacamarkets
+- name: QuantConnect
+  category: fintech
+  regions:
+  - us
+  domain: quantconnect.com
+  ats: []
+  slugs:
+  - quantconnect
+- name: Composer
+  category: fintech
+  regions:
+  - us
+  domain: composer.com
+  ats: []
+  slugs:
+  - composer
+  - composertrade
+- name: Titan
+  category: fintech
+  regions:
+  - us
+  domain: titanvest.com
+  ats: []
+  slugs:
+  - titanvest
+  - titan
+- name: Block
+  category: fintech
+  regions:
+  - us
+  - au
+  - ca
+  - ie
+  domain: block.xyz
+  ats:
+  - greenhouse:block
+  slugs:
+  - block
+  - squareinc
+  - square
+- name: PayPal
+  category: fintech
+  regions:
+  - us
+  - uk
+  - in
+  - sg
+  - ie
+  domain: paypal.com
+  ats:
+  - workday:paypal
+  slugs:
+  - paypal
+- name: Intuit
+  category: fintech
+  regions:
+  - us
+  - in
+  - ca
+  - uk
+  domain: intuit.com
+  ats:
+  - workday:intuit
+  slugs:
+  - intuit
+- name: Toast
+  category: fintech
+  regions:
+  - us
+  - ie
+  - in
+  domain: toast.com
+  ats:
+  - greenhouse:toast
+  slugs:
+  - toast
+  - toasttab
+- name: Shift4
+  category: fintech
+  regions:
+  - us
+  - uk
+  domain: shift4.com
+  ats: []
+  slugs:
+  - shift4
+- name: Nuvei
+  category: fintech
+  regions:
+  - ca
+  - uk
+  - il
+  domain: nuvei.com
+  ats: []
+  slugs:
+  - nuvei
+- name: Payoneer
+  category: fintech
+  regions:
+  - us
+  - il
+  - in
+  - hk
+  domain: payoneer.com
+  ats:
+  - greenhouse:payoneer
+  slugs:
+  - payoneer
+- name: Remitly
+  category: fintech
+  regions:
+  - us
+  - ph
+  - in
+  - uk
+  domain: remitly.com
+  ats:
+  - greenhouse:remitly
+  slugs:
+  - remitly
+- name: dLocal
+  category: fintech
+  regions:
+  - uy
+  - br
+  - us
+  - uk
+  domain: dlocal.com
+  ats:
+  - greenhouse:dlocal
+  slugs:
+  - dlocal
+- name: Flutterwave
+  category: fintech
+  regions:
+  - ng
+  - us
+  - uk
+  domain: flutterwave.com
+  ats:
+  - greenhouse:flutterwave
+  slugs:
+  - flutterwave
+- name: Rapyd
+  category: fintech
+  regions:
+  - il
+  - uk
+  - sg
+  domain: rapyd.com
+  ats:
+  - greenhouse:rapyd
+  slugs:
+  - rapyd
+- name: Thunes
+  category: fintech
+  regions:
+  - sg
+  - uk
+  - us
+  domain: thunes.com
+  ats: []
+  slugs:
+  - thunes
+- name: Ebury
+  category: fintech
+  regions:
+  - uk
+  - es
+  - nl
+  domain: ebury.com
+  ats:
+  - greenhouse:ebury
+  slugs:
+  - ebury
+- name: Corpay
+  category: fintech
+  regions:
+  - us
+  - uk
+  domain: corpay.com
+  ats: []
+  slugs:
+  - corpay
+  - fleetcor
+- name: StoneCo
+  category: fintech
+  regions:
+  - br
+  domain: stoneco.com
+  ats: []
+  slugs:
+  - stoneco
+  - stone
+- name: PagBank PagSeguro
+  category: fintech
+  regions:
+  - br
+  domain: pagseguro.com
+  ats: []
+  slugs:
+  - pagseguro
+  - pagbank
+  - pagbankpagseguro
+  - pagbank-pagseguro
+- name: Mollie
+  category: fintech
+  regions:
+  - nl
+  - de
+  - uk
+  domain: mollie.com
+  ats:
+  - greenhouse:mollie
+  slugs:
+  - mollie
+- name: SumUp
+  category: fintech
+  regions:
+  - uk
+  - de
+  - br
+  domain: sumup.com
+  ats:
+  - greenhouse:sumup
+  slugs:
+  - sumup
+- name: Zopa
+  category: fintech
+  regions:
+  - uk
+  domain: zopa.com
+  ats:
+  - greenhouse:zopa
+  slugs:
+  - zopa
+- name: OakNorth
+  category: fintech
+  regions:
+  - uk
+  - in
+  - us
+  domain: oaknorth.com
+  ats:
+  - greenhouse:oaknorth
+  slugs:
+  - oaknorth
+- name: Tide
+  category: fintech
+  regions:
+  - uk
+  - in
+  - bg
+  domain: tide.com
+  ats:
+  - greenhouse:tide
+  slugs:
+  - tide
+  - tidebanking
+- name: Atom Bank
+  category: fintech
+  regions:
+  - uk
+  domain: atombank.com
+  ats: []
+  slugs:
+  - atombank
+  - atom-bank
+- name: Trade Republic
+  category: fintech
+  regions:
+  - de
+  - uk
+  domain: traderepublic.com
+  ats:
+  - greenhouse:traderepublic
+  slugs:
+  - traderepublic
+  - trade-republic
+- name: Scalable Capital
+  category: fintech
+  regions:
+  - de
+  - uk
+  - at
+  domain: scalablecapital.com
+  ats:
+  - greenhouse:scalablecapital
+  slugs:
+  - scalablecapital
+  - scalable
+  - scalable-capital
+- name: Bitpanda
+  category: fintech
+  regions:
+  - at
+  - de
+  - uk
+  domain: bitpanda.com
+  ats:
+  - greenhouse:bitpanda
+  slugs:
+  - bitpanda
+- name: Lightyear
+  category: fintech
+  regions:
+  - ee
+  - uk
+  domain: lightyear.com
+  ats: []
+  slugs:
+  - lightyear
+- name: Freetrade
+  category: fintech
+  regions:
+  - uk
+  domain: freetrade.com
+  ats:
+  - greenhouse:freetrade
+  slugs:
+  - freetrade
+- name: Trading 212
+  category: fintech
+  regions:
+  - uk
+  - bg
+  domain: trading212.com
+  ats: []
+  slugs:
+  - trading212
+  - trading-212
+- name: Hargreaves Lansdown
+  category: fintech
+  regions:
+  - uk
+  domain: hl.co.uk
+  ats: []
+  slugs:
+  - hargreaveslansdown
+  - hargreaves-lansdown
+- name: AJ Bell
+  category: fintech
+  regions:
+  - uk
+  domain: ajbell.co.uk
+  ats: []
+  slugs:
+  - ajbell
+  - aj-bell
+- name: interactive investor
+  category: fintech
+  regions:
+  - uk
+  domain: ii.co.uk
+  ats: []
+  slugs:
+  - interactiveinvestor
+  - ii
+  - interactive-investor
+- name: Moneyfarm
+  category: fintech
+  regions:
+  - uk
+  - it
+  domain: moneyfarm.com
+  ats: []
+  slugs:
+  - moneyfarm
+- name: Raisin
+  category: fintech
+  regions:
+  - de
+  - uk
+  - us
+  domain: raisin.com
+  ats:
+  - greenhouse:raisin
+  slugs:
+  - raisin
+- name: Public.com
+  category: fintech
+  regions:
+  - us
+  domain: public.com
+  ats:
+  - greenhouse:public
+  slugs:
+  - public
+  - publicholdings
+  - publiccom
+  - public-com
+- name: M1 Finance
+  category: fintech
+  regions:
+  - us
+  domain: m1finance.com
+  ats:
+  - greenhouse:m1finance
+  slugs:
+  - m1finance
+  - m1
+  - m1-finance
+- name: Stash
+  category: fintech
+  regions:
+  - us
+  domain: stash.com
+  ats:
+  - greenhouse:stash
+  slugs:
+  - stash
+  - stashinvest
+- name: Acorns
+  category: fintech
+  regions:
+  - us
+  domain: acorns.com
+  ats:
+  - greenhouse:acorns
+  slugs:
+  - acorns
+- name: Kalshi
+  category: fintech
+  regions:
+  - us
+  domain: kalshi.com
+  ats:
+  - ashby:kalshi
+  slugs:
+  - kalshi
+- name: Polymarket
+  category: fintech
+  regions:
+  - us
+  domain: polymarket.com
+  ats:
+  - ashby:polymarket
+  slugs:
+  - polymarket
+- name: Sardine
+  category: fintech
+  regions:
+  - us
+  - in
+  domain: sardine.com
+  ats:
+  - ashby:sardine
+  slugs:
+  - sardine
+  - sardineai
+- name: Nium
+  category: fintech
+  regions:
+  - sg
+  - in
+  - uk
+  - us
+  domain: nium.com
+  ats:
+  - greenhouse:nium
+  slugs:
+  - nium
+- name: Grab Financial
+  category: fintech
+  regions:
+  - sg
+  - my
+  - id
+  domain: grab.com
+  ats: []
+  slugs:
+  - grab
+  - grabfinancial
+  - grab-financial
+- name: Sea Group
+  category: fintech
+  regions:
+  - sg
+  - id
+  - tw
+  domain: sea.com
+  ats: []
+  slugs:
+  - seagroup
+  - sea
+  - sea-group
+- name: Paytm
+  category: fintech
+  regions:
+  - in
+  domain: paytm.com
+  ats: []
+  slugs:
+  - paytm
+- name: PhonePe
+  category: fintech
+  regions:
+  - in
+  domain: phonepe.com
+  ats: []
+  slugs:
+  - phonepe
+- name: Razorpay
+  category: fintech
+  regions:
+  - in
+  - my
+  domain: razorpay.com
+  ats:
+  - greenhouse:razorpay
+  slugs:
+  - razorpay
+- name: CRED
+  category: fintech
+  regions:
+  - in
+  domain: cred.com
+  ats: []
+  slugs:
+  - cred
+- name: Jump Crypto
+  category: crypto
+  regions:
+  - us
+  - uk
+  - sg
+  domain: jumpcrypto.com
+  ats: []
+  slugs:
+  - jumpcrypto
+  - jump-crypto
+- name: Wintermute
+  category: crypto
+  regions:
+  - uk
+  - sg
+  domain: wintermute.com
+  ats:
+  - greenhouse:wintermute
+  slugs:
+  - wintermute
+  - wintermutetrading
+- name: GSR Markets
+  category: crypto
+  regions:
+  - uk
+  - sg
+  - us
+  - ch
+  domain: gsr.io
+  ats:
+  - greenhouse:gsr
+  slugs:
+  - gsr
+  - gsrmarkets
+  - gsr-markets
+- name: Amber Group
+  category: crypto
+  regions:
+  - sg
+  - hk
+  - us
+  domain: ambergroup.com
+  ats:
+  - lever:ambergroup
+  slugs:
+  - ambergroup
+  - amber
+  - amber-group
+- name: Auros
+  category: crypto
+  regions:
+  - sg
+  - uk
+  - au
+  domain: auros.com
+  ats: []
+  slugs:
+  - auros
+  - aurosglobal
+- name: Keyrock
+  category: crypto
+  regions:
+  - be
+  - sg
+  - uk
+  domain: keyrock.com
+  ats:
+  - greenhouse:keyrock
+  slugs:
+  - keyrock
+- name: B2C2
+  category: crypto
+  regions:
+  - uk
+  - us
+  - jp
+  - sg
+  domain: b2c2.com
+  ats:
+  - greenhouse:b2c2
+  slugs:
+  - b2c2
+- name: Cumberland
+  category: crypto
+  regions:
+  - us
+  - uk
+  - sg
+  domain: cumberland.com
+  ats: []
+  slugs:
+  - cumberland
+  - cumberlandmining
+- name: Galaxy Digital
+  category: crypto
+  regions:
+  - us
+  - uk
+  - sg
+  - hk
+  domain: galaxy.com
+  ats:
+  - greenhouse:galaxydigital
+  slugs:
+  - galaxydigital
+  - galaxy
+  - galaxy-digital
+- name: Selini Capital
+  category: crypto
+  regions:
+  - sg
+  - ae
+  domain: selinicapital.com
+  ats: []
+  slugs:
+  - selinicapital
+  - selini
+  - selini-capital
+- name: Coinbase
+  category: crypto
+  regions:
+  - us
+  - uk
+  - ie
+  - sg
+  - in
+  domain: coinbase.com
+  ats:
+  - greenhouse:coinbase
+  slugs:
+  - coinbase
+- name: Kraken
+  category: crypto
+  regions:
+  - us
+  - uk
+  - ca
+  - jp
+  domain: kraken.com
+  ats:
+  - greenhouse:kraken
+  slugs:
+  - kraken
+  - payward
+- name: Gemini
+  category: crypto
+  regions:
+  - us
+  - uk
+  - sg
+  - ie
+  domain: gemini.com
+  ats:
+  - greenhouse:gemini
+  slugs:
+  - gemini
+- name: OKX
+  category: crypto
+  regions:
+  - hk
+  - sg
+  - ae
+  - us
+  domain: okx.com
+  ats:
+  - lever:okx
+  slugs:
+  - okx
+  - okcoin
+- name: Bybit
+  category: crypto
+  regions:
+  - ae
+  - sg
+  - hk
+  domain: bybit.com
+  ats: []
+  slugs:
+  - bybit
+- name: Circle
+  category: crypto
+  regions:
+  - us
+  - uk
+  - ie
+  - sg
+  domain: circle.com
+  ats:
+  - greenhouse:circle
+  slugs:
+  - circle
+  - circleinternet
+- name: Ripple
+  category: crypto
+  regions:
+  - us
+  - uk
+  - sg
+  - ae
+  domain: ripple.com
+  ats:
+  - greenhouse:ripple
+  slugs:
+  - ripple
+- name: Anchorage Digital
+  category: crypto
+  regions:
+  - us
+  - pt
+  - sg
+  domain: anchoragedigital.com
+  ats:
+  - greenhouse:anchoragedigital
+  slugs:
+  - anchoragedigital
+  - anchorage-digital
+- name: Fireblocks
+  category: crypto
+  regions:
+  - il
+  - us
+  - uk
+  - sg
+  domain: fireblocks.com
+  ats:
+  - greenhouse:fireblocks
+  slugs:
+  - fireblocks
+- name: Chainalysis
+  category: crypto
+  regions:
+  - us
+  - uk
+  - dk
+  - sg
+  domain: chainalysis.com
+  ats:
+  - greenhouse:chainalysis
+  slugs:
+  - chainalysis
+- name: Paxos
+  category: crypto
+  regions:
+  - us
+  - sg
+  - il
+  domain: paxos.com
+  ats:
+  - greenhouse:paxos
+  slugs:
+  - paxos
+- name: BitGo
+  category: crypto
+  regions:
+  - us
+  - de
+  - sg
+  domain: bitgo.com
+  ats:
+  - greenhouse:bitgo
+  slugs:
+  - bitgo
+- name: Copper.co
+  category: crypto
+  regions:
+  - uk
+  - ch
+  - ae
+  domain: copper.co
+  ats:
+  - greenhouse:copper
+  slugs:
+  - copperco
+  - copper
+  - copper-co
+- name: FalconX
+  category: crypto
+  regions:
+  - us
+  - in
+  - sg
+  - uk
+  domain: falconx.com
+  ats:
+  - greenhouse:falconx
+  slugs:
+  - falconx
+- name: Talos
+  category: crypto
+  regions:
+  - us
+  - uk
+  - sg
+  domain: talos.com
+  ats:
+  - greenhouse:talos
+  slugs:
+  - talos
+  - talostrading
+- name: Binance
+  category: crypto
+  regions:
+  - ae
+  - sg
+  - fr
+  domain: binance.com
+  ats: []
+  slugs:
+  - binance
+- name: Crypto.com
+  category: crypto
+  regions:
+  - sg
+  - uk
+  - us
+  domain: crypto.com
+  ats:
+  - greenhouse:cryptocom
+  slugs:
+  - cryptocom
+  - crypto
+  - crypto-com
+- name: KuCoin
+  category: crypto
+  regions:
+  - sg
+  - hk
+  domain: kucoin.com
+  ats: []
+  slugs:
+  - kucoin
+- name: Gate.io
+  category: crypto
+  regions:
+  - hk
+  - ae
+  domain: gate.io
+  ats: []
+  slugs:
+  - gateio
+  - gate
+  - gate-io
+- name: Bitget
+  category: crypto
+  regions:
+  - sg
+  - ae
+  domain: bitget.com
+  ats: []
+  slugs:
+  - bitget
+- name: MEXC
+  category: crypto
+  regions:
+  - sg
+  - ae
+  domain: mexc.com
+  ats: []
+  slugs:
+  - mexc
+- name: Deribit
+  category: crypto
+  regions:
+  - nl
+  - ae
+  - pa
+  domain: deribit.com
+  ats: []
+  slugs:
+  - deribit
+- name: Bitfinex
+  category: crypto
+  regions:
+  - vg
+  - uk
+  - ch
+  domain: bitfinex.com
+  ats: []
+  slugs:
+  - bitfinex
+- name: Bitstamp
+  category: crypto
+  regions:
+  - lu
+  - uk
+  - sg
+  domain: bitstamp.com
+  ats: []
+  slugs:
+  - bitstamp
+- name: Flowdesk
+  category: crypto
+  regions:
+  - fr
+  - sg
+  - us
+  domain: flowdesk.com
+  ats:
+  - greenhouse:flowdesk
+  slugs:
+  - flowdesk
+- name: DWF Labs
+  category: crypto
+  regions:
+  - sg
+  - ae
+  - hk
+  domain: dwflabs.com
+  ats: []
+  slugs:
+  - dwflabs
+  - dwf-labs
+- name: Portofino Technologies
+  category: crypto
+  regions:
+  - ch
+  - uk
+  - sg
+  domain: portofinotech.com
+  ats:
+  - greenhouse:portofino
+  slugs:
+  - portofinotech
+  - portofino
+  - portofinotechnologies
+  - portofino-technologies
+- name: QCP Capital
+  category: crypto
+  regions:
+  - sg
+  - ae
+  domain: qcpcapital.com
+  ats: []
+  slugs:
+  - qcpcapital
+  - qcp
+  - qcp-capital
+- name: Arbelos Markets
+  category: crypto
+  regions:
+  - us
+  domain: arbelosmarkets.com
+  ats: []
+  slugs:
+  - arbelosmarkets
+  - arbelos
+  - arbelos-markets
+- name: Efficient Frontier
+  category: crypto
+  regions:
+  - il
+  - sg
+  domain: efficientfrontier.com
+  ats: []
+  slugs:
+  - efficientfrontier
+  - efficient-frontier
+- name: Altonomy
+  category: crypto
+  regions:
+  - sg
+  - us
+  domain: altonomy.com
+  ats: []
+  slugs:
+  - altonomy
+- name: Nonco
+  category: crypto
+  regions:
+  - us
+  - ar
+  domain: nonco.com
+  ats: []
+  slugs:
+  - nonco
+- name: Hex Trust
+  category: crypto
+  regions:
+  - hk
+  - sg
+  - ae
+  domain: hextrust.com
+  ats: []
+  slugs:
+  - hextrust
+  - hex-trust
+- name: Matrixport
+  category: crypto
+  regions:
+  - sg
+  - hk
+  domain: matrixport.com
+  ats: []
+  slugs:
+  - matrixport
+- name: Blockchain.com
+  category: crypto
+  regions:
+  - uk
+  - us
+  - sg
+  domain: blockchain.com
+  ats:
+  - greenhouse:blockchain
+  slugs:
+  - blockchain
+  - blockchaincom
+  - blockchain-com
+- name: Zodia Markets
+  category: crypto
+  regions:
+  - uk
+  - ie
+  - ae
+  domain: zodiamarkets.com
+  ats: []
+  slugs:
+  - zodiamarkets
+  - zodia
+  - zodia-markets
+- name: Bitwise Asset Management
+  category: crypto
+  regions:
+  - us
+  domain: bitwiseinvestments.com
+  ats:
+  - greenhouse:bitwise
+  slugs:
+  - bitwiseinvestments
+  - bitwise
+  - bitwiseassetmanagement
+  - bitwise-asset-management
+- name: Grayscale Investments
+  category: crypto
+  regions:
+  - us
+  domain: grayscale.com
+  ats:
+  - greenhouse:grayscale
+  slugs:
+  - grayscale
+  - grayscaleinvestments
+  - grayscale-investments
+- name: Pantera Capital
+  category: crypto
+  regions:
+  - us
+  domain: panteracapital.com
+  ats:
+  - greenhouse:pantera
+  slugs:
+  - panteracapital
+  - pantera
+  - pantera-capital
+- name: Polychain Capital
+  category: crypto
+  regions:
+  - us
+  domain: polychain.com
+  ats: []
+  slugs:
+  - polychain
+  - polychaincapital
+  - polychain-capital
+- name: Multicoin Capital
+  category: crypto
+  regions:
+  - us
+  domain: multicoincapital.com
+  ats: []
+  slugs:
+  - multicoincapital
+  - multicoin
+  - multicoin-capital
+- name: Dragonfly
+  category: crypto
+  regions:
+  - us
+  domain: dragonflycapital.com
+  ats: []
+  slugs:
+  - dragonflycapital
+  - dragonfly
+- name: Hashed
+  category: crypto
+  regions:
+  - kr
+  - sg
+  - us
+  domain: hashed.com
+  ats: []
+  slugs:
+  - hashed
+- name: Amber Premium
+  category: crypto
+  regions:
+  - sg
+  - hk
+  domain: amberpremium.com
+  ats: []
+  slugs:
+  - amberpremium
+  - amber-premium
+- name: Uniswap Labs
+  category: crypto
+  regions:
+  - us
+  domain: uniswaplabs.com
+  ats:
+  - greenhouse:uniswaplabs
+  slugs:
+  - uniswaplabs
+  - uniswap
+  - uniswap-labs
+- name: Chainlink Labs
+  category: crypto
+  regions:
+  - us
+  - uk
+  - sg
+  domain: chainlinklabs.com
+  ats:
+  - greenhouse:chainlinklabs
+  slugs:
+  - chainlinklabs
+  - chainlink
+  - chainlink-labs
+- name: Consensys
+  category: crypto
+  regions:
+  - us
+  - uk
+  - ch
+  - sg
+  domain: consensys.com
+  ats:
+  - greenhouse:consensys
+  slugs:
+  - consensys

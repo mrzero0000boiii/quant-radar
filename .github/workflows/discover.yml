@@ -1,0 +1,69 @@
+name: discover
+
+# Finds NEW FIRMS (the 4-hourly `radar` workflow finds new jobs at firms we
+# already know). Harvests candidate names from SEC EDGAR and exchange member
+# directories, then qualifies a batch by looking for a live careers board.
+# Promoted firms are picked up by the next radar sweep automatically.
+
+on:
+  schedule:
+    - cron: "20 6 * * 1"    # Mondays, 06:20 UTC
+  workflow_dispatch:
+    inputs:
+      budget:
+        description: "Candidates to qualify this run (default 120)"
+        type: string
+        default: ""
+      sources:
+        description: "Comma list: edgar-13f,edgar-sic,members (blank = all)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-discover
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Harvest and qualify
+        env:
+          # SEC blocks requests without a real contact string.
+          SEC_USER_AGENT: "${{ vars.SEC_USER_AGENT || 'quant-radar radar@example.com' }}"
+        run: |
+          python -m radar.main --discover-only \
+            ${{ inputs.budget && format('--discover-budget {0}', inputs.budget) || '' }} \
+            ${{ inputs.sources && format('--discover-sources {0}', inputs.sources) || '' }}
+
+      - name: Commit candidates
+        run: |
+          git config user.name  "radar[bot]"
+          git config user.email "radar@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "no new candidates"
+          else
+            MSG=$(jq -r '"discover: +\(.harvested) candidates, \(.promoted_this_run) promoted, \(.candidates_now) known"' data/last_discovery.json)
+            git commit -m "$MSG"
+            git push
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "### Firm discovery" >> $GITHUB_STEP_SUMMARY
+          echo '```json' >> $GITHUB_STEP_SUMMARY
+          cat data/last_discovery.json >> $GITHUB_STEP_SUMMARY || true
+          echo '```' >> $GITHUB_STEP_SUMMARY
