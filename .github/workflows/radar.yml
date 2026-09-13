@@ -69,10 +69,10 @@ jobs:
 
       - name: Commit state
         run: |
-          git config user.name  "radar[bot]"
-          git config user.email "radar@users.noreply.github.com"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
-          if git diff --staged --quiet; then
+          if git diff --staged --quiet; then   
             echo "no state change"
           else
             MSG=$(jq -r '"radar: \(.live) live, \(.new_this_run) new, \(.closed_this_run) closed, \(.firms_swept) firms"' data/last_run.json)
