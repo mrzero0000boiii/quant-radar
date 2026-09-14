@@ -1,0 +1,10 @@
+{
+ "candidates_before": 0,
+ "candidates_now": 10599,
+ "harvested": 10599,
+ "promoted_this_run": 0,
+ "by_status": {
+  "new": 10479,
+  "no-board": 120
+ }
+}
