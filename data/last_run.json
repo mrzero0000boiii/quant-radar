@@ -3,15 +3,15 @@
  "firms_resolved": 262,
  "firms_swept": 260,
  "raw_postings": 23878,
- "relevant": 4653,
- "live": 4659,
- "target_live": 963,
- "detected_this_run": 113,
- "new_this_run": 113,
+ "relevant": 4655,
+ "live": 4661,
+ "target_live": 953,
+ "detected_this_run": 30,
+ "new_this_run": 30,
  "baselined_this_run": 0,
  "backfilled_this_run": 0,
- "closed_this_run": 82,
+ "closed_this_run": 28,
  "baseline_run": false,
  "firms_first_read": [],
- "duration_s": 115.6
+ "duration_s": 109.1
 }
