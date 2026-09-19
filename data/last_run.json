@@ -6,12 +6,12 @@
  "relevant": 4620,
  "live": 4626,
  "target_live": 920,
- "detected_this_run": 6,
- "new_this_run": 6,
+ "detected_this_run": 0,
+ "new_this_run": 0,
  "baselined_this_run": 0,
  "backfilled_this_run": 0,
- "closed_this_run": 7,
+ "closed_this_run": 0,
  "baseline_run": false,
  "firms_first_read": [],
- "duration_s": 763.9
+ "duration_s": 673.1
 }
