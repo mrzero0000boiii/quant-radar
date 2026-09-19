@@ -2,16 +2,16 @@
  "firms_total": 794,
  "firms_resolved": 262,
  "firms_swept": 260,
- "raw_postings": 23868,
- "relevant": 4624,
- "live": 4630,
+ "raw_postings": 23823,
+ "relevant": 4619,
+ "live": 4625,
  "target_live": 924,
- "detected_this_run": 23,
- "new_this_run": 23,
+ "detected_this_run": 8,
+ "new_this_run": 8,
  "baselined_this_run": 0,
  "backfilled_this_run": 0,
- "closed_this_run": 21,
+ "closed_this_run": 13,
  "baseline_run": false,
  "firms_first_read": [],
- "duration_s": 115.7
+ "duration_s": 946.9
 }
