@@ -2,18 +2,16 @@
  "firms_total": 794,
  "firms_resolved": 263,
  "firms_swept": 261,
- "raw_postings": 23843,
- "relevant": 4621,
- "live": 4627,
- "target_live": 921,
- "detected_this_run": 11,
- "new_this_run": 5,
- "baselined_this_run": 6,
+ "raw_postings": 23837,
+ "relevant": 4620,
+ "live": 4626,
+ "target_live": 920,
+ "detected_this_run": 6,
+ "new_this_run": 6,
+ "baselined_this_run": 0,
  "backfilled_this_run": 0,
- "closed_this_run": 9,
+ "closed_this_run": 7,
  "baseline_run": false,
- "firms_first_read": [
-  "Caxton Associates"
- ],
- "duration_s": 691.2
+ "firms_first_read": [],
+ "duration_s": 763.9
 }

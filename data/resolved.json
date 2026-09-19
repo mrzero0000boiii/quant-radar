@@ -18,7 +18,7 @@
   "tried": 2
  },
  "ABN AMRO": {
-  "checked_at": "2026-09-12T15:28:40.375624+00:00",
+  "checked_at": "2026-09-19T18:37:44.181588+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -39,7 +39,7 @@
   "tried": 22
  },
  "AIB": {
-  "checked_at": "2026-09-12T18:17:25.674568+00:00",
+  "checked_at": "2026-09-19T18:39:31.992816+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -53,7 +53,7 @@
   "tried": 16
  },
  "ANZ": {
-  "checked_at": "2026-09-12T18:17:26.464274+00:00",
+  "checked_at": "2026-09-19T18:39:26.006673+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -179,14 +179,14 @@
   "tried": 16
  },
  "AllianceBernstein": {
-  "checked_at": "2026-09-12T15:26:54.573972+00:00",
+  "checked_at": "2026-09-19T18:36:19.909214+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 16
  },
  "Allianz Global Investors": {
-  "checked_at": "2026-09-12T15:26:19.564603+00:00",
+  "checked_at": "2026-09-19T18:35:20.060972+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -296,7 +296,7 @@
   "tried": 9
  },
  "Anatole Investment Management": {
-  "checked_at": "2026-09-12T15:24:42.887525+00:00",
+  "checked_at": "2026-09-19T18:34:00.907348+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -397,7 +397,7 @@
   "tried": 1
  },
  "Arena Investors": {
-  "checked_at": "2026-09-12T15:23:46.509078+00:00",
+  "checked_at": "2026-09-19T18:33:27.342630+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -429,7 +429,7 @@
   "tried": 2
  },
  "Asia Research & Capital Management": {
-  "checked_at": "2026-09-12T15:25:30.238080+00:00",
+  "checked_at": "2026-09-19T18:34:33.813869+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -457,7 +457,7 @@
   "tried": 22
  },
  "Astaris Capital": {
-  "checked_at": "2026-09-12T15:23:50.054535+00:00",
+  "checked_at": "2026-09-19T18:33:14.196070+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -503,7 +503,7 @@
   "tried": 9
  },
  "Avenue Capital Group": {
-  "checked_at": "2026-09-12T15:23:03.136666+00:00",
+  "checked_at": "2026-09-19T18:32:33.681292+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -519,7 +519,7 @@
   "tried": 1
  },
  "Axonic Capital": {
-  "checked_at": "2026-09-12T15:23:06.763615+00:00",
+  "checked_at": "2026-09-19T18:32:42.651013+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -542,14 +542,14 @@
   "tried": 9
  },
  "BBVA": {
-  "checked_at": "2026-09-12T15:28:13.018700+00:00",
+  "checked_at": "2026-09-19T18:36:09.953062+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 9
  },
  "BGC Group": {
-  "checked_at": "2026-09-12T18:16:14.327053+00:00",
+  "checked_at": "2026-09-19T18:38:47.525538+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -565,14 +565,14 @@
   "tried": 1
  },
  "BNP Paribas": {
-  "checked_at": "2026-09-12T15:27:49.535029+00:00",
+  "checked_at": "2026-09-19T18:36:08.533063+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 23
  },
  "BNY": {
-  "checked_at": "2026-09-12T15:30:31.068731+00:00",
+  "checked_at": "2026-09-19T18:38:58.493015+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -609,7 +609,7 @@
   "tried": 16
  },
  "Baiont Quant": {
-  "checked_at": "2026-09-12T15:26:00.810017+00:00",
+  "checked_at": "2026-09-19T18:35:08.058596+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -623,14 +623,14 @@
   "tried": 22
  },
  "Balyasny Europe": {
-  "checked_at": "2026-09-12T15:24:04.413967+00:00",
+  "checked_at": "2026-09-19T18:33:15.643252+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 16
  },
  "Banco Sabadell": {
-  "checked_at": "2026-09-12T18:17:26.087060+00:00",
+  "checked_at": "2026-09-19T18:39:39.947077+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -660,28 +660,28 @@
   "tried": 16
  },
  "Bank of Ireland": {
-  "checked_at": "2026-09-12T18:17:24.295988+00:00",
+  "checked_at": "2026-09-19T18:39:28.238674+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 16
  },
  "Bankinter": {
-  "checked_at": "2026-09-12T18:17:15.985970+00:00",
+  "checked_at": "2026-09-19T18:39:19.230676+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 9
  },
  "Barclays": {
-  "checked_at": "2026-09-12T15:28:04.867491+00:00",
+  "checked_at": "2026-09-19T18:36:45.906546+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 9
  },
  "Beach Point Capital": {
-  "checked_at": "2026-09-12T15:23:08.009408+00:00",
+  "checked_at": "2026-09-19T18:32:42.328507+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -702,7 +702,7 @@
   "tried": 22
  },
  "Belfius": {
-  "checked_at": "2026-09-12T15:30:34.993089+00:00",
+  "checked_at": "2026-09-19T18:38:07.330133+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -866,7 +866,7 @@
   "tried": 2
  },
  "Blue Pool Capital": {
-  "checked_at": "2026-09-12T15:25:03.700681+00:00",
+  "checked_at": "2026-09-19T18:34:19.062048+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -896,14 +896,14 @@
   "tried": 16
  },
  "Bosera Asset Management": {
-  "checked_at": "2026-09-12T15:31:13.716327+00:00",
+  "checked_at": "2026-09-19T18:42:33.059860+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Boussard & Gavaudan": {
-  "checked_at": "2026-09-12T15:23:43.103789+00:00",
+  "checked_at": "2026-09-19T18:33:09.411482+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -995,7 +995,7 @@
   "tried": 9
  },
  "CI Financial": {
-  "checked_at": "2026-09-12T15:26:39.721446+00:00",
+  "checked_at": "2026-09-19T18:35:18.857942+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1011,21 +1011,21 @@
   "tried": 1
  },
  "CICC": {
-  "checked_at": "2026-09-12T15:30:52.192410+00:00",
+  "checked_at": "2026-09-19T18:38:26.246278+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 9
  },
  "CIMB": {
-  "checked_at": "2026-09-12T15:30:41.696921+00:00",
+  "checked_at": "2026-09-19T18:38:10.654168+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 9
  },
  "CITIC Securities": {
-  "checked_at": "2026-09-12T18:16:17.509620+00:00",
+  "checked_at": "2026-09-19T18:38:58.422641+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1089,7 +1089,7 @@
   "tried": 3
  },
  "CaixaBank": {
-  "checked_at": "2026-09-12T18:17:00.282050+00:00",
+  "checked_at": "2026-09-19T18:39:12.793915+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1110,14 +1110,14 @@
   "tried": 22
  },
  "Cantor Fitzgerald": {
-  "checked_at": "2026-09-12T18:16:15.626216+00:00",
+  "checked_at": "2026-09-19T18:38:48.308937+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Canyon Partners": {
-  "checked_at": "2026-09-12T15:23:03.212071+00:00",
+  "checked_at": "2026-09-19T18:32:35.753953+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1138,7 +1138,7 @@
   "tried": 22
  },
  "CastleKnight Management": {
-  "checked_at": "2026-09-12T15:23:59.297030+00:00",
+  "checked_at": "2026-09-19T18:33:12.296880+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1161,7 +1161,7 @@
   "tried": 22
  },
  "Centerbridge Partners": {
-  "checked_at": "2026-09-12T15:22:59.159632+00:00",
+  "checked_at": "2026-09-19T18:32:29.921565+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1235,7 +1235,7 @@
   "tried": 1
  },
  "China Asset Management": {
-  "checked_at": "2026-09-12T15:27:11.753221+00:00",
+  "checked_at": "2026-09-19T18:35:51.492864+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1295,7 +1295,7 @@
   "tried": 2
  },
  "Citizens Financial Group": {
-  "checked_at": "2026-09-12T18:17:28.013284+00:00",
+  "checked_at": "2026-09-19T18:40:14.085765+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1325,7 +1325,7 @@
   "tried": 16
  },
  "CloudAlpha Capital": {
-  "checked_at": "2026-09-12T15:25:20.796603+00:00",
+  "checked_at": "2026-09-19T18:34:31.612077+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1355,14 +1355,14 @@
   "tried": 1
  },
  "Columbia Threadneedle": {
-  "checked_at": "2026-09-12T15:26:13.376317+00:00",
+  "checked_at": "2026-09-19T18:34:56.767541+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 16
  },
  "Commerzbank": {
-  "checked_at": "2026-09-12T15:30:00.783301+00:00",
+  "checked_at": "2026-09-19T18:37:29.300117+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1426,7 +1426,7 @@
   "tried": 1
  },
  "Corvex Management": {
-  "checked_at": "2026-09-12T15:24:22.271378+00:00",
+  "checked_at": "2026-09-19T18:33:46.521058+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1442,7 +1442,7 @@
   "tried": 2
  },
  "Credit Agricole CIB": {
-  "checked_at": "2026-09-12T15:28:34.700770+00:00",
+  "checked_at": "2026-09-19T18:36:50.712075+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1536,7 +1536,7 @@
   "tried": 16
  },
  "DWS Group": {
-  "checked_at": "2026-09-12T15:26:15.064044+00:00",
+  "checked_at": "2026-09-19T18:35:33.104396+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1552,14 +1552,14 @@
   "tried": 4
  },
  "Daiwa Securities": {
-  "checked_at": "2026-09-12T15:28:54.667741+00:00",
+  "checked_at": "2026-09-19T18:36:54.875637+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Danske Bank": {
-  "checked_at": "2026-09-12T15:30:00.338074+00:00",
+  "checked_at": "2026-09-19T18:37:35.899439+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1591,7 +1591,7 @@
   "tried": 9
  },
  "Deutsche Bank": {
-  "checked_at": "2026-09-12T15:28:33.158801+00:00",
+  "checked_at": "2026-09-19T18:37:21.811291+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1644,7 +1644,7 @@
   "tried": 9
  },
  "Double Haven Capital": {
-  "checked_at": "2026-09-12T15:25:12.278558+00:00",
+  "checked_at": "2026-09-19T18:34:26.148679+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1672,7 +1672,7 @@
   "tried": 22
  },
  "E Fund Management": {
-  "checked_at": "2026-09-12T15:27:06.283475+00:00",
+  "checked_at": "2026-09-19T18:35:43.911010+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1757,7 +1757,7 @@
   "tried": 16
  },
  "Egerton Capital": {
-  "checked_at": "2026-09-12T15:28:33.880800+00:00",
+  "checked_at": "2026-09-19T18:36:45.660022+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1820,7 +1820,7 @@
   "tried": 16
  },
  "Erste Group": {
-  "checked_at": "2026-09-12T15:30:44.463418+00:00",
+  "checked_at": "2026-09-19T18:38:28.410729+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1855,7 +1855,7 @@
   "tried": 9
  },
  "Evercore": {
-  "checked_at": "2026-09-12T18:16:29.541736+00:00",
+  "checked_at": "2026-09-19T18:38:52.463521+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1917,7 +1917,7 @@
   "tried": 22
  },
  "Federated Hermes": {
-  "checked_at": "2026-09-12T15:26:14.124034+00:00",
+  "checked_at": "2026-09-19T18:35:08.049155+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1945,14 +1945,14 @@
   "tried": 22
  },
  "Fiera Capital": {
-  "checked_at": "2026-09-12T15:26:40.161684+00:00",
+  "checked_at": "2026-09-19T18:35:25.389478+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Fifth Third Bank": {
-  "checked_at": "2026-09-12T18:16:53.261205+00:00",
+  "checked_at": "2026-09-19T18:39:23.831735+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -1968,7 +1968,7 @@
   "tried": 1
  },
  "Fir Tree Partners": {
-  "checked_at": "2026-09-12T15:23:07.189494+00:00",
+  "checked_at": "2026-09-19T18:32:49.664783+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2005,7 +2005,7 @@
   "tried": 9
  },
  "Fisher Investments": {
-  "checked_at": "2026-09-12T15:27:23.094169+00:00",
+  "checked_at": "2026-09-19T18:36:43.536275+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2069,7 +2069,7 @@
   "tried": 1
  },
  "Franklin Templeton": {
-  "checked_at": "2026-09-12T15:26:36.959299+00:00",
+  "checked_at": "2026-09-19T18:35:58.454685+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2092,7 +2092,7 @@
   "tried": 4
  },
  "Fullerton Fund Management": {
-  "checked_at": "2026-09-12T15:27:05.064597+00:00",
+  "checked_at": "2026-09-19T18:35:47.550064+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2215,28 +2215,28 @@
   "tried": 1
  },
  "Glen Point Capital": {
-  "checked_at": "2026-09-12T15:23:53.227247+00:00",
+  "checked_at": "2026-09-19T18:33:25.695976+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Glenview Capital Management": {
-  "checked_at": "2026-09-12T15:24:14.337196+00:00",
+  "checked_at": "2026-09-19T18:33:38.699384+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Golden Pine Capital": {
-  "checked_at": "2026-09-12T15:24:46.503978+00:00",
+  "checked_at": "2026-09-19T18:34:03.598062+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "GoldenTree Asset Management": {
-  "checked_at": "2026-09-12T15:22:58.931917+00:00",
+  "checked_at": "2026-09-19T18:32:30.452785+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2320,7 +2320,7 @@
   "tried": 6
  },
  "Greenwoods Asset Management": {
-  "checked_at": "2026-09-12T15:24:44.897120+00:00",
+  "checked_at": "2026-09-19T18:33:57.394157+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2359,14 +2359,14 @@
   "tried": 16
  },
  "HSBC": {
-  "checked_at": "2026-09-12T15:28:04.883381+00:00",
+  "checked_at": "2026-09-19T18:37:10.517589+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 9
  },
  "Handelsbanken": {
-  "checked_at": "2026-09-12T18:16:57.664013+00:00",
+  "checked_at": "2026-09-19T18:39:10.359349+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2389,7 +2389,7 @@
   "tried": 1
  },
  "Harvest Fund Management": {
-  "checked_at": "2026-09-12T15:27:20.148696+00:00",
+  "checked_at": "2026-09-19T18:36:03.609083+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2421,7 +2421,7 @@
   "tried": 9
  },
  "Hein Park Capital": {
-  "checked_at": "2026-09-12T15:23:30.357535+00:00",
+  "checked_at": "2026-09-19T18:32:29.707658+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2442,7 +2442,7 @@
   "tried": 16
  },
  "High-Flyer Quant": {
-  "checked_at": "2026-09-12T15:25:46.019740+00:00",
+  "checked_at": "2026-09-19T18:34:53.812087+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2477,7 +2477,7 @@
   "tried": 22
  },
  "Houlihan Lokey": {
-  "checked_at": "2026-09-12T18:16:24.901152+00:00",
+  "checked_at": "2026-09-19T18:39:08.451433+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2507,7 +2507,7 @@
   "tried": 2
  },
  "ICBC": {
-  "checked_at": "2026-09-12T18:17:41.226676+00:00",
+  "checked_at": "2026-09-19T18:39:36.945342+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2555,7 +2555,7 @@
   "tried": 1
  },
  "ING": {
-  "checked_at": "2026-09-12T15:28:59.407580+00:00",
+  "checked_at": "2026-09-19T18:37:26.493336+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2629,7 +2629,7 @@
   "tried": 22
  },
  "Intesa Sanpaolo": {
-  "checked_at": "2026-09-12T15:30:20.855693+00:00",
+  "checked_at": "2026-09-19T18:38:18.777881+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2650,14 +2650,14 @@
   "tried": 9
  },
  "Itau BBA": {
-  "checked_at": "2026-09-12T18:16:17.905349+00:00",
+  "checked_at": "2026-09-19T18:39:09.353520+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "JPMorgan Chase": {
-  "checked_at": "2026-09-12T15:28:18.647983+00:00",
+  "checked_at": "2026-09-19T18:37:12.157034+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2673,7 +2673,7 @@
   "tried": 2
  },
  "Janchor Partners": {
-  "checked_at": "2026-09-12T15:24:59.465063+00:00",
+  "checked_at": "2026-09-19T18:34:25.615746+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2719,7 +2719,7 @@
   "tried": 22
  },
  "Jefferies": {
-  "checked_at": "2026-09-12T15:29:56.995919+00:00",
+  "checked_at": "2026-09-19T18:38:01.252851+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2808,7 +2808,7 @@
   "tried": 1
  },
  "Karst Peak Capital": {
-  "checked_at": "2026-09-12T15:25:06.364509+00:00",
+  "checked_at": "2026-09-19T18:34:19.941464+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2847,7 +2847,7 @@
   "tried": 4
  },
  "Keywise Capital": {
-  "checked_at": "2026-09-12T15:24:50.755074+00:00",
+  "checked_at": "2026-09-19T18:34:10.854674+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2868,7 +2868,7 @@
   "tried": 22
  },
  "Kite Lake Capital": {
-  "checked_at": "2026-09-12T15:23:31.681856+00:00",
+  "checked_at": "2026-09-19T18:32:39.897434+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2882,7 +2882,7 @@
   "tried": 9
  },
  "Knighthead Capital": {
-  "checked_at": "2026-09-12T15:24:39.797130+00:00",
+  "checked_at": "2026-09-19T18:35:54.218954+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2933,7 +2933,7 @@
   "tried": 16
  },
  "LIM Advisors": {
-  "checked_at": "2026-09-12T15:25:16.413485+00:00",
+  "checked_at": "2026-09-19T18:34:28.033117+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2963,7 +2963,7 @@
   "tried": 22
  },
  "Lazard": {
-  "checked_at": "2026-09-12T15:29:21.628880+00:00",
+  "checked_at": "2026-09-19T18:37:00.746831+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -2995,14 +2995,14 @@
   "tried": 9
  },
  "Lingjun Investment": {
-  "checked_at": "2026-09-12T15:25:54.324288+00:00",
+  "checked_at": "2026-09-19T18:35:08.195667+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Lion Global Investors": {
-  "checked_at": "2026-09-12T15:27:01.130061+00:00",
+  "checked_at": "2026-09-19T18:35:44.758075+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3066,7 +3066,7 @@
   "tried": 22
  },
  "Loomis Sayles": {
-  "checked_at": "2026-09-12T15:26:24.198699+00:00",
+  "checked_at": "2026-09-19T18:35:14.056956+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3151,21 +3151,21 @@
   "tried": 9
  },
  "MUFG": {
-  "checked_at": "2026-09-12T15:29:33.355265+00:00",
+  "checked_at": "2026-09-19T18:38:07.122187+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 16
  },
  "Mackenzie Investments": {
-  "checked_at": "2026-09-12T15:26:42.602379+00:00",
+  "checked_at": "2026-09-19T18:35:33.902762+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Macquarie Group": {
-  "checked_at": "2026-09-12T15:30:02.494254+00:00",
+  "checked_at": "2026-09-19T18:38:31.761118+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3211,14 +3211,14 @@
   "tried": 22
  },
  "Marathon Trading": {
-  "checked_at": "2026-09-12T15:24:30.444360+00:00",
+  "checked_at": "2026-09-19T18:33:43.278261+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 16
  },
  "Marble Bar Asset Management": {
-  "checked_at": "2026-09-12T15:23:43.949583+00:00",
+  "checked_at": "2026-09-19T18:33:07.178535+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3239,7 +3239,7 @@
   "tried": 16
  },
  "Mariner Investment Group": {
-  "checked_at": "2026-09-12T15:23:02.684389+00:00",
+  "checked_at": "2026-09-19T18:32:31.588716+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3309,21 +3309,21 @@
   "tried": 22
  },
  "Maybank": {
-  "checked_at": "2026-09-12T15:31:11.327786+00:00",
+  "checked_at": "2026-09-19T18:38:31.194278+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 9
  },
  "Mediobanca": {
-  "checked_at": "2026-09-12T15:30:18.421722+00:00",
+  "checked_at": "2026-09-19T18:37:45.455170+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 9
  },
  "Melqart Asset Management": {
-  "checked_at": "2026-09-12T15:23:46.495994+00:00",
+  "checked_at": "2026-09-19T18:33:24.466181+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3353,14 +3353,14 @@
   "tried": 22
  },
  "Minghong Investment": {
-  "checked_at": "2026-09-12T15:25:44.031845+00:00",
+  "checked_at": "2026-09-19T18:34:48.765734+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Mingshi Investment Management": {
-  "checked_at": "2026-09-12T15:26:03.836769+00:00",
+  "checked_at": "2026-09-19T18:35:13.656558+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3374,7 +3374,7 @@
   "tried": 22
  },
  "Mirae Asset Global Investments": {
-  "checked_at": "2026-09-12T15:27:28.458707+00:00",
+  "checked_at": "2026-09-19T18:36:15.157522+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3388,7 +3388,7 @@
   "tried": 22
  },
  "Mizuho": {
-  "checked_at": "2026-09-12T15:29:11.014885+00:00",
+  "checked_at": "2026-09-19T18:37:43.910627+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3429,7 +3429,7 @@
   "tried": 4
  },
  "Monarch Alternative Capital": {
-  "checked_at": "2026-09-12T15:23:05.192644+00:00",
+  "checked_at": "2026-09-19T18:32:35.764510+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3572,7 +3572,7 @@
   "tried": 9
  },
  "Napier Park Global Capital": {
-  "checked_at": "2026-09-12T15:23:07.184699+00:00",
+  "checked_at": "2026-09-19T18:32:41.456499+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3588,7 +3588,7 @@
   "tried": 2
  },
  "NatWest Group": {
-  "checked_at": "2026-09-12T18:16:53.129910+00:00",
+  "checked_at": "2026-09-19T18:39:56.163625+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3616,14 +3616,14 @@
   "tried": 22
  },
  "Natixis": {
-  "checked_at": "2026-09-12T15:27:52.104147+00:00",
+  "checked_at": "2026-09-19T18:36:07.873320+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 9
  },
  "Naya Capital Management": {
-  "checked_at": "2026-09-12T15:23:37.502463+00:00",
+  "checked_at": "2026-09-19T18:33:05.581261+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3653,14 +3653,14 @@
   "tried": 22
  },
  "Nikko Asset Management": {
-  "checked_at": "2026-09-12T15:26:46.482604+00:00",
+  "checked_at": "2026-09-19T18:35:39.898789+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Nine Masts Capital": {
-  "checked_at": "2026-09-12T15:25:14.754520+00:00",
+  "checked_at": "2026-09-19T18:34:30.737090+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3690,14 +3690,14 @@
   "tried": 2
  },
  "Nomura": {
-  "checked_at": "2026-09-12T15:29:06.290440+00:00",
+  "checked_at": "2026-09-19T18:38:03.453612+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 9
  },
  "Nomura Asset Management": {
-  "checked_at": "2026-09-12T15:26:49.807135+00:00",
+  "checked_at": "2026-09-19T18:35:41.785482+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3711,7 +3711,7 @@
   "tried": 9
  },
  "Nordea": {
-  "checked_at": "2026-09-12T15:29:50.109095+00:00",
+  "checked_at": "2026-09-19T18:37:15.197663+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3796,7 +3796,7 @@
   "tried": 22
  },
  "OCBC": {
-  "checked_at": "2026-09-12T15:30:35.617579+00:00",
+  "checked_at": "2026-09-19T18:38:10.158845+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -3899,7 +3899,7 @@
   "tried": 16
  },
  "Oppenheimer & Co.": {
-  "checked_at": "2026-09-12T18:16:16.089383+00:00",
+  "checked_at": "2026-09-19T18:38:55.075314+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4000,7 +4000,7 @@
   "tried": 9
  },
  "PGIM": {
-  "checked_at": "2026-09-12T15:26:50.276210+00:00",
+  "checked_at": "2026-09-19T18:36:20.273435+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4071,14 +4071,14 @@
   "tried": 2
  },
  "Panview Capital": {
-  "checked_at": "2026-09-12T15:24:54.203868+00:00",
+  "checked_at": "2026-09-19T18:34:12.298162+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Panyao Capital": {
-  "checked_at": "2026-09-12T15:26:06.181487+00:00",
+  "checked_at": "2026-09-19T18:35:13.297126+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4128,21 +4128,21 @@
   "tried": 1
  },
  "Perella Weinberg Partners": {
-  "checked_at": "2026-09-12T18:16:37.201360+00:00",
+  "checked_at": "2026-09-19T18:39:11.137491+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Pershing Square Capital": {
-  "checked_at": "2026-09-12T15:24:07.734669+00:00",
+  "checked_at": "2026-09-19T18:33:22.648299+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Pertento Partners": {
-  "checked_at": "2026-09-12T15:23:38.263053+00:00",
+  "checked_at": "2026-09-19T18:33:01.095309+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4179,7 +4179,7 @@
   "tried": 3
  },
  "Pictet": {
-  "checked_at": "2026-09-12T15:30:23.131358+00:00",
+  "checked_at": "2026-09-19T18:38:01.996956+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4200,7 +4200,7 @@
   "tried": 22
  },
  "Piper Sandler": {
-  "checked_at": "2026-09-12T18:16:09.511821+00:00",
+  "checked_at": "2026-09-19T18:38:34.810939+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4303,7 +4303,7 @@
   "tried": 16
  },
  "Principal Financial Group": {
-  "checked_at": "2026-09-12T15:27:20.694958+00:00",
+  "checked_at": "2026-09-19T18:36:45.107434+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4458,7 +4458,7 @@
   "tried": 22
  },
  "RBC Capital Markets": {
-  "checked_at": "2026-09-12T15:29:37.130170+00:00",
+  "checked_at": "2026-09-19T18:38:12.216047+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4472,7 +4472,7 @@
   "tried": 22
  },
  "Rabobank": {
-  "checked_at": "2026-09-12T15:28:23.801072+00:00",
+  "checked_at": "2026-09-19T18:36:22.762723+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4488,7 +4488,7 @@
   "tried": 14
  },
  "Raiffeisen Bank International": {
-  "checked_at": "2026-09-12T18:17:25.226792+00:00",
+  "checked_at": "2026-09-19T18:39:34.826155+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4527,7 +4527,7 @@
   "tried": 9
  },
  "Raymond James": {
-  "checked_at": "2026-09-12T18:16:09.513140+00:00",
+  "checked_at": "2026-09-19T18:38:37.025037+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4543,14 +4543,14 @@
   "tried": 2
  },
  "Redwood Capital Management": {
-  "checked_at": "2026-09-12T15:22:59.157554+00:00",
+  "checked_at": "2026-09-19T18:32:28.346335+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Regions Financial": {
-  "checked_at": "2026-09-12T18:17:09.917988+00:00",
+  "checked_at": "2026-09-19T18:39:30.037558+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4603,7 +4603,7 @@
   "tried": 9
  },
  "Robert W. Baird": {
-  "checked_at": "2026-09-12T18:16:22.455807+00:00",
+  "checked_at": "2026-09-19T18:39:01.320173+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4633,7 +4633,7 @@
   "tried": 22
  },
  "Rothschild & Co": {
-  "checked_at": "2026-09-12T18:16:40.666951+00:00",
+  "checked_at": "2026-09-19T18:39:12.144148+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4663,7 +4663,7 @@
   "tried": 22
  },
  "SEB": {
-  "checked_at": "2026-09-12T15:30:01.217391+00:00",
+  "checked_at": "2026-09-19T18:37:40.290836+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4684,7 +4684,7 @@
   "tried": 22
  },
  "SMBC Nikko": {
-  "checked_at": "2026-09-12T15:32:59.159771+00:00",
+  "checked_at": "2026-09-19T18:42:37.616649+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4705,7 +4705,7 @@
   "tried": 22
  },
  "Sachem Head Capital": {
-  "checked_at": "2026-09-12T15:24:15.718091+00:00",
+  "checked_at": "2026-09-19T18:33:33.710968+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4746,7 +4746,7 @@
   "tried": 10
  },
  "Santander": {
-  "checked_at": "2026-09-12T15:28:52.489762+00:00",
+  "checked_at": "2026-09-19T18:37:15.480253+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4801,7 +4801,7 @@
   "tried": 16
  },
  "Scotiabank": {
-  "checked_at": "2026-09-12T15:29:33.267418+00:00",
+  "checked_at": "2026-09-19T18:37:40.762722+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4829,7 +4829,7 @@
   "tried": 22
  },
  "Select Equity Group": {
-  "checked_at": "2026-09-12T15:24:22.647409+00:00",
+  "checked_at": "2026-09-19T18:33:44.075041+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4845,7 +4845,7 @@
   "tried": 1
  },
  "Senator Investment Group": {
-  "checked_at": "2026-09-12T15:24:30.295902+00:00",
+  "checked_at": "2026-09-19T18:33:55.850244+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4949,7 +4949,7 @@
   "tried": 1
  },
  "Societe Generale": {
-  "checked_at": "2026-09-12T15:27:52.524676+00:00",
+  "checked_at": "2026-09-19T18:36:12.419589+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4972,7 +4972,7 @@
   "tried": 16
  },
  "Springs Capital": {
-  "checked_at": "2026-09-12T15:25:30.965909+00:00",
+  "checked_at": "2026-09-19T18:34:42.602371+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -4995,14 +4995,14 @@
   "tried": 16
  },
  "Standard Chartered": {
-  "checked_at": "2026-09-12T15:30:06.264936+00:00",
+  "checked_at": "2026-09-19T18:38:37.181658+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "Starboard Value": {
-  "checked_at": "2026-09-12T15:24:09.554575+00:00",
+  "checked_at": "2026-09-19T18:33:21.853081+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5137,7 +5137,7 @@
   "tried": 22
  },
  "Swedbank": {
-  "checked_at": "2026-09-12T18:16:56.072083+00:00",
+  "checked_at": "2026-09-19T18:39:05.180617+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5153,7 +5153,7 @@
   "tried": 3
  },
  "Syquant Capital": {
-  "checked_at": "2026-09-12T15:25:45.676239+00:00",
+  "checked_at": "2026-09-19T18:36:52.920591+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5183,14 +5183,14 @@
   "tried": 22
  },
  "TCI Fund Management": {
-  "checked_at": "2026-09-12T15:24:28.710849+00:00",
+  "checked_at": "2026-09-19T18:33:55.390046+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "TD Securities": {
-  "checked_at": "2026-09-12T15:29:51.104086+00:00",
+  "checked_at": "2026-09-19T18:38:20.413247+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5240,7 +5240,7 @@
   "tried": 22
  },
  "Tairen Capital": {
-  "checked_at": "2026-09-12T15:25:34.574888+00:00",
+  "checked_at": "2026-09-19T18:34:50.790738+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5517,7 +5517,7 @@
   "tried": 22
  },
  "Trian Partners": {
-  "checked_at": "2026-09-12T15:24:13.592247+00:00",
+  "checked_at": "2026-09-19T18:33:30.313776+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5531,7 +5531,7 @@
   "tried": 22
  },
  "Trium Alternatives": {
-  "checked_at": "2026-09-12T15:23:53.330573+00:00",
+  "checked_at": "2026-09-19T18:33:15.261509+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5545,7 +5545,7 @@
   "tried": 22
  },
  "Trivest Advisors": {
-  "checked_at": "2026-09-12T15:24:53.333669+00:00",
+  "checked_at": "2026-09-19T18:34:01.546950+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5605,7 +5605,7 @@
   "tried": 22
  },
  "Tyrus Capital": {
-  "checked_at": "2026-09-12T15:23:34.393948+00:00",
+  "checked_at": "2026-09-19T18:32:57.855166+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5621,7 +5621,7 @@
   "tried": 2
  },
  "UBS": {
-  "checked_at": "2026-09-12T15:28:21.381846+00:00",
+  "checked_at": "2026-09-19T18:36:59.645311+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5637,14 +5637,14 @@
   "tried": 1
  },
  "Ubiquant Investment": {
-  "checked_at": "2026-09-12T15:25:48.394226+00:00",
+  "checked_at": "2026-09-19T18:34:56.745321+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "UniCredit": {
-  "checked_at": "2026-09-12T15:30:13.465786+00:00",
+  "checked_at": "2026-09-19T18:37:50.045666+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5669,14 +5669,14 @@
   "tried": 4
  },
  "Value Partners Group": {
-  "checked_at": "2026-09-12T15:25:22.372294+00:00",
+  "checked_at": "2026-09-19T18:34:32.018265+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 22
  },
  "ValueAct Capital": {
-  "checked_at": "2026-09-12T15:24:19.331224+00:00",
+  "checked_at": "2026-09-19T18:33:45.323409+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5690,7 +5690,7 @@
   "tried": 9
  },
  "Vantage Point Asset Management": {
-  "checked_at": "2026-09-12T15:25:36.359847+00:00",
+  "checked_at": "2026-09-19T18:34:49.541579+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5813,7 +5813,7 @@
   "tried": 22
  },
  "Ward Ferry Management": {
-  "checked_at": "2026-09-12T15:25:02.343999+00:00",
+  "checked_at": "2026-09-19T18:34:16.143832+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5861,7 +5861,7 @@
   "tried": 1
  },
  "Wells Fargo": {
-  "checked_at": "2026-09-12T15:30:18.972364+00:00",
+  "checked_at": "2026-09-19T18:38:48.590747+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5875,14 +5875,14 @@
   "tried": 22
  },
  "Westpac": {
-  "checked_at": "2026-09-12T18:17:30.085296+00:00",
+  "checked_at": "2026-09-19T18:39:32.414271+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
   "tried": 9
  },
  "Whitebox Advisors": {
-  "checked_at": "2026-09-12T15:22:59.130917+00:00",
+  "checked_at": "2026-09-19T18:32:29.554944+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5969,7 +5969,7 @@
   "tried": 22
  },
  "Yanfu Investments": {
-  "checked_at": "2026-09-12T15:26:08.253239+00:00",
+  "checked_at": "2026-09-19T18:35:15.714493+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -5985,7 +5985,7 @@
   "tried": 1
  },
  "Zeal Asset Management": {
-  "checked_at": "2026-09-12T15:24:56.740715+00:00",
+  "checked_at": "2026-09-19T18:34:19.065744+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
@@ -6031,7 +6031,7 @@
   "tried": 3
  },
  "Zurcher Kantonalbank": {
-  "checked_at": "2026-09-12T15:30:44.034167+00:00",
+  "checked_at": "2026-09-19T18:38:30.428741+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",
