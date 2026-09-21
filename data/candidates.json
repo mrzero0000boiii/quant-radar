@@ -230,6 +230,13 @@
 "source": "edgar-sic-6221",
 "status": "new"
 },
+"21sharesinjectiveetf": {
+"found_at": "2026-09-21T12:51:00.363296+00:00",
+"name": "21Shares Injective ETF",
+"relevance": 0,
+"source": "edgar-sic-6221",
+"status": "new"
+},
 "21sharesondoetf": {
 "found_at": "2026-09-14T12:49:26.463657+00:00",
 "name": "21Shares Ondo ETF",
@@ -553,11 +560,13 @@
 "status": "new"
 },
 "a1607capitalpartners": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:46.635463+00:00",
 "found_at": "2026-09-14T12:48:58.665175+00:00",
 "name": "/A 1607 Capital Partners",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "a16zcapitalmanagement": {
 "found_at": "2026-09-14T12:48:58.662935+00:00",
@@ -574,18 +583,22 @@
 "status": "new"
 },
 "a360financial": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:48.237522+00:00",
 "found_at": "2026-09-14T12:48:58.883199+00:00",
 "name": "/A 360 Financial",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "a49wealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:49.491020+00:00",
 "found_at": "2026-09-14T12:48:58.665320+00:00",
 "name": "/A 49 Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "a4wealthadvisors": {
 "found_at": "2026-09-14T12:48:57.606363+00:00",
@@ -602,60 +615,76 @@
 "status": "new"
 },
 "aabnamroinvestmentsolutions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:00.298035+00:00",
 "found_at": "2026-09-14T12:48:58.992326+00:00",
 "name": "/A Abn Amro Investment Solutions",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aaboundfinancial": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:01.955923+00:00",
 "found_at": "2026-09-14T12:48:58.883347+00:00",
 "name": "/A Abound Financial",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aabsdirectequityfund": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:50.664849+00:00",
 "found_at": "2026-09-14T12:48:58.665448+00:00",
 "name": "/A ABS Direct Equity Fund",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aabsolutopartnersgestaoderecursosltda": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:03.177812+00:00",
 "found_at": "2026-09-14T12:48:58.884442+00:00",
 "name": "/A Absoluto Partners Gestao de Recursos Ltda",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aacropolisinvestmentmanagement": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:04.355511+00:00",
 "found_at": "2026-09-14T12:48:58.666385+00:00",
 "name": "/A Acropolis Investment Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aacuitasinvestments": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:09.627792+00:00",
 "found_at": "2026-09-14T12:48:58.992586+00:00",
 "name": "/A Acuitas Investments",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aadar1capitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:55.848211+00:00",
 "found_at": "2026-09-14T12:48:58.883483+00:00",
 "name": "/A ADAR1 Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aadvisorsassetmanagement": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:10.265464+00:00",
 "found_at": "2026-09-14T12:48:58.666512+00:00",
 "name": "/A Advisors Asset Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aafinancialadvisors": {
 "found_at": "2026-09-14T12:48:57.606497+00:00",
@@ -679,11 +708,13 @@
 "status": "new"
 },
 "aaharaadvisors": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:13.969901+00:00",
 "found_at": "2026-09-14T12:48:58.667156+00:00",
 "name": "/A Ahara Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aaia": {
 "found_at": "2026-09-14T12:48:58.665502+00:00",
@@ -693,18 +724,22 @@
 "status": "new"
 },
 "aalaskapermanentfund": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:15.625600+00:00",
 "found_at": "2026-09-14T12:48:58.667303+00:00",
 "name": "/A Alaska Permanent Fund",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aalbertainvestmentmanagement": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:16.863246+00:00",
 "found_at": "2026-09-14T12:48:58.884617+00:00",
 "name": "/A Alberta Investment Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aalgebrisuk": {
 "found_at": "2026-09-14T12:48:58.883752+00:00",
@@ -714,18 +749,22 @@
 "status": "new"
 },
 "aalgertglobal": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:18.231445+00:00",
 "found_at": "2026-09-14T12:48:58.665633+00:00",
 "name": "/A Algert Global",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aallianzassetmanagement": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:23.278370+00:00",
 "found_at": "2026-09-14T12:48:58.667442+00:00",
 "name": "/A Allianz Asset Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aalliefamilyoffice": {
 "found_at": "2026-09-14T12:48:58.667573+00:00",
@@ -735,18 +774,22 @@
 "status": "new"
 },
 "aalliumfinancialadvisors": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:24.066223+00:00",
 "found_at": "2026-09-14T12:48:58.883888+00:00",
 "name": "/A Allium Financial Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aalmitascapital": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:27.717592+00:00",
 "found_at": "2026-09-14T12:48:58.992717+00:00",
 "name": "/A Almitas Capital",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aalphaomegawealthmanagement": {
 "attempts": 1,
@@ -758,18 +801,22 @@
 "status": "no-board"
 },
 "aalpineglobalmanagement": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:28.832598+00:00",
 "found_at": "2026-09-14T12:48:58.884762+00:00",
 "name": "/A Alpine Global Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aaltmanadvisors": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:29.309382+00:00",
 "found_at": "2026-09-14T12:48:58.992986+00:00",
 "name": "/A Altman Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aaltrafin": {
 "found_at": "2026-09-14T12:48:58.667703+00:00",
@@ -779,11 +826,13 @@
 "status": "new"
 },
 "aameraudiassetmanagement": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:30.505946+00:00",
 "found_at": "2026-09-14T12:48:58.884886+00:00",
 "name": "/A Ameraudi Asset Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aamericanalphaadvisors": {
 "attempts": 1,
@@ -795,11 +844,13 @@
 "status": "no-board"
 },
 "aameriprisefinancial": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:31.902203+00:00",
 "found_at": "2026-09-14T12:48:58.665852+00:00",
 "name": "/A Ameriprise Financial",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aamftjanstepension": {
 "found_at": "2026-09-14T12:48:58.992459+00:00",
@@ -816,67 +867,85 @@
 "status": "new"
 },
 "aanalogcenturymanagement": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:36.918375+00:00",
 "found_at": "2026-09-14T12:48:58.993117+00:00",
 "name": "/A Analog Century Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aanchorcapitaladvisors": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:37.868786+00:00",
 "found_at": "2026-09-14T12:48:58.665988+00:00",
 "name": "/A Anchor Capital Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aandarcapitalmanagementhk": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:41.341971+00:00",
 "found_at": "2026-09-14T12:48:58.667964+00:00",
 "name": "/A Andar Capital Management HK",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aarbiterpartnerscapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:42.465457+00:00",
 "found_at": "2026-09-14T12:48:58.668095+00:00",
 "name": "/A Arbiter Partners Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aarcherinvestment": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:43.057094+00:00",
 "found_at": "2026-09-14T12:48:58.668225+00:00",
 "name": "/A Archer Investment",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aarchvestwealthadvisors": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:44.223389+00:00",
 "found_at": "2026-09-14T12:48:58.885133+00:00",
 "name": "/A Archvest Wealth Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aaretewealthadvisors": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:45.560317+00:00",
 "found_at": "2026-09-14T12:48:58.668367+00:00",
 "name": "/A Arete Wealth Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aarinicapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:50.619630+00:00",
 "found_at": "2026-09-14T12:48:58.668501+00:00",
 "name": "/A Arini Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aaristidescapital": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:51.719711+00:00",
 "found_at": "2026-09-14T12:48:58.885261+00:00",
 "name": "/A Aristides Capital",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aarizonapsprs": {
 "found_at": "2026-09-14T12:48:58.668638+00:00",
@@ -886,11 +955,13 @@
 "status": "new"
 },
 "aarkansasfinancial": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:54.209257+00:00",
 "found_at": "2026-09-14T12:48:58.884019+00:00",
 "name": "/A Arkansas Financial Group",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aaronwealthadvisors": {
 "found_at": "2026-09-14T12:48:57.635434+00:00",
@@ -900,46 +971,58 @@
 "status": "new"
 },
 "aarrowcapital": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:55.078602+00:00",
 "found_at": "2026-09-14T12:48:58.885403+00:00",
 "name": "/A Arrow Capital",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aartemiswealthadvisors": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:56.078134+00:00",
 "found_at": "2026-09-14T12:48:58.668773+00:00",
 "name": "/A Artemis Wealth Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aartiaglobalpartners": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:56.827942+00:00",
 "found_at": "2026-09-14T12:48:58.993247+00:00",
 "name": "/A Artia Global Partners",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aascentisindependentadvisors": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:57.963054+00:00",
 "found_at": "2026-09-14T12:48:58.668903+00:00",
 "name": "/A Ascentis Independent Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aascentiswealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:59.278019+00:00",
 "found_at": "2026-09-14T12:48:58.669032+00:00",
 "name": "/A Ascentis Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aaspireprivatecapital": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:54:04.442544+00:00",
 "found_at": "2026-09-14T12:48:58.993389+00:00",
 "name": "/A Aspire Private Capital",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aassenagonassetmanagement": {
 "found_at": "2026-09-14T12:48:58.669167+00:00",
@@ -1019,11 +1102,13 @@
 "status": "new"
 },
 "aawhcapital": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:56.588780+00:00",
 "found_at": "2026-09-14T12:48:58.666246+00:00",
 "name": "/A AWH Capital",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aaxxcesswealthmanagement": {
 "found_at": "2026-09-14T12:48:58.884311+00:00",
@@ -5982,6 +6067,13 @@
 "source": "edgar-13f",
 "status": "new"
 },
+"aopassetmanagement": {
+"found_at": "2026-09-21T12:49:49.764698+00:00",
+"name": "/A OP Asset Management",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
 "aorix": {
 "found_at": "2026-09-14T12:48:59.005327+00:00",
 "name": "/A Orix",
@@ -8276,6 +8368,13 @@
 "found_at": "2026-09-14T12:48:58.690281+00:00",
 "name": "/A Tobias Financial Advisors",
 "relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
+"atomicinvest": {
+"found_at": "2026-09-21T12:49:49.690231+00:00",
+"name": "Atomic Invest",
+"relevance": 0,
 "source": "edgar-13f",
 "status": "new"
 },
@@ -20932,6 +21031,13 @@
 "source": "edgar-13f",
 "status": "new"
 },
+"darkhorsetechnologies": {
+"found_at": "2026-09-21T12:51:00.371196+00:00",
+"name": "DarkHorse Technologies",
+"relevance": 3,
+"source": "edgar-sic-6199",
+"status": "new"
+},
 "darlingtonpartnerscapitalmanagement": {
 "found_at": "2026-09-14T12:48:57.867072+00:00",
 "name": "Darlington Partners Capital Management",
@@ -21157,11 +21263,13 @@
 "status": "new"
 },
 "dbatrading": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:17.671543+00:00",
 "found_at": "2026-09-14T12:48:57.868434+00:00",
 "name": "Dba Trading",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "dbcadvisors": {
 "found_at": "2026-09-14T12:48:57.868311+00:00",
@@ -22162,11 +22270,13 @@
 "status": "no-board"
 },
 "diversifiedfuturesi": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:16.322573+00:00",
 "found_at": "2026-09-14T12:49:26.475740+00:00",
 "name": "Diversified Futures Trust I",
 "relevance": 10,
 "source": "edgar-sic-6221",
-"status": "new"
+"status": "no-board"
 },
 "diversifiedinvestmentstrategies": {
 "found_at": "2026-09-14T12:48:57.892310+00:00",
@@ -24490,11 +24600,13 @@
 "status": "new"
 },
 "equitecproprietarymarkets": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:16.321351+00:00",
 "found_at": "2026-09-14T12:48:57.906787+00:00",
 "name": "Equitec Proprietary Markets",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "equityinvestment": {
 "found_at": "2026-09-14T12:48:57.906911+00:00",
@@ -25169,18 +25281,22 @@
 "status": "new"
 },
 "exchangemembersviewdocumentmiaxoptions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:16.393061+00:00",
 "found_at": "2026-09-14T12:49:28.590172+00:00",
 "name": "Exchange Members. View Document MIAX Options",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "exchangesmiaxoptions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:16.344603+00:00",
 "found_at": "2026-09-14T12:49:28.588436+00:00",
 "name": "Exchanges MIAX Options",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "exchangetradedconcepts": {
 "found_at": "2026-09-14T12:48:57.909467+00:00",
@@ -26071,11 +26187,13 @@
 "status": "new"
 },
 "fifththirdsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:15.197870+00:00",
 "found_at": "2026-09-14T12:48:57.936985+00:00",
 "name": "Fifth Third Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "fifththirdwealthadvisors": {
 "found_at": "2026-09-14T12:48:57.956585+00:00",
@@ -26724,11 +26842,13 @@
 "status": "new"
 },
 "firstdallassecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:16.317999+00:00",
 "found_at": "2026-09-14T12:48:57.963808+00:00",
 "name": "First Dallas Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "firsteagleinvestmentmanagement": {
 "found_at": "2026-09-14T12:48:57.963933+00:00",
@@ -26990,11 +27110,13 @@
 "status": "new"
 },
 "firstshenzhensecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:16.520483+00:00",
 "found_at": "2026-09-14T12:49:26.539615+00:00",
 "name": "First ShenZhen Securities Co",
 "relevance": 10,
 "source": "edgar-sic-6199",
-"status": "new"
+"status": "no-board"
 },
 "firstskybridgebitcoinetf": {
 "found_at": "2026-09-14T12:49:26.479413+00:00",
@@ -27181,11 +27303,13 @@
 "status": "new"
 },
 "flagstarsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:10.722398+00:00",
 "found_at": "2026-09-14T12:48:57.942280+00:00",
 "name": "Flagstar Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "flagstonefinancialmanagement": {
 "found_at": "2026-09-14T12:48:57.968764+00:00",
@@ -27370,11 +27494,13 @@
 "status": "new"
 },
 "focusedalpha": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:11.335098+00:00",
 "found_at": "2026-09-14T12:48:57.944046+00:00",
 "name": "Focused Alpha",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "focusedinvestors": {
 "found_at": "2026-09-14T12:48:57.970283+00:00",
@@ -28823,11 +28949,13 @@
 "status": "no-board"
 },
 "futuresstrategic": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:16.405906+00:00",
 "found_at": "2026-09-14T12:49:26.481206+00:00",
 "name": "Futures Strategic Trust",
 "relevance": 10,
 "source": "edgar-sic-6221",
-"status": "new"
+"status": "no-board"
 },
 "fvcapitalmanagement": {
 "found_at": "2026-09-14T12:48:57.931590+00:00",
@@ -28900,11 +29028,13 @@
 "status": "new"
 },
 "gagnonsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:31.938952+00:00",
 "found_at": "2026-09-14T12:48:57.985352+00:00",
 "name": "Gagnon Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "gaincapital": {
 "found_at": "2026-09-14T12:49:26.481346+00:00",
@@ -31726,11 +31856,13 @@
 "status": "new"
 },
 "gtssecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:11.507921+00:00",
 "found_at": "2026-09-14T12:48:57.998121+00:00",
 "name": "Gts Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "guaranteedhotelinvestors1985": {
 "found_at": "2026-09-14T12:49:26.543021+00:00",
@@ -31985,11 +32117,13 @@
 "status": "new"
 },
 "gwnsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:10.703938+00:00",
 "found_at": "2026-09-14T12:48:57.999768+00:00",
 "name": "Gwn Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "h2creditmanager": {
 "found_at": "2026-09-14T12:48:58.029472+00:00",
@@ -32188,11 +32322,13 @@
 "status": "new"
 },
 "haptrading": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:21.400277+00:00",
 "found_at": "2026-09-14T12:48:58.930072+00:00",
 "name": "Hap Trading",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "haracapital": {
 "found_at": "2026-09-14T12:48:58.046078+00:00",
@@ -32650,11 +32786,13 @@
 "status": "new"
 },
 "hazelviewsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:19.050828+00:00",
 "found_at": "2026-09-14T12:48:58.051035+00:00",
 "name": "Hazelview Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "hazlettburtwatson": {
 "found_at": "2026-09-14T12:48:58.033684+00:00",
@@ -34126,11 +34264,13 @@
 "status": "new"
 },
 "howardbaileysecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:25.162842+00:00",
 "found_at": "2026-09-14T12:48:58.041532+00:00",
 "name": "Howard Bailey Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "howardcapitalmanagement": {
 "found_at": "2026-09-14T12:48:58.064825+00:00",
@@ -35827,11 +35967,13 @@
 "status": "new"
 },
 "internationalusequitiesproprietaryproductsfutures": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:25.277954+00:00",
 "found_at": "2026-09-14T12:49:28.591305+00:00",
 "name": "International U.S. Equities Proprietary Products Futures",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "interprivateiiifinancialpartners": {
 "found_at": "2026-09-14T12:49:26.447363+00:00",
@@ -40003,11 +40145,13 @@
 "status": "new"
 },
 "leadingsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:24.115472+00:00",
 "found_at": "2026-09-14T12:48:58.942210+00:00",
 "name": "Leading Securities Co",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "leavellinvestmentmanagement": {
 "found_at": "2026-09-14T12:48:58.143958+00:00",
@@ -40451,11 +40595,13 @@
 "status": "new"
 },
 "leonteqsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:30.136362+00:00",
 "found_at": "2026-09-14T12:48:58.165212+00:00",
 "name": "Leonteq Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "leowealth": {
 "found_at": "2026-09-14T12:48:58.751004+00:00",
@@ -42097,11 +42243,13 @@
 "status": "new"
 },
 "maddensecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:55:35.693218+00:00",
 "found_at": "2026-09-14T12:48:58.180585+00:00",
 "name": "Madden Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "madershannonwealthmanagement": {
 "found_at": "2026-09-14T12:48:58.206633+00:00",
@@ -42514,11 +42662,13 @@
 "status": "no-board"
 },
 "managedfuturespremierwarrington": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:37.961599+00:00",
 "found_at": "2026-09-14T12:49:26.493746+00:00",
 "name": "Managed Futures Premier Warrington",
 "relevance": 10,
 "source": "edgar-sic-6221",
-"status": "new"
+"status": "no-board"
 },
 "manahl130": {
 "found_at": "2026-09-14T12:49:26.493482+00:00",
@@ -44126,11 +44276,13 @@
 "status": "new"
 },
 "membersusoptions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:38.819853+00:00",
 "found_at": "2026-09-14T12:49:28.589745+00:00",
 "name": "Members U.S. Options",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "memberswealth": {
 "found_at": "2026-09-14T12:48:58.190205+00:00",
@@ -44373,11 +44525,13 @@
 "status": "new"
 },
 "meritsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:32.939445+00:00",
 "found_at": "2026-09-14T12:49:26.552999+00:00",
 "name": "Merit Securities",
 "relevance": 10,
 "source": "edgar-sic-6199",
-"status": "new"
+"status": "no-board"
 },
 "meriwetherwealthplanning": {
 "found_at": "2026-09-14T12:48:58.228944+00:00",
@@ -44662,46 +44816,58 @@
 "status": "new"
 },
 "miaxemeraldmiaxsapphirealloptions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:30.102920+00:00",
 "found_at": "2026-09-14T12:49:28.589890+00:00",
 "name": "MIAX Emerald MIAX Sapphire All Options",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "miaxfutures": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:25.423001+00:00",
 "found_at": "2026-09-14T12:49:28.587583+00:00",
 "name": "MIAX Futures",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "miaxmarketsallmarketsusoptions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:30.027249+00:00",
 "found_at": "2026-09-14T12:49:28.588913+00:00",
 "name": "MIAX Markets All Markets U.S. Options",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "miaxoptions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:25.471754+00:00",
 "found_at": "2026-09-14T12:49:28.587258+00:00",
 "name": "MIAX Options",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "miaxoptionsmiaxoptions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:30.131280+00:00",
 "found_at": "2026-09-14T12:49:28.590028+00:00",
 "name": "MIAX Options MIAX Options",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "miaxtrading": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:31.551626+00:00",
 "found_at": "2026-09-14T12:49:28.590736+00:00",
 "name": "MIAX Trading",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "miccapitalmanagementuk": {
 "found_at": "2026-09-14T12:48:58.192627+00:00",
@@ -45012,11 +45178,13 @@
 "status": "new"
 },
 "millingtonsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:39.721723+00:00",
 "found_at": "2026-09-14T12:48:58.193803+00:00",
 "name": "Millington Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "millroadcapitalmanagement": {
 "found_at": "2026-09-14T12:48:58.233641+00:00",
@@ -45348,11 +45516,13 @@
 "status": "new"
 },
 "mitsubishiufjmorganstanleysecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:39.213305+00:00",
 "found_at": "2026-09-14T12:48:58.237587+00:00",
 "name": "Mitsubishi UFJ Morgan Stanley Securities Co",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "mitsuisumitomoinsurance": {
 "found_at": "2026-09-14T12:48:58.195608+00:00",
@@ -45411,18 +45581,22 @@
 "status": "new"
 },
 "mizuhosecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:57:41.709693+00:00",
 "found_at": "2026-09-14T12:48:58.757722+00:00",
 "name": "Mizuho Securities Co",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "mizuhosecuritiesusa": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:43.759127+00:00",
 "found_at": "2026-09-14T12:48:58.195982+00:00",
 "name": "Mizuho Securities Usa",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "mjpassociates": {
 "found_at": "2026-09-14T12:48:58.196110+00:00",
@@ -46138,11 +46312,13 @@
 "status": "new"
 },
 "mortgageparticipationsecuritiesseries1997namc1": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:43.824569+00:00",
 "found_at": "2026-09-14T12:49:26.555232+00:00",
 "name": "Mortgage Participation Securities Series 1997 Namc1",
 "relevance": 10,
 "source": "edgar-sic-6199",
-"status": "new"
+"status": "no-board"
 },
 "mortonbrownfamilywealth": {
 "found_at": "2026-09-14T12:48:58.243011+00:00",
@@ -46532,25 +46708,31 @@
 "status": "new"
 },
 "mufgsecuritiesamericas": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:45.363206+00:00",
 "found_at": "2026-09-14T12:48:58.204051+00:00",
 "name": "Mufg Securities Americas",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "mufgsecuritiescanada": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:43.872438+00:00",
 "found_at": "2026-09-14T12:48:58.203926+00:00",
 "name": "Mufg Securities (Canada)",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "mufgsecuritiesemea": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:53:40.532363+00:00",
 "found_at": "2026-09-14T12:48:58.204175+00:00",
 "name": "MUFG Securities EMEA",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "muhlenkamp": {
 "found_at": "2026-09-14T12:48:58.204310+00:00",
@@ -46998,11 +47180,13 @@
 "status": "new"
 },
 "nationalsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:46.591500+00:00",
 "found_at": "2026-09-14T12:49:26.452632+00:00",
 "name": "National Securities",
 "relevance": 10,
 "source": "edgar-sic-6211",
-"status": "new"
+"status": "no-board"
 },
 "nationalwealthmanagement": {
 "found_at": "2026-09-14T12:48:58.259908+00:00",
@@ -47124,11 +47308,13 @@
 "status": "new"
 },
 "nbcsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:42.438894+00:00",
 "found_at": "2026-09-14T12:48:58.759306+00:00",
 "name": "Nbc Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "nbhbank": {
 "found_at": "2026-09-14T12:48:58.248971+00:00",
@@ -48038,11 +48224,13 @@
 "status": "new"
 },
 "ningbozhenghetrading": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:51.588186+00:00",
 "found_at": "2026-09-14T12:49:26.557589+00:00",
 "name": "Ningbo Zhenghe Trading",
 "relevance": 10,
 "source": "edgar-sic-6199",
-"status": "new"
+"status": "no-board"
 },
 "nipponlifeglobalinvestorsamericas": {
 "found_at": "2026-09-14T12:48:58.270509+00:00",
@@ -48409,11 +48597,14 @@
 "status": "new"
 },
 "northlandsecurities": {
+"ats": "workday:firstnational/northlandcareers/wd12",
+"checked_at": "2026-09-21T12:51:39.889711+00:00",
+"domain": "northlandsecurities.com",
 "found_at": "2026-09-14T12:48:58.255464+00:00",
 "name": "Northland Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "promoted"
 },
 "northofsouthcapital": {
 "found_at": "2026-09-14T12:48:58.274168+00:00",
@@ -51188,11 +51379,13 @@
 "status": "new"
 },
 "parkavenuesecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:47.111780+00:00",
 "found_at": "2026-09-14T12:48:58.305646+00:00",
 "name": "Park Avenue Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "parkcapitalmanagementwi": {
 "found_at": "2026-09-14T12:48:58.335369+00:00",
@@ -51377,11 +51570,13 @@
 "status": "new"
 },
 "partners": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:33.033561+00:00",
 "found_at": "2026-09-14T12:48:57.598231+00:00",
 "name": "&Partners",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "partnerscapitalinvestment": {
 "found_at": "2026-09-14T12:48:58.306651+00:00",
@@ -51671,11 +51866,13 @@
 "status": "new"
 },
 "paypaysecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:53.380804+00:00",
 "found_at": "2026-09-14T12:48:58.340410+00:00",
 "name": "PayPay Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "payward": {
 "found_at": "2026-09-14T12:49:26.560339+00:00",
@@ -53428,18 +53625,22 @@
 "status": "new"
 },
 "pncmortgagesecuritiesmorpassthrocertser19961": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:53.606738+00:00",
 "found_at": "2026-09-14T12:49:26.562581+00:00",
 "name": "Pnc Mortgage Securities Corp Mor Pass Thro Cert Ser 1996-1",
 "relevance": 10,
 "source": "edgar-sic-6199",
-"status": "new"
+"status": "no-board"
 },
 "pncmortgagesecuritiesmortpassthrcertser19962": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:56.188140+00:00",
 "found_at": "2026-09-14T12:49:26.562724+00:00",
 "name": "Pnc Mortgage Securities Corp Mort Pass Thr Cert Ser 1996-2",
 "relevance": 10,
 "source": "edgar-sic-6199",
-"status": "new"
+"status": "no-board"
 },
 "poehlingcapitalmanagement": {
 "found_at": "2026-09-14T12:48:58.356935+00:00",
@@ -54099,11 +54300,13 @@
 "status": "new"
 },
 "presimasecuritiesulc": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:57.332211+00:00",
 "found_at": "2026-09-14T12:48:58.364129+00:00",
 "name": "Presima Securities ULC",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "presperfinancialarchitects": {
 "found_at": "2026-09-14T12:48:58.364249+00:00",
@@ -54232,11 +54435,13 @@
 "status": "new"
 },
 "principalsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:59.615163+00:00",
 "found_at": "2026-09-14T12:48:58.322489+00:00",
 "name": "Principal Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "principiawealthadvisory": {
 "found_at": "2026-09-14T12:48:58.365506+00:00",
@@ -54484,11 +54689,13 @@
 "status": "new"
 },
 "proficientalphaacquisition": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:57.495344+00:00",
 "found_at": "2026-09-14T12:49:26.433281+00:00",
 "name": "Proficient Alpha Acquisition",
 "relevance": 10,
 "source": "edgar-sic-6282",
-"status": "new"
+"status": "no-board"
 },
 "proficiocapitalpartners": {
 "found_at": "2026-09-14T12:48:58.368853+00:00",
@@ -56221,11 +56428,13 @@
 "status": "new"
 },
 "referencemarketmakerrequirementsoptions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:51:59.043665+00:00",
 "found_at": "2026-09-14T12:49:28.589334+00:00",
 "name": "Reference Market Maker Requirements Options",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "refinedwealthmanagement": {
 "found_at": "2026-09-14T12:48:58.402063+00:00",
@@ -57131,11 +57340,13 @@
 "status": "new"
 },
 "ritteralpha": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:01.249198+00:00",
 "found_at": "2026-09-14T12:48:58.773997+00:00",
 "name": "Ritter Alpha",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "ritterdaniherfinancialadvisoryde": {
 "found_at": "2026-09-14T12:48:58.411236+00:00",
@@ -60379,11 +60590,13 @@
 "status": "new"
 },
 "sgamericassecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:00.923191+00:00",
 "found_at": "2026-09-14T12:48:58.433986+00:00",
 "name": "SG Americas Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "sgcapitalmanagement": {
 "found_at": "2026-09-14T12:48:58.434108+00:00",
@@ -60407,11 +60620,13 @@
 "status": "new"
 },
 "sgtradingsolutions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:05.410552+00:00",
 "found_at": "2026-09-14T12:48:58.860436+00:00",
 "name": "SG Trading Solutions",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "shadetreeadvisors": {
 "found_at": "2026-09-14T12:48:58.477194+00:00",
@@ -61128,11 +61343,13 @@
 "status": "new"
 },
 "signorthtradingulc": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:07.065655+00:00",
 "found_at": "2026-09-14T12:48:58.437508+00:00",
 "name": "SIG North Trading, ULC",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "sigulerguffadvisers": {
 "found_at": "2026-09-14T12:48:58.974828+00:00",
@@ -61275,11 +61492,13 @@
 "status": "new"
 },
 "silveroaksecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:04.875856+00:00",
 "found_at": "2026-09-14T12:48:58.438282+00:00",
 "name": "Silver Oak Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "silveroakwealthadvisorsservices": {
 "found_at": "2026-09-14T12:48:58.438411+00:00",
@@ -61307,6 +61526,13 @@
 "name": "Silversmith Partners I GP",
 "relevance": 3,
 "source": "edgar-13f",
+"status": "new"
+},
+"silvia": {
+"found_at": "2026-09-21T12:51:00.373851+00:00",
+"name": "Silvia",
+"relevance": 0,
+"source": "edgar-sic-6199",
 "status": "new"
 },
 "silviamccollwealthmanagement": {
@@ -63640,11 +63866,13 @@
 "status": "new"
 },
 "stgsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:55:57.387070+00:00",
 "found_at": "2026-09-14T12:48:58.451284+00:00",
 "name": "Stg Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "stievencapitaladvisors": {
 "found_at": "2026-09-14T12:48:58.509243+00:00",
@@ -64641,11 +64869,13 @@
 "status": "new"
 },
 "summitsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:03.418550+00:00",
 "found_at": "2026-09-14T12:48:58.454567+00:00",
 "name": "Summit Securities Group",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "summitstreetcapitalmanagement": {
 "found_at": "2026-09-14T12:48:58.520499+00:00",
@@ -64704,11 +64934,13 @@
 "status": "new"
 },
 "sunbeltsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:09.399490+00:00",
 "found_at": "2026-09-14T12:48:58.869086+00:00",
 "name": "Sunbelt Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "sunburstfinancial": {
 "found_at": "2026-09-14T12:48:58.521651+00:00",
@@ -65261,11 +65493,13 @@
 "status": "no-board"
 },
 "systematicmomentumii": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:12.773577+00:00",
 "found_at": "2026-09-14T12:49:26.504143+00:00",
 "name": "Systematic Momentum Ii",
 "relevance": 10,
 "source": "edgar-sic-6221",
-"status": "new"
+"status": "no-board"
 },
 "systrade": {
 "found_at": "2026-09-14T12:48:58.525698+00:00",
@@ -65408,11 +65642,13 @@
 "status": "new"
 },
 "tamarsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:08.485494+00:00",
 "found_at": "2026-09-14T12:48:58.546369+00:00",
 "name": "Tamar Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "tamcapitalmanagement": {
 "found_at": "2026-09-14T12:48:58.526724+00:00",
@@ -65660,11 +65896,13 @@
 "status": "new"
 },
 "taylorsecuritiesservices": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:14.588539+00:00",
 "found_at": "2026-09-14T12:48:58.548726+00:00",
 "name": "Taylor Securities Services",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "tbalternativeassets": {
 "found_at": "2026-09-14T12:48:58.527219+00:00",
@@ -66327,11 +66565,13 @@
 "status": "new"
 },
 "thielmacro": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:54:15.448408+00:00",
 "found_at": "2026-09-14T12:48:58.554553+00:00",
 "name": "Thiel Macro",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "thinkinvestments": {
 "found_at": "2026-09-14T12:48:58.554673+00:00",
@@ -66632,11 +66872,13 @@
 "status": "new"
 },
 "tiersassetbackedsecuritiesserchamttr19977": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:17.024771+00:00",
 "found_at": "2026-09-14T12:49:26.461136+00:00",
 "name": "Tiers Asset Backed Securities Ser Chamt Tr 1997-7",
 "relevance": 10,
 "source": "edgar-sic-6211",
-"status": "new"
+"status": "no-board"
 },
 "tietoncapitalmanagement": {
 "found_at": "2026-09-14T12:48:58.556983+00:00",
@@ -66944,6 +67186,13 @@
 "name": "Toews",
 "relevance": 0,
 "source": "edgar-13f",
+"status": "new"
+},
+"tokenovaworldwide": {
+"found_at": "2026-09-21T12:51:00.374191+00:00",
+"name": "Tokenova Worldwide",
+"relevance": 0,
+"source": "edgar-sic-6199",
 "status": "new"
 },
 "tokiomarineassetmanagement": {
@@ -67360,11 +67609,13 @@
 "status": "new"
 },
 "trademiaxtrading": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:18.691825+00:00",
 "found_at": "2026-09-14T12:49:28.590876+00:00",
 "name": "Trade The MIAX Trading",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "traderight": {
 "found_at": "2026-09-14T12:49:26.461319+00:00",
@@ -67381,11 +67632,13 @@
 "status": "new"
 },
 "tradewellsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:15.362443+00:00",
 "found_at": "2026-09-14T12:48:58.563175+00:00",
 "name": "TradeWell Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "tradewinds": {
 "found_at": "2026-09-14T12:48:58.563556+00:00",
@@ -68509,6 +68762,13 @@
 "source": "edgar-13f",
 "status": "new"
 },
+"twinpeakscapital": {
+"found_at": "2026-09-21T12:49:49.756188+00:00",
+"name": "Twin Peaks Capital",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
 "twinpeakswealthadvisors": {
 "found_at": "2026-09-14T12:48:58.544465+00:00",
 "name": "Twin Peaks Wealth Advisors",
@@ -68517,11 +68777,13 @@
 "status": "new"
 },
 "twinsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:15.298171+00:00",
 "found_at": "2026-09-14T12:48:58.576545+00:00",
 "name": "Twin Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "twintreemanagement": {
 "found_at": "2026-09-14T12:48:58.576671+00:00",
@@ -68615,11 +68877,13 @@
 "status": "new"
 },
 "uhlmannpricesecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:29.166797+00:00",
 "found_at": "2026-09-14T12:48:58.578362+00:00",
 "name": "Uhlmann Price Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "ullandinvestmentadvisors": {
 "found_at": "2026-09-14T12:48:58.581355+00:00",
@@ -68706,11 +68970,13 @@
 "status": "new"
 },
 "uniformreportingagreementformmiaxoptions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:30.802172+00:00",
 "found_at": "2026-09-14T12:49:28.590460+00:00",
 "name": "Uniform Reporting Agreement Form MIAX Options",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "unifyfinancialadvisors": {
 "found_at": "2026-09-14T12:48:58.582487+00:00",
@@ -69240,18 +69506,22 @@
 "status": "new"
 },
 "usequitiesfuturesinternationalmarkets": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:22.159358+00:00",
 "found_at": "2026-09-14T12:49:28.589050+00:00",
 "name": "U.S. Equities Futures International Markets",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "usequitiesmiaxpearlequitiesfutures": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:23.073037+00:00",
 "found_at": "2026-09-14T12:49:28.588580+00:00",
 "name": "U.S. Equities MIAX Pearl Equities Futures",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "usglobalinvestors": {
 "found_at": "2026-09-14T12:48:58.577553+00:00",
@@ -69261,32 +69531,40 @@
 "status": "new"
 },
 "usoptions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:56:30.368920+00:00",
 "found_at": "2026-09-14T12:49:28.587716+00:00",
 "name": "US Options",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "usoptionsalloptions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:26.496870+00:00",
 "found_at": "2026-09-14T12:49:28.588303+00:00",
 "name": "U.S. Options All Options",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "usoptionsusequitiesfutures": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:28.286438+00:00",
 "found_at": "2026-09-14T12:49:28.588150+00:00",
 "name": "U.S. Options U.S. Equities Futures",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "usproprietaryproductsdataourmarkets": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:32.373941+00:00",
 "found_at": "2026-09-14T12:49:28.591154+00:00",
 "name": "Us Proprietary Products Data Our Markets",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "ussinvestmentmanagement": {
 "found_at": "2026-09-14T12:48:58.581099+00:00",
@@ -69816,11 +70094,13 @@
 "status": "new"
 },
 "vaughansecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:35.780778+00:00",
 "found_at": "2026-09-14T12:48:58.589498+00:00",
 "name": "VAUGHAN & Co SECURITIES",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "vaultedgoldbullion": {
 "found_at": "2026-09-14T12:49:26.508602+00:00",
@@ -71034,11 +71314,13 @@
 "status": "new"
 },
 "waiveinmiaxoptions": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:36.847298+00:00",
 "found_at": "2026-09-14T12:49:28.590319+00:00",
 "name": "Waive-in MIAX Options",
 "relevance": 10,
 "source": "exchange-members",
-"status": "new"
+"status": "no-board"
 },
 "wakefieldassetmanagementlllp": {
 "found_at": "2026-09-14T12:48:58.627248+00:00",
@@ -71139,11 +71421,13 @@
 "status": "new"
 },
 "walleyetrading": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:34.540960+00:00",
 "found_at": "2026-09-14T12:48:58.628811+00:00",
 "name": "Walleye Trading",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "wallingtonassetmanagement": {
 "found_at": "2026-09-14T12:48:58.628940+00:00",
@@ -72014,11 +72298,13 @@
 "status": "new"
 },
 "wedbushsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:42.162375+00:00",
 "found_at": "2026-09-14T12:48:58.616860+00:00",
 "name": "Wedbush Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "wedgecapitalmanagementllp": {
 "found_at": "2026-09-14T12:48:58.616990+00:00",
@@ -72150,6 +72436,13 @@
 "found_at": "2026-09-14T12:48:58.639631+00:00",
 "name": "Wellesley Asset Management",
 "relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
+"wellingtonaltususa": {
+"found_at": "2026-09-21T12:49:49.759555+00:00",
+"name": "Wellington-Altus Usa",
+"relevance": 0,
 "source": "edgar-13f",
 "status": "new"
 },
@@ -72842,11 +73135,13 @@
 "status": "new"
 },
 "wiliansecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T12:52:42.789983+00:00",
 "found_at": "2026-09-14T12:48:58.881478+00:00",
 "name": "Wilian Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "wilkersonadvisory": {
 "found_at": "2026-09-14T12:48:58.647670+00:00",
@@ -73929,11 +74224,13 @@
 "status": "new"
 },
 "xrsecurities": {
+"attempts": 1,
+"checked_at": "2026-09-21T13:00:44.791865+00:00",
 "found_at": "2026-09-14T12:48:58.882099+00:00",
 "name": "XR Securities",
 "relevance": 10,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "xsfinancial": {
 "found_at": "2026-09-14T12:49:26.581497+00:00",
