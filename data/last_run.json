@@ -1,17 +1,19 @@
 {
- "firms_total": 794,
- "firms_resolved": 263,
- "firms_swept": 261,
- "raw_postings": 23820,
- "relevant": 4625,
- "live": 4631,
- "target_live": 933,
- "detected_this_run": 25,
- "new_this_run": 25,
- "baselined_this_run": 0,
- "backfilled_this_run": 0,
- "closed_this_run": 15,
+ "firms_total": 795,
+ "firms_resolved": 264,
+ "firms_swept": 262,
+ "raw_postings": 23766,
+ "relevant": 4612,
+ "live": 4618,
+ "target_live": 931,
+ "detected_this_run": 107,
+ "new_this_run": 102,
+ "baselined_this_run": 1,
+ "backfilled_this_run": 4,
+ "closed_this_run": 120,
  "baseline_run": false,
- "firms_first_read": [],
- "duration_s": 109.7
+ "firms_first_read": [
+  "Northland Securities"
+ ],
+ "duration_s": 162.2
 }

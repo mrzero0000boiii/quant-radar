@@ -3740,6 +3740,15 @@
   "status": "ok",
   "tried": 2
  },
+ "Northland Securities": {
+  "checked_at": "2026-09-21T14:59:58.444681+00:00",
+  "method": "hint",
+  "sources": [
+   "workday:firstnational/northlandcareers/wd12"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
  "Nubank": {
   "checked_at": "2026-09-12T22:07:16.265651+00:00",
   "method": "slug-guess",
