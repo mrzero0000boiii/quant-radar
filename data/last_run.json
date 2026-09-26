@@ -1,17 +1,19 @@
 {
  "firms_total": 795,
- "firms_resolved": 264,
- "firms_swept": 261,
- "raw_postings": 23765,
- "relevant": 4636,
- "live": 4642,
- "target_live": 970,
- "detected_this_run": 19,
- "new_this_run": 19,
+ "firms_resolved": 265,
+ "firms_swept": 262,
+ "raw_postings": 23742,
+ "relevant": 4625,
+ "live": 4631,
+ "target_live": 963,
+ "detected_this_run": 3,
+ "new_this_run": 3,
  "baselined_this_run": 0,
  "backfilled_this_run": 0,
- "closed_this_run": 24,
+ "closed_this_run": 14,
  "baseline_run": false,
- "firms_first_read": [],
- "duration_s": 117.7
+ "firms_first_read": [
+  "Maven Securities"
+ ],
+ "duration_s": 889.4
 }
