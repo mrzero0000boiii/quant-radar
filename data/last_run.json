@@ -2,18 +2,16 @@
  "firms_total": 795,
  "firms_resolved": 265,
  "firms_swept": 262,
- "raw_postings": 23742,
+ "raw_postings": 23737,
  "relevant": 4625,
  "live": 4631,
  "target_live": 963,
- "detected_this_run": 3,
- "new_this_run": 3,
+ "detected_this_run": 4,
+ "new_this_run": 4,
  "baselined_this_run": 0,
  "backfilled_this_run": 0,
- "closed_this_run": 14,
+ "closed_this_run": 4,
  "baseline_run": false,
- "firms_first_read": [
-  "Maven Securities"
- ],
- "duration_s": 889.4
+ "firms_first_read": [],
+ "duration_s": 708.0
 }
