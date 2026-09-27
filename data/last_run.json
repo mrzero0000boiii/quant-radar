@@ -2,20 +2,16 @@
  "firms_total": 795,
  "firms_resolved": 268,
  "firms_swept": 265,
- "raw_postings": 23745,
- "relevant": 4623,
- "live": 4629,
- "target_live": 963,
+ "raw_postings": 23704,
+ "relevant": 4589,
+ "live": 4595,
+ "target_live": 931,
  "detected_this_run": 1,
  "new_this_run": 1,
  "baselined_this_run": 0,
  "backfilled_this_run": 0,
- "closed_this_run": 0,
+ "closed_this_run": 35,
  "baseline_run": false,
- "firms_first_read": [
-  "Bitfinex",
-  "Long-Term Stock Exchange",
-  "interactive investor"
- ],
- "duration_s": 749.0
+ "firms_first_read": [],
+ "duration_s": 110.5
 }
