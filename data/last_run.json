@@ -5,13 +5,13 @@
  "raw_postings": 23506,
  "relevant": 4542,
  "live": 4545,
- "target_live": 934,
- "detected_this_run": 1,
- "new_this_run": 0,
+ "target_live": 931,
+ "detected_this_run": 7,
+ "new_this_run": 6,
  "baselined_this_run": 0,
  "backfilled_this_run": 1,
- "closed_this_run": 4,
+ "closed_this_run": 7,
  "baseline_run": false,
  "firms_first_read": [],
- "duration_s": 112.4
+ "duration_s": 109.3
 }
