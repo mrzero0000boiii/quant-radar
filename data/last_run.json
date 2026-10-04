@@ -3,15 +3,15 @@
  "firms_resolved": 268,
  "firms_swept": 266,
  "raw_postings": 23506,
- "relevant": 4542,
- "live": 4545,
- "target_live": 931,
- "detected_this_run": 7,
- "new_this_run": 6,
+ "relevant": 4540,
+ "live": 4543,
+ "target_live": 930,
+ "detected_this_run": 0,
+ "new_this_run": 0,
  "baselined_this_run": 0,
- "backfilled_this_run": 1,
- "closed_this_run": 7,
+ "backfilled_this_run": 0,
+ "closed_this_run": 2,
  "baseline_run": false,
  "firms_first_read": [],
- "duration_s": 109.3
+ "duration_s": 111.0
 }
