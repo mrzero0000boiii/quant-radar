@@ -2,18 +2,16 @@
  "firms_total": 795,
  "firms_resolved": 269,
  "firms_swept": 263,
- "raw_postings": 23259,
- "relevant": 4428,
- "live": 4433,
- "target_live": 930,
- "detected_this_run": 4,
- "new_this_run": 3,
- "baselined_this_run": 1,
- "backfilled_this_run": 0,
- "closed_this_run": 1,
+ "raw_postings": 23262,
+ "relevant": 4426,
+ "live": 4431,
+ "target_live": 929,
+ "detected_this_run": 2,
+ "new_this_run": 1,
+ "baselined_this_run": 0,
+ "backfilled_this_run": 1,
+ "closed_this_run": 4,
  "baseline_run": false,
- "firms_first_read": [
-  "Marshall Wace"
- ],
- "duration_s": 570.8
+ "firms_first_read": [],
+ "duration_s": 114.0
 }
