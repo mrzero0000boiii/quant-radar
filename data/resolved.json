@@ -1,7 +1,7 @@
 {
  "360 Trading Networks": {
-  "checked_at": "2026-09-12T00:49:28.559260+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T05:28:06.041512+00:00",
+  "method": "hint",
   "sources": [
    "personio:360t"
   ],
@@ -9,13 +9,13 @@
   "tried": 1
  },
  "3Red Partners": {
-  "checked_at": "2026-09-12T00:47:59.023825+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:03.732467+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:3redpartners"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "ABN AMRO": {
   "checked_at": "2026-10-10T23:31:34.937612+00:00",
@@ -67,13 +67,13 @@
   "tried": 22
  },
  "AQR Capital Management": {
-  "checked_at": "2026-09-12T00:51:46.756924+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:10.138395+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:aqr"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 2
  },
  "ASX": {
   "checked_at": "2026-10-11T14:56:57.157933+00:00",
@@ -156,7 +156,7 @@
   "tried": 4
  },
  "Akuna Capital": {
-  "checked_at": "2026-09-12T00:45:36.860521+00:00",
+  "checked_at": "2026-10-12T05:27:54.600855+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:akunacapital"
@@ -209,13 +209,13 @@
   "tried": 3
  },
  "AlphaGrep Securities": {
-  "checked_at": "2026-09-12T00:47:04.601055+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:02.052527+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:alphagrepsecurities"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 1
  },
  "AlphaSense": {
   "checked_at": "2026-09-12T22:06:34.462708+00:00",
@@ -280,13 +280,13 @@
   "tried": 1
  },
  "Amsterdam Trading Group": {
-  "checked_at": "2026-09-12T00:46:55.959637+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:27:59.693784+00:00",
+  "method": "hint",
   "sources": [
    "ashby:atg"
   ],
   "status": "ok",
-  "tried": 9
+  "tried": 1
  },
  "Amundi": {
   "checked_at": "2026-10-10T14:25:52.946388+00:00",
@@ -349,13 +349,13 @@
   "tried": 2
  },
  "Aquatic Capital Management": {
-  "checked_at": "2026-09-12T00:47:22.964154+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:08.546327+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:aquaticcapitalmanagement"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 2
  },
  "Aquis Exchange": {
   "checked_at": "2026-10-11T14:52:00.441128+00:00",
@@ -388,8 +388,8 @@
   "tried": 2
  },
  "Ardea Partners": {
-  "checked_at": "2026-09-12T00:49:57.993091+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T05:28:06.145660+00:00",
+  "method": "hint",
   "sources": [
    "ashby:ardea-partners"
   ],
@@ -709,13 +709,13 @@
   "tried": 9
  },
  "Belvedere Trading": {
-  "checked_at": "2026-09-12T00:45:57.422940+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:27:55.334800+00:00",
+  "method": "hint",
   "sources": [
    "lever:belvederetrading"
   ],
   "status": "ok",
-  "tried": 6
+  "tried": 1
  },
  "Betterment": {
   "checked_at": "2026-09-12T22:07:10.727952+00:00",
@@ -784,13 +784,13 @@
   "tried": 22
  },
  "BlackEdge Capital": {
-  "checked_at": "2026-09-12T00:56:35.046833+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:04.893616+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:blackedgecapital"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "BlackRock": {
   "checked_at": "2026-10-10T14:27:38.114048+00:00",
@@ -850,13 +850,13 @@
   "tried": 1
  },
  "Blue Capital Group": {
-  "checked_at": "2026-09-12T00:48:12.427901+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:05.323879+00:00",
+  "method": "hint",
   "sources": [
    "lever:blue"
   ],
   "status": "ok",
-  "tried": 6
+  "tried": 1
  },
  "Blue Owl Capital": {
   "checked_at": "2026-09-12T08:35:45.688684+00:00",
@@ -875,13 +875,13 @@
   "tried": 22
  },
  "Bluecrest Capital Management": {
-  "checked_at": "2026-09-12T00:49:39.121517+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:06.051909+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:bluecrestcapitalmanagement"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 1
  },
  "Bluefin Companies": {
   "checked_at": "2026-10-10T05:26:53.050464+00:00",
@@ -1050,13 +1050,13 @@
   "tried": 22
  },
  "CMT Group": {
-  "checked_at": "2026-09-12T00:48:15.833932+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:04.519609+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:cmt"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 1
  },
  "CPP Investments": {
   "checked_at": "2026-10-10T14:29:33.989160+00:00",
@@ -1219,13 +1219,13 @@
   "tried": 22
  },
  "Chicago Trading Company": {
-  "checked_at": "2026-09-12T00:45:51.274823+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:01.309441+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:chicagotrading"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 2
  },
  "Chime": {
   "checked_at": "2026-09-12T22:07:06.394319+00:00",
@@ -1506,7 +1506,7 @@
   "tried": 1
  },
  "DRW": {
-  "checked_at": "2026-09-12T00:45:34.777410+00:00",
+  "checked_at": "2026-10-12T05:27:53.100914+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:drweng"
@@ -1522,13 +1522,13 @@
   "tried": 9
  },
  "DV Trading": {
-  "checked_at": "2026-09-12T00:47:53.722900+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:03.341179+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:dvtrading"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "DWF Labs": {
   "checked_at": "2026-10-11T14:54:33.691812+00:00",
@@ -1545,13 +1545,13 @@
   "tried": 22
  },
  "Da Vinci Trading": {
-  "checked_at": "2026-09-12T00:46:32.244283+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:02.886842+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:davinciderivatives"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 2
  },
  "Daiwa Securities": {
   "checked_at": "2026-10-10T23:28:53.258849+00:00",
@@ -1702,13 +1702,13 @@
   "tried": 16
  },
  "Eagle Seven": {
-  "checked_at": "2026-09-12T00:46:29.400735+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:27:57.886842+00:00",
+  "method": "hint",
   "sources": [
    "workable:eagle-seven"
   ],
   "status": "ok",
-  "tried": 19
+  "tried": 1
  },
  "Eastspring Investments": {
   "checked_at": "2026-09-12T15:26:25.953968+00:00",
@@ -1880,7 +1880,7 @@
   "tried": 1
  },
  "ExodusPoint Capital": {
-  "checked_at": "2026-09-12T00:51:21.514687+00:00",
+  "checked_at": "2026-10-12T05:28:07.176848+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:exoduspoint"
@@ -2014,13 +2014,13 @@
   "tried": 22
  },
  "Five Rings": {
-  "checked_at": "2026-09-12T00:45:45.477925+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:01.682725+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:fiveringsllc"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 2
  },
  "Florin Court Capital": {
   "checked_at": "2026-10-10T14:24:15.213770+00:00",
@@ -2030,7 +2030,7 @@
   "tried": 22
  },
  "Flow Traders": {
-  "checked_at": "2026-09-12T00:45:35.569561+00:00",
+  "checked_at": "2026-10-12T05:27:53.906355+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:flowtraders"
@@ -2190,8 +2190,8 @@
   "tried": 6
  },
  "Gelber Group": {
-  "checked_at": "2026-09-12T00:46:41.873165+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T05:27:59.982639+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:gelbergroup"
   ],
@@ -2208,7 +2208,7 @@
   "tried": 1
  },
  "Geneva Trading": {
-  "checked_at": "2026-09-12T00:45:47.954445+00:00",
+  "checked_at": "2026-10-12T05:27:57.737363+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:genevatrading"
@@ -2272,13 +2272,13 @@
   "tried": 1
  },
  "Grasshopper Asia": {
-  "checked_at": "2026-09-12T00:47:02.597583+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:00.786146+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:grasshopperasia"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 1
  },
  "Grasshopper Trading": {
   "checked_at": "2026-10-10T05:25:48.526148+00:00",
@@ -2288,13 +2288,13 @@
   "tried": 16
  },
  "Graviton Research Capital": {
-  "checked_at": "2026-09-12T00:47:03.736807+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:01.192210+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:gravitonresearchcapital"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 1
  },
  "Grayscale Investments": {
   "checked_at": "2026-09-12T22:08:41.972618+00:00",
@@ -2407,8 +2407,8 @@
   "tried": 5
  },
  "Headlands Technologies": {
-  "checked_at": "2026-09-12T00:45:41.164690+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T05:28:02.158916+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:headlandstechnologiesllc"
   ],
@@ -2500,7 +2500,7 @@
   "tried": 22
  },
  "Hudson River Trading": {
-  "checked_at": "2026-09-12T00:45:37.318403+00:00",
+  "checked_at": "2026-10-12T05:27:56.318233+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:hrttalentcommunity"
@@ -2548,7 +2548,7 @@
   "tried": 22
  },
  "IMC Trading": {
-  "checked_at": "2026-09-12T00:45:34.420274+00:00",
+  "checked_at": "2026-10-12T05:27:52.462022+00:00",
   "method": "hint",
   "sources": [
    "html:https://careers.imc.com/us/en/search-results"
@@ -2682,22 +2682,22 @@
   "tried": 22
  },
  "Jane Capital Partners": {
-  "checked_at": "2026-09-12T00:47:43.655710+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:03.449863+00:00",
+  "method": "hint",
   "sources": [
    "ashby:jane"
   ],
   "status": "ok",
-  "tried": 10
+  "tried": 1
  },
  "Jane Street": {
-  "checked_at": "2026-09-12T00:45:44.096699+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:27:55.614136+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:janestreet"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 2
  },
  "Jane Street Capital Asia": {
   "checked_at": "2026-10-10T05:25:39.377359+00:00",
@@ -2753,7 +2753,7 @@
   "tried": 1
  },
  "Jump Trading": {
-  "checked_at": "2026-09-12T00:45:33.987753+00:00",
+  "checked_at": "2026-10-12T05:27:52.394858+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:jumptrading"
@@ -3011,13 +3011,13 @@
   "tried": 22
  },
  "Liquid Capital": {
-  "checked_at": "2026-09-12T00:46:40.766922+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:00.082699+00:00",
+  "method": "hint",
   "sources": [
    "ashby:liquid"
   ],
   "status": "ok",
-  "tried": 10
+  "tried": 1
  },
  "Liquidnet": {
   "checked_at": "2026-10-11T14:50:36.634033+00:00",
@@ -3192,13 +3192,13 @@
   "tried": 22
  },
  "Man Group": {
-  "checked_at": "2026-09-12T00:52:47.036145+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:52.264190+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:mangroup"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 2
  },
  "Mansa Capital": {
   "checked_at": "2026-10-10T05:26:29.923023+00:00",
@@ -3564,13 +3564,13 @@
   "tried": 22
  },
  "NK Securities Research": {
-  "checked_at": "2026-09-12T00:47:09.360945+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:02.549614+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:nksecuritiesresearch"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 1
  },
  "NYSE": {
   "checked_at": "2026-10-11T14:50:06.069646+00:00",
@@ -3875,7 +3875,7 @@
   "tried": 22
  },
  "Old Mission Capital": {
-  "checked_at": "2026-09-12T00:45:37.290060+00:00",
+  "checked_at": "2026-10-12T05:27:55.007348+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:oldmissioncapital"
@@ -3948,7 +3948,7 @@
   "tried": 9
  },
  "Optiver": {
-  "checked_at": "2026-09-12T00:45:35.077910+00:00",
+  "checked_at": "2026-10-12T05:27:52.686234+00:00",
   "method": "hint",
   "sources": [
    "html:https://optiver.com/working-at-optiver/career-opportunities/"
@@ -3971,13 +3971,13 @@
   "tried": 16
  },
  "Optiver US": {
-  "checked_at": "2026-09-12T00:48:06.610936+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:04.107557+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:optiverus"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "Ovata Capital Management": {
   "checked_at": "2026-10-10T14:26:56.799308+00:00",
@@ -3994,7 +3994,7 @@
   "tried": 22
  },
  "PDT Partners": {
-  "checked_at": "2026-09-12T00:51:50.303556+00:00",
+  "checked_at": "2026-10-12T05:28:09.225846+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:pdtpartners"
@@ -4187,13 +4187,13 @@
   "tried": 16
  },
  "Pico Quantitative Trading": {
-  "checked_at": "2026-09-12T00:49:06.488934+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:05.309960+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:picoquantitativetrading"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 1
  },
  "Pictet": {
   "checked_at": "2026-10-10T23:28:49.536704+00:00",
@@ -4240,7 +4240,7 @@
   "tried": 9
  },
  "Point72": {
-  "checked_at": "2026-09-12T00:51:11.839673+00:00",
+  "checked_at": "2026-10-12T05:28:06.833586+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:point72"
@@ -4297,13 +4297,13 @@
   "tried": 22
  },
  "Presto Labs": {
-  "checked_at": "2026-09-12T00:50:40.971429+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:06.574289+00:00",
+  "method": "hint",
   "sources": [
    "lever:prestolabs"
   ],
   "status": "ok",
-  "tried": 5
+  "tried": 1
  },
  "PrimaryBid": {
   "checked_at": "2026-10-11T14:51:13.046923+00:00",
@@ -4496,13 +4496,13 @@
   "tried": 9
  },
  "Radix Trading": {
-  "checked_at": "2026-09-12T00:46:13.323076+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:27:59.739522+00:00",
+  "method": "hint",
   "sources": [
    "recruitee:radix"
   ],
   "status": "ok",
-  "tried": 14
+  "tried": 2
  },
  "Raiffeisen Bank International": {
   "checked_at": "2026-10-10T23:31:18.675052+00:00",
@@ -4795,7 +4795,7 @@
   "tried": 2
  },
  "Schonfeld Strategic Advisors": {
-  "checked_at": "2026-09-12T00:51:21.873664+00:00",
+  "checked_at": "2026-10-12T05:28:07.630785+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:schonfeld"
@@ -4934,8 +4934,8 @@
   "tried": 1
  },
  "Simplex Trading": {
-  "checked_at": "2026-09-12T00:45:55.689578+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T05:27:58.121901+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:simplextrading"
   ],
@@ -4996,7 +4996,7 @@
   "tried": 22
  },
  "Squarepoint Capital": {
-  "checked_at": "2026-09-12T00:51:28.556977+00:00",
+  "checked_at": "2026-10-12T05:28:08.056833+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:squarepointcapital"
@@ -5124,13 +5124,13 @@
   "tried": 22
  },
  "Susquehanna International Group": {
-  "checked_at": "2026-09-12T00:46:20.237970+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:27:56.844237+00:00",
+  "method": "hint",
   "sources": [
    "personio:sig"
   ],
   "status": "ok",
-  "tried": 21
+  "tried": 2
  },
  "Susquehanna Pacific": {
   "checked_at": "2026-10-10T05:24:37.374142+00:00",
@@ -5214,13 +5214,13 @@
   "tried": 23
  },
  "TGS Management": {
-  "checked_at": "2026-09-12T00:48:27.609692+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:06.369392+00:00",
+  "method": "hint",
   "sources": [
    "recruitee:tgs"
   ],
   "status": "ok",
-  "tried": 15
+  "tried": 1
  },
  "TMX Group": {
   "checked_at": "2026-09-12T18:19:34.622300+00:00",
@@ -5278,13 +5278,13 @@
   "tried": 16
  },
  "Talos Trading": {
-  "checked_at": "2026-09-12T00:47:26.055365+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:03.961256+00:00",
+  "method": "hint",
   "sources": [
    "ashby:talos-trading"
   ],
   "status": "ok",
-  "tried": 7
+  "tried": 1
  },
  "Tastytrade": {
   "checked_at": "2026-09-12T22:07:01.731060+00:00",
@@ -5333,8 +5333,8 @@
   "tried": 1
  },
  "Teza Technologies": {
-  "checked_at": "2026-09-12T00:45:47.243828+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T05:27:57.074524+00:00",
+  "method": "hint",
   "sources": [
    "ashby:teza-technologies"
   ],
@@ -5433,7 +5433,7 @@
   "tried": 4
  },
  "Tower Research Capital": {
-  "checked_at": "2026-09-12T00:45:35.125000+00:00",
+  "checked_at": "2026-10-12T05:27:53.442700+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:towerresearchcapital"
@@ -5495,13 +5495,13 @@
   "tried": 22
  },
  "Tradition": {
-  "checked_at": "2026-09-12T00:50:02.905506+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:06.531447+00:00",
+  "method": "hint",
   "sources": [
    "smartrecruiters:tradition"
   ],
   "status": "ok",
-  "tried": 8
+  "tried": 1
  },
  "Traditum Group": {
   "checked_at": "2026-10-10T05:24:54.916322+00:00",
@@ -5511,8 +5511,8 @@
   "tried": 22
  },
  "TransMarket Group": {
-  "checked_at": "2026-09-12T00:45:42.405828+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T05:27:56.944232+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:transmarketgroup"
   ],
@@ -5677,13 +5677,13 @@
   "tried": 9
  },
  "Valkyrie Trading": {
-  "checked_at": "2026-09-12T00:46:55.123439+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:00.392365+00:00",
+  "method": "hint",
   "sources": [
    "lever:valkyrietrading"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 1
  },
  "Value Partners Group": {
   "checked_at": "2026-10-10T23:27:23.636794+00:00",
@@ -5714,7 +5714,7 @@
   "tried": 22
  },
  "Vatic Labs": {
-  "checked_at": "2026-09-12T00:45:39.265450+00:00",
+  "checked_at": "2026-10-12T05:27:56.594970+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:vaticlabs"
@@ -5739,8 +5739,8 @@
   "tried": 3
  },
  "Virtu Financial": {
-  "checked_at": "2026-09-12T00:45:40.797232+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T05:28:00.121287+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:virtu"
   ],
@@ -5757,22 +5757,22 @@
   "tried": 1
  },
  "Vivcourt Trading": {
-  "checked_at": "2026-09-12T00:50:09.100707+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:06.428810+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:vivcourt"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "Vivienne Court Trading": {
-  "checked_at": "2026-09-12T00:47:00.371430+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:00.388268+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:vivcourt"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 1
  },
  "Vivienne Investissement": {
   "checked_at": "2026-10-10T05:25:46.619967+00:00",
@@ -5846,13 +5846,11 @@
   "tried": 2
  },
  "Webb Traders": {
-  "checked_at": "2026-09-12T00:46:36.590664+00:00",
-  "method": "slug-guess",
-  "sources": [
-   "recruitee:webbtraders"
-  ],
-  "status": "ok",
-  "tried": 10
+  "checked_at": "2026-10-12T05:28:21.634551+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
  },
  "Webull": {
   "checked_at": "2026-10-11T14:52:54.718677+00:00",
@@ -6016,13 +6014,13 @@
   "tried": 9
  },
  "Zeta Markets": {
-  "checked_at": "2026-09-12T00:47:49.685026+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T05:28:03.748817+00:00",
+  "method": "hint",
   "sources": [
    "lever:zeta"
   ],
   "status": "ok",
-  "tried": 6
+  "tried": 1
  },
  "Zeta Trading": {
   "checked_at": "2026-10-10T05:25:37.368547+00:00",
