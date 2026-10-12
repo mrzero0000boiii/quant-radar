@@ -271,8 +271,8 @@
   "tried": 9
  },
  "American Century Investments": {
-  "checked_at": "2026-09-12T15:25:58.593110+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:45.460133+00:00",
+  "method": "hint",
   "sources": [
    "workday:americancentury/AmericanCenturyInvestments/wd5"
   ],
@@ -303,13 +303,13 @@
   "tried": 22
  },
  "Anchorage Capital Group": {
-  "checked_at": "2026-09-12T08:35:45.827332+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:39.491540+00:00",
+  "method": "hint",
   "sources": [
    "lever:anchorage"
   ],
   "status": "ok",
-  "tried": 7
+  "tried": 1
  },
  "Anchorage Digital": {
   "checked_at": "2026-10-11T14:54:30.738123+00:00",
@@ -340,8 +340,8 @@
   "tried": 22
  },
  "Apollo Global Management": {
-  "checked_at": "2026-09-12T08:36:34.465107+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:40:27.788975+00:00",
+  "method": "hint",
   "sources": [
    "workday:athene/Apollo_Careers/wd5"
   ],
@@ -404,8 +404,8 @@
   "tried": 16
  },
  "Ares Management": {
-  "checked_at": "2026-09-12T08:36:48.806928+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:40:36.118880+00:00",
+  "method": "hint",
   "sources": [
    "workday:aresmgmt/External/wd1"
   ],
@@ -420,13 +420,13 @@
   "tried": 22
  },
  "Artisan Partners": {
-  "checked_at": "2026-09-12T15:25:55.948921+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:44.205129+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:artisanpartners"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "Asia Research & Capital Management": {
   "checked_at": "2026-10-10T23:27:21.531733+00:00",
@@ -464,13 +464,13 @@
   "tried": 22
  },
  "Athos Capital": {
-  "checked_at": "2026-09-12T15:24:38.406618+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:43.762936+00:00",
+  "method": "hint",
   "sources": [
    "smartrecruiters:athos"
   ],
   "status": "ok",
-  "tried": 12
+  "tried": 1
  },
  "Atom Bank": {
   "checked_at": "2026-10-11T14:54:15.706990+00:00",
@@ -556,7 +556,7 @@
   "tried": 22
  },
  "BMO Capital Markets": {
-  "checked_at": "2026-09-12T15:29:27.744578+00:00",
+  "checked_at": "2026-10-12T17:40:41.573216+00:00",
   "method": "hint",
   "sources": [
    "workday:bmo"
@@ -644,8 +644,8 @@
   "tried": 22
  },
  "Bank of America": {
-  "checked_at": "2026-09-12T15:28:07.860953+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:40:56.168784+00:00",
+  "method": "hint",
   "sources": [
    "workday:ghr/lateral-us/wd1"
   ],
@@ -807,8 +807,8 @@
   "tried": 16
  },
  "Blackstone": {
-  "checked_at": "2026-09-12T08:35:52.748045+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:47.446920+00:00",
+  "method": "hint",
   "sources": [
    "workday:blackstone/Blackstone_Careers/wd1"
   ],
@@ -859,8 +859,8 @@
   "tried": 1
  },
  "Blue Owl Capital": {
-  "checked_at": "2026-09-12T08:35:45.688684+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:43.039647+00:00",
+  "method": "hint",
   "sources": [
    "workday:blueowl/blueowl/wd1"
   ],
@@ -912,8 +912,8 @@
   "tried": 22
  },
  "Bracebridge Capital": {
-  "checked_at": "2026-09-12T08:33:42.942625+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:36.505432+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:bracebridgecapital"
   ],
@@ -1004,7 +1004,7 @@
   "tried": 16
  },
  "CIBC": {
-  "checked_at": "2026-09-12T15:29:33.243677+00:00",
+  "checked_at": "2026-10-12T17:40:42.399407+00:00",
   "method": "hint",
   "sources": [
    "workday:cibc"
@@ -1073,13 +1073,13 @@
   "tried": 9
  },
  "CQS": {
-  "checked_at": "2026-09-12T08:33:17.451206+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:35.067973+00:00",
+  "method": "hint",
   "sources": [
    "workable:cqs"
   ],
   "status": "ok",
-  "tried": 12
+  "tried": 1
  },
  "CRED": {
   "checked_at": "2026-09-12T22:08:08.244278+00:00",
@@ -1288,8 +1288,8 @@
   "tried": 9
  },
  "Citi": {
-  "checked_at": "2026-09-12T15:28:23.048455+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:41:07.889564+00:00",
+  "method": "hint",
   "sources": [
    "workday:citi/2/wd5"
   ],
@@ -1435,13 +1435,13 @@
   "tried": 22
  },
  "Crabel Capital Management": {
-  "checked_at": "2026-09-12T08:38:38.621111+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:41.396499+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:crabel"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "Credit Agricole CIB": {
   "checked_at": "2026-10-10T23:28:52.448558+00:00",
@@ -1488,8 +1488,8 @@
   "tried": 23
  },
  "DBS Bank": {
-  "checked_at": "2026-09-12T15:31:23.679717+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:41:16.853545+00:00",
+  "method": "hint",
   "sources": [
    "workday:dbs/DBS_Careers/wd3"
   ],
@@ -1497,8 +1497,8 @@
   "tried": 2
  },
  "DNB": {
-  "checked_at": "2026-09-12T15:29:38.830758+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:49.032734+00:00",
+  "method": "hint",
   "sources": [
    "lever:dnb"
   ],
@@ -1577,8 +1577,8 @@
   "tried": 3
  },
  "Davidson Kempner": {
-  "checked_at": "2026-09-12T08:33:35.784751+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:35.393590+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:1456754456yhgbhfg"
   ],
@@ -1614,17 +1614,17 @@
   "tried": 22
  },
  "Dimensional Fund Advisors": {
-  "checked_at": "2026-09-12T08:34:50.291525+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:40:25.480299+00:00",
+  "method": "hint",
   "sources": [
    "ashby:dimensional"
   ],
   "status": "ok",
-  "tried": 9
+  "tried": 2
  },
  "Dodge & Cox": {
-  "checked_at": "2026-09-12T15:25:57.379789+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:44.670730+00:00",
+  "method": "hint",
   "sources": [
    "workday:dodgeandcox/Dodgecox/wd5"
   ],
@@ -1711,8 +1711,8 @@
   "tried": 1
  },
  "Eastspring Investments": {
-  "checked_at": "2026-09-12T15:26:25.953968+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:47.383688+00:00",
+  "method": "hint",
   "sources": [
    "workday:prudential/prudential_eastspring/wd3"
   ],
@@ -1729,13 +1729,13 @@
   "tried": 1
  },
  "Eclipse Capital Management": {
-  "checked_at": "2026-09-12T08:39:28.824417+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:42.928777+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:eclipse"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 1
  },
  "Eclipse Options": {
   "checked_at": "2026-10-10T05:24:33.784505+00:00",
@@ -2062,8 +2062,8 @@
   "tried": 22
  },
  "Fortress Investment Group": {
-  "checked_at": "2026-09-12T08:34:15.477569+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:37.322523+00:00",
+  "method": "hint",
   "sources": [
    "workday:fortress/Careers/wd503"
   ],
@@ -2115,8 +2115,8 @@
   "tried": 17
  },
  "GAM Systematic": {
-  "checked_at": "2026-09-12T08:39:24.199092+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:43.148783+00:00",
+  "method": "hint",
   "sources": [
    "workday:gam/GAM/wd3"
   ],
@@ -2131,22 +2131,22 @@
   "tried": 9
  },
  "GMO": {
-  "checked_at": "2026-09-12T08:37:22.511981+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:41.311769+00:00",
+  "method": "hint",
   "sources": [
    "lever:gmo"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 1
  },
  "GSA Capital": {
-  "checked_at": "2026-09-12T08:32:50.579363+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:34.528277+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:gsacapital"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "GSR Markets": {
   "checked_at": "2026-09-12T22:08:11.458754+00:00",
@@ -2245,13 +2245,13 @@
   "tried": 22
  },
  "Goldman Sachs": {
-  "checked_at": "2026-09-12T15:27:04.186067+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:45.693794+00:00",
+  "method": "hint",
   "sources": [
    "recruitee:gs"
   ],
   "status": "ok",
-  "tried": 16
+  "tried": 2
  },
  "Grab Financial": {
   "checked_at": "2026-09-12T22:08:07.809515+00:00",
@@ -2263,8 +2263,8 @@
   "tried": 11
  },
  "Graham Capital Management": {
-  "checked_at": "2026-09-12T08:38:39.076816+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:41.777885+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:grahamcapitalmanagement"
   ],
@@ -2313,13 +2313,13 @@
   "tried": 22
  },
  "Greenlight Capital": {
-  "checked_at": "2026-09-12T15:23:42.034908+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:43.783171+00:00",
+  "method": "hint",
   "sources": [
    "lever:greenlight"
   ],
   "status": "ok",
-  "tried": 6
+  "tried": 1
  },
  "Greenwoods Asset Management": {
   "checked_at": "2026-10-10T23:26:43.793545+00:00",
@@ -2573,13 +2573,13 @@
   "tried": 7
  },
  "ISAM": {
-  "checked_at": "2026-09-12T08:38:44.638200+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:42.154505+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:isam"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "Ilex Capital Partners": {
   "checked_at": "2026-10-10T14:25:03.854286+00:00",
@@ -2666,8 +2666,8 @@
   "tried": 23
  },
  "Jain Global": {
-  "checked_at": "2026-09-12T08:33:41.119799+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:40.665814+00:00",
+  "method": "hint",
   "sources": [
    "workday:jainglobal/LinkedInCareerSite/wd5"
   ],
@@ -2735,13 +2735,13 @@
   "tried": 22
  },
  "Julius Baer": {
-  "checked_at": "2026-09-12T15:30:32.015672+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:40:24.713945+00:00",
+  "method": "hint",
   "sources": [
    "workday:juliusbaer"
   ],
   "status": "ok",
-  "tried": 16
+  "tried": 1
  },
  "Jump Crypto": {
   "checked_at": "2026-09-12T22:07:58.983463+00:00",
@@ -2762,13 +2762,13 @@
   "tried": 1
  },
  "KBC": {
-  "checked_at": "2026-09-12T15:30:24.474783+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:40:05.468398+00:00",
+  "method": "hint",
   "sources": [
    "personio:kbc"
   ],
   "status": "ok",
-  "tried": 14
+  "tried": 1
  },
  "KKR": {
   "checked_at": "2026-10-10T14:27:29.168126+00:00",
@@ -2942,13 +2942,13 @@
   "tried": 22
  },
  "LMR Partners": {
-  "checked_at": "2026-09-12T08:33:36.916907+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:36.125715+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:lmr"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 1
  },
  "Lansdowne Partners": {
   "checked_at": "2026-10-10T14:24:19.745492+00:00",
@@ -2972,22 +2972,22 @@
   "tried": 9
  },
  "Legal & General Investment Management": {
-  "checked_at": "2026-09-12T08:39:18.578279+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:40.297884+00:00",
+  "method": "hint",
   "sources": [
    "smartrecruiters:legalandgeneral"
   ],
   "status": "ok",
-  "tried": 12
+  "tried": 1
  },
  "Lighthouse Investment Partners": {
-  "checked_at": "2026-09-12T15:23:03.174293+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:43.372698+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:lighthouse"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 1
  },
  "Lightyear": {
   "checked_at": "2026-10-11T14:53:48.392433+00:00",
@@ -3036,8 +3036,8 @@
   "tried": 2
  },
  "Lombard Odier": {
-  "checked_at": "2026-09-12T15:30:06.738580+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:40:03.026516+00:00",
+  "method": "hint",
   "sources": [
    "workday:lombardodier/Lombard_Odier_Careers/wd3"
   ],
@@ -3132,8 +3132,8 @@
   "tried": 9
  },
  "MFS Investment Management": {
-  "checked_at": "2026-09-12T08:37:19.459575+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:43.606249+00:00",
+  "method": "hint",
   "sources": [
    "workday:mfs/MFS-Careers/wd1"
   ],
@@ -3176,7 +3176,7 @@
   "tried": 22
  },
  "Magnetar Capital": {
-  "checked_at": "2026-09-12T08:33:32.896970+00:00",
+  "checked_at": "2026-10-12T17:39:35.677386+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:magnetar"
@@ -3474,22 +3474,22 @@
   "tried": 16
  },
  "Moore Capital Management": {
-  "checked_at": "2026-09-12T08:34:41.715354+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:38.121849+00:00",
+  "method": "hint",
   "sources": [
    "recruitee:moore"
   ],
   "status": "ok",
-  "tried": 16
+  "tried": 1
  },
  "Morgan Stanley": {
-  "checked_at": "2026-09-12T15:27:52.160010+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:40:31.265285+00:00",
+  "method": "hint",
   "sources": [
    "recruitee:ms"
   ],
   "status": "ok",
-  "tried": 16
+  "tried": 2
  },
  "Morningstar": {
   "checked_at": "2026-10-11T14:53:16.439992+00:00",
@@ -3740,8 +3740,8 @@
   "tried": 22
  },
  "Northern Trust": {
-  "checked_at": "2026-09-12T15:30:36.914209+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:40:54.962323+00:00",
+  "method": "hint",
   "sources": [
    "workday:ntrs/northerntrust/wd1"
   ],
@@ -3859,13 +3859,13 @@
   "tried": 22
  },
  "Oasis Management": {
-  "checked_at": "2026-09-12T08:35:21.882707+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:38.527953+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:oasis"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 1
  },
  "Okasan Securities": {
   "checked_at": "2026-10-11T14:50:17.502900+00:00",
@@ -3900,8 +3900,8 @@
   "tried": 16
  },
  "Ontario Teachers' Pension Plan": {
-  "checked_at": "2026-09-12T08:37:50.905265+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:42.860426+00:00",
+  "method": "hint",
   "sources": [
    "workday:otppb/OntarioTeachers_Careers/wd3"
   ],
@@ -4070,8 +4070,8 @@
   "tried": 22
  },
  "Palmer Square Capital Management": {
-  "checked_at": "2026-09-12T15:22:20.358977+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:48.822001+00:00",
+  "method": "hint",
   "sources": [
    "lever:heyrowan"
   ],
@@ -4249,13 +4249,13 @@
   "tried": 1
  },
  "Polar Asset Management": {
-  "checked_at": "2026-09-12T08:39:34.590365+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:42.942058+00:00",
+  "method": "hint",
   "sources": [
    "ashby:polar"
   ],
   "status": "ok",
-  "tried": 10
+  "tried": 1
  },
  "Polychain Capital": {
   "checked_at": "2026-09-12T22:08:53.029890+00:00",
@@ -4371,7 +4371,7 @@
   "tried": 22
  },
  "Quadrature Capital": {
-  "checked_at": "2026-09-12T08:32:45.537420+00:00",
+  "checked_at": "2026-10-12T17:39:34.911133+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:quadraturecapital"
@@ -4417,13 +4417,13 @@
   "tried": 22
  },
  "Quantica Capital": {
-  "checked_at": "2026-09-12T08:39:30.761937+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:42.770063+00:00",
+  "method": "hint",
   "sources": [
    "personio:quantica"
   ],
   "status": "ok",
-  "tried": 21
+  "tried": 1
  },
  "Quantitative Brokers": {
   "checked_at": "2026-10-11T14:51:08.073228+00:00",
@@ -4657,8 +4657,8 @@
   "tried": 22
  },
  "Russell Investments": {
-  "checked_at": "2026-09-12T15:26:11.627831+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:45.880167+00:00",
+  "method": "hint",
   "sources": [
    "workday:russell/russellinvestments/wd5"
   ],
@@ -4736,13 +4736,11 @@
   "tried": 22
  },
  "Samsung Asset Management": {
-  "checked_at": "2026-09-12T15:27:02.210372+00:00",
-  "method": "slug-guess",
-  "sources": [
-   "recruitee:samsung"
-  ],
-  "status": "ok",
-  "tried": 16
+  "checked_at": "2026-10-12T17:40:00.193579+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
  },
  "Samsung Securities": {
   "checked_at": "2026-09-12T18:17:36.333728+00:00",
@@ -4754,13 +4752,13 @@
   "tried": 15
  },
  "Sandbar Asset Management": {
-  "checked_at": "2026-09-12T08:39:33.400316+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:42.652811+00:00",
+  "method": "hint",
   "sources": [
    "ashby:sandbar"
   ],
   "status": "ok",
-  "tried": 10
+  "tried": 1
  },
  "Santander": {
   "checked_at": "2026-10-10T23:29:51.099064+00:00",
@@ -4973,13 +4971,13 @@
   "tried": 22
  },
  "Sona Asset Management": {
-  "checked_at": "2026-09-12T15:23:14.859828+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:43.452619+00:00",
+  "method": "hint",
   "sources": [
    "ashby:sona"
   ],
   "status": "ok",
-  "tried": 10
+  "tried": 1
  },
  "Spot Trading": {
   "checked_at": "2026-10-10T05:24:00.226822+00:00",
@@ -5044,8 +5042,8 @@
   "tried": 2
  },
  "State Street": {
-  "checked_at": "2026-09-12T08:37:16.258873+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:40:51.466002+00:00",
+  "method": "hint",
   "sources": [
    "workday:statestreet/Global/wd1"
   ],
@@ -5161,13 +5159,13 @@
   "tried": 9
  },
  "Symmetry Investments": {
-  "checked_at": "2026-09-12T08:34:46.911770+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:38.084696+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:symmetry"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 1
  },
  "Syquant Capital": {
   "checked_at": "2026-10-10T23:33:51.331748+00:00",
@@ -5184,8 +5182,8 @@
   "tried": 22
  },
  "T. Rowe Price": {
-  "checked_at": "2026-09-12T08:37:27.782163+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:40:34.225233+00:00",
+  "method": "hint",
   "sources": [
    "workday:troweprice/TRowePrice/wd5"
   ],
@@ -5241,8 +5239,8 @@
   "tried": 8
  },
  "TPG": {
-  "checked_at": "2026-09-12T08:35:54.771640+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:41.109626+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:tpgcareers"
   ],
@@ -5349,13 +5347,13 @@
   "tried": 22
  },
  "The Voleon Group": {
-  "checked_at": "2026-09-12T08:32:55.103456+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:39.525646+00:00",
+  "method": "hint",
   "sources": [
    "ashby:voleon"
   ],
   "status": "ok",
-  "tried": 8
+  "tried": 2
  },
  "Third Point": {
   "checked_at": "2026-10-10T14:26:30.992415+00:00",
@@ -5397,13 +5395,13 @@
   "tried": 1
  },
  "Tiger Global Management": {
-  "checked_at": "2026-09-12T08:35:28.395970+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:38.587403+00:00",
+  "method": "hint",
   "sources": [
    "ashby:tiger"
   ],
   "status": "ok",
-  "tried": 10
+  "tried": 1
  },
  "Titan": {
   "checked_at": "2026-09-12T22:07:21.176301+00:00",
@@ -5424,13 +5422,13 @@
   "tried": 1
  },
  "Torq Capital Management": {
-  "checked_at": "2026-09-12T15:32:48.185362+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:43.794528+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:torq"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 1
  },
  "Tower Research Capital": {
   "checked_at": "2026-10-12T05:27:53.442700+00:00",
@@ -5585,8 +5583,8 @@
   "tried": 22
  },
  "Tudor Investment Corporation": {
-  "checked_at": "2026-09-12T08:34:17.026586+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:37.362069+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:tudorgroup"
   ],
@@ -5645,8 +5643,8 @@
   "tried": 9
  },
  "UOB": {
-  "checked_at": "2026-09-12T15:30:51.879052+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:40:41.875916+00:00",
+  "method": "hint",
   "sources": [
    "workday:uobgroup/UOBExternal/wd3"
   ],
@@ -5730,13 +5728,13 @@
   "tried": 22
  },
  "Viking Global Investors": {
-  "checked_at": "2026-09-12T08:35:34.734414+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:38.907141+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:vikingglobalinvestors"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 1
  },
  "Virtu Financial": {
   "checked_at": "2026-10-12T05:28:00.121287+00:00",
@@ -5789,17 +5787,17 @@
   "tried": 22
  },
  "Voloridge Investment Management": {
-  "checked_at": "2026-09-12T08:33:54.848230+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:40.281316+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:voloridgeinvestmentmanagement"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 2
  },
  "Vontobel": {
-  "checked_at": "2026-09-12T15:30:06.773958+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:40:04.762858+00:00",
+  "method": "hint",
   "sources": [
    "workday:vontobel/Vontobel_External_Career/wd3"
   ],
@@ -5807,8 +5805,8 @@
   "tried": 1
  },
  "Voya Investment Management": {
-  "checked_at": "2026-09-12T15:26:08.381072+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:48.153674+00:00",
+  "method": "hint",
   "sources": [
    "workday:godirect/voya_jobs/wd5"
   ],
@@ -5867,7 +5865,7 @@
   "tried": 22
  },
  "Wellington Management": {
-  "checked_at": "2026-09-12T08:36:56.987707+00:00",
+  "checked_at": "2026-10-12T17:40:16.313369+00:00",
   "method": "hint",
   "sources": [
    "workday:wellington"
@@ -5920,13 +5918,13 @@
   "tried": 16
  },
  "Winton": {
-  "checked_at": "2026-09-12T08:32:50.159815+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-12T17:39:34.336526+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:winton"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "Wise": {
   "checked_at": "2026-09-12T22:07:07.951265+00:00",
@@ -5952,7 +5950,7 @@
   "tried": 22
  },
  "WorldQuant": {
-  "checked_at": "2026-09-12T08:38:00.259740+00:00",
+  "checked_at": "2026-10-12T17:39:41.042061+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:worldquant"
@@ -6053,8 +6051,8 @@
   "tried": 22
  },
  "abrdn": {
-  "checked_at": "2026-09-12T08:37:08.087316+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-12T17:39:41.921011+00:00",
+  "method": "hint",
   "sources": [
    "workday:abrdn/abrdn/wd3"
   ],
