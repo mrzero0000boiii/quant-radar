@@ -104,22 +104,22 @@
   "tried": 22
  },
  "Acorns": {
-  "checked_at": "2026-09-12T22:07:51.443577+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:27.717895+00:00",
+  "method": "hint",
   "sources": [
    "ashby:acorns"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 2
  },
  "Adaptive Financial Consulting": {
-  "checked_at": "2026-09-12T18:22:55.785273+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:55:58.011634+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:adaptivefinancialconsulting"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 2
  },
  "Addepar": {
   "checked_at": "2026-10-11T14:52:47.644620+00:00",
@@ -129,7 +129,7 @@
   "tried": 9
  },
  "Adyen": {
-  "checked_at": "2026-09-12T22:07:08.715070+00:00",
+  "checked_at": "2026-10-13T01:56:15.258179+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:adyen"
@@ -138,7 +138,7 @@
   "tried": 1
  },
  "Affirm": {
-  "checked_at": "2026-09-12T22:07:05.621335+00:00",
+  "checked_at": "2026-10-13T01:56:12.853908+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:affirm"
@@ -147,13 +147,13 @@
   "tried": 1
  },
  "Airwallex": {
-  "checked_at": "2026-09-12T22:07:13.689550+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:16.897312+00:00",
+  "method": "hint",
   "sources": [
    "ashby:airwallex"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 2
  },
  "Akuna Capital": {
   "checked_at": "2026-10-12T05:27:54.600855+00:00",
@@ -200,13 +200,13 @@
   "tried": 22
  },
  "Alpaca": {
-  "checked_at": "2026-09-12T22:07:20.683571+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:17.735964+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:alpaca"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 2
  },
  "AlphaGrep Securities": {
   "checked_at": "2026-10-12T05:28:02.052527+00:00",
@@ -218,7 +218,7 @@
   "tried": 1
  },
  "AlphaSense": {
-  "checked_at": "2026-09-12T22:06:34.462708+00:00",
+  "checked_at": "2026-10-13T01:56:03.650785+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:alphasense"
@@ -248,7 +248,7 @@
   "tried": 22
  },
  "Amber Group": {
-  "checked_at": "2026-09-12T22:08:02.810985+00:00",
+  "checked_at": "2026-10-13T01:56:30.850249+00:00",
   "method": "hint",
   "sources": [
    "lever:ambergroup"
@@ -379,8 +379,8 @@
   "tried": 22
  },
  "Arcesium": {
-  "checked_at": "2026-09-12T18:22:25.948623+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:55:55.988607+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:arcesiumllc"
   ],
@@ -480,13 +480,13 @@
   "tried": 16
  },
  "Auros": {
-  "checked_at": "2026-09-12T22:08:05.196370+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:31.287399+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:aurosglobal"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 1
  },
  "Autonomy Capital": {
   "checked_at": "2026-10-10T14:25:46.299588+00:00",
@@ -510,8 +510,8 @@
   "tried": 22
  },
  "Axis Capital": {
-  "checked_at": "2026-09-12T18:18:23.808672+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:55:51.501671+00:00",
+  "method": "hint",
   "sources": [
    "workday:axiscapital/axiscareers/wd1"
   ],
@@ -526,7 +526,7 @@
   "tried": 22
  },
  "B2C2": {
-  "checked_at": "2026-09-12T22:08:05.558434+00:00",
+  "checked_at": "2026-10-13T01:56:31.664009+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:b2c2"
@@ -593,13 +593,13 @@
   "tried": 22
  },
  "BTG Pactual": {
-  "checked_at": "2026-09-12T18:15:43.300728+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:55:48.939315+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:btgpactual"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "Baillie Gifford": {
   "checked_at": "2026-10-10T14:26:45.379136+00:00",
@@ -718,7 +718,7 @@
   "tried": 1
  },
  "Betterment": {
-  "checked_at": "2026-09-12T22:07:10.727952+00:00",
+  "checked_at": "2026-10-13T01:56:16.441488+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:betterment"
@@ -727,16 +727,16 @@
   "tried": 1
  },
  "Binance": {
-  "checked_at": "2026-09-12T22:08:19.194776+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:37.949364+00:00",
+  "method": "hint",
   "sources": [
    "lever:binance"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 1
  },
  "BitGo": {
-  "checked_at": "2026-09-12T22:08:13.871407+00:00",
+  "checked_at": "2026-10-13T01:56:36.732803+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:bitgo"
@@ -761,7 +761,7 @@
   "tried": 9
  },
  "Bitpanda": {
-  "checked_at": "2026-09-12T22:07:38.554804+00:00",
+  "checked_at": "2026-10-13T01:56:24.054988+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:bitpanda"
@@ -816,7 +816,7 @@
   "tried": 2
  },
  "Block": {
-  "checked_at": "2026-09-12T22:07:12.855617+00:00",
+  "checked_at": "2026-10-13T01:56:18.134498+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:block"
@@ -825,7 +825,7 @@
   "tried": 1
  },
  "Blockchain.com": {
-  "checked_at": "2026-09-12T22:08:39.534504+00:00",
+  "checked_at": "2026-10-13T01:56:39.550154+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:blockchain"
@@ -841,8 +841,8 @@
   "tried": 17
  },
  "Bloomberg Industry Group": {
-  "checked_at": "2026-09-12T22:06:39.767720+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:04.061115+00:00",
+  "method": "hint",
   "sources": [
    "workday:bloomberg/Bloombergindustrygroup_External_Career_Site/wd1"
   ],
@@ -935,7 +935,7 @@
   "tried": 16
  },
  "Brex": {
-  "checked_at": "2026-09-12T22:07:02.617714+00:00",
+  "checked_at": "2026-10-13T01:56:12.011276+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:brex"
@@ -951,7 +951,7 @@
   "tried": 22
  },
  "Broadridge": {
-  "checked_at": "2026-09-12T18:20:53.795175+00:00",
+  "checked_at": "2026-10-13T01:56:45.405259+00:00",
   "method": "hint",
   "sources": [
    "workday:broadridge"
@@ -981,13 +981,13 @@
   "tried": 16
  },
  "Bybit": {
-  "checked_at": "2026-09-12T22:08:13.439785+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:34.777292+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:bybit"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "CDPQ": {
   "checked_at": "2026-10-10T14:26:20.991561+00:00",
@@ -1034,13 +1034,11 @@
   "tried": 22
  },
  "CMC Markets": {
-  "checked_at": "2026-09-12T22:07:11.047609+00:00",
-  "method": "slug-guess",
-  "sources": [
-   "personio:cmc"
-  ],
-  "status": "ok",
-  "tried": 21
+  "checked_at": "2026-10-13T01:56:24.006888+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
  },
  "CME Group": {
   "checked_at": "2026-10-11T14:52:32.867722+00:00",
@@ -1082,13 +1080,13 @@
   "tried": 1
  },
  "CRED": {
-  "checked_at": "2026-09-12T22:08:08.244278+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:28.912146+00:00",
+  "method": "hint",
   "sources": [
    "lever:cred"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 1
  },
  "CaixaBank": {
   "checked_at": "2026-10-10T23:30:28.157328+00:00",
@@ -1228,7 +1226,7 @@
   "tried": 2
  },
  "Chime": {
-  "checked_at": "2026-09-12T22:07:06.394319+00:00",
+  "checked_at": "2026-10-13T01:56:13.252882+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:chime"
@@ -1258,13 +1256,13 @@
   "tried": 22
  },
  "Circle": {
-  "checked_at": "2026-09-12T22:08:17.481004+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:37.608553+00:00",
+  "method": "hint",
   "sources": [
    "ashby:circle"
   ],
   "status": "ok",
-  "tried": 6
+  "tried": 2
  },
  "Citadel": {
   "checked_at": "2026-10-10T05:25:57.027659+00:00",
@@ -1304,7 +1302,7 @@
   "tried": 22
  },
  "Clear Street": {
-  "checked_at": "2026-09-12T18:19:41.712001+00:00",
+  "checked_at": "2026-10-13T01:55:51.841967+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:clearstreet"
@@ -1348,7 +1346,7 @@
   "tried": 16
  },
  "Coinbase": {
-  "checked_at": "2026-09-12T22:08:07.824947+00:00",
+  "checked_at": "2026-10-13T01:56:33.594746+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:coinbase"
@@ -1371,8 +1369,8 @@
   "tried": 9
  },
  "Commonwealth Bank of Australia": {
-  "checked_at": "2026-09-12T18:17:11.560145+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:55:58.884496+00:00",
+  "method": "hint",
   "sources": [
    "workday:cba/CommBank_Careers/wd3"
   ],
@@ -1387,7 +1385,7 @@
   "tried": 16
  },
  "Consensys": {
-  "checked_at": "2026-09-12T22:09:04.027022+00:00",
+  "checked_at": "2026-10-13T01:56:41.435331+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:consensys"
@@ -1410,17 +1408,17 @@
   "tried": 16
  },
  "Copper.co": {
-  "checked_at": "2026-09-12T22:08:18.314713+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:39.215433+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:copperco"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 2
  },
  "Corpay": {
-  "checked_at": "2026-09-12T22:07:32.220477+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:24.849242+00:00",
+  "method": "hint",
   "sources": [
    "workday:corpay/Ext_001/wd103"
   ],
@@ -1451,13 +1449,13 @@
   "tried": 22
  },
  "Crypto.com": {
-  "checked_at": "2026-09-12T22:08:21.598748+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:40.346375+00:00",
+  "method": "hint",
   "sources": [
    "lever:crypto"
   ],
   "status": "ok",
-  "tried": 6
+  "tried": 2
  },
  "Cubist Systematic Strategies": {
   "checked_at": "2026-10-10T14:27:07.969185+00:00",
@@ -1568,13 +1566,13 @@
   "tried": 16
  },
  "Databento": {
-  "checked_at": "2026-09-12T18:21:06.391131+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:55:53.225299+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:databento"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 2
  },
  "Davidson Kempner": {
   "checked_at": "2026-10-12T17:39:35.393590+00:00",
@@ -1720,7 +1718,7 @@
   "tried": 1
  },
  "Ebury": {
-  "checked_at": "2026-09-12T22:07:27.960270+00:00",
+  "checked_at": "2026-10-13T01:56:20.181556+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:ebury"
@@ -1871,8 +1869,8 @@
   "tried": 9
  },
  "Exegy": {
-  "checked_at": "2026-09-12T18:22:35.689654+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:55:56.438806+00:00",
+  "method": "hint",
   "sources": [
    "ashby:exegy"
   ],
@@ -1903,7 +1901,7 @@
   "tried": 9
  },
  "FalconX": {
-  "checked_at": "2026-09-12T22:08:14.639000+00:00",
+  "checked_at": "2026-10-13T01:56:37.511772+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:falconx"
@@ -1961,8 +1959,8 @@
   "tried": 22
  },
  "Finastra": {
-  "checked_at": "2026-09-12T18:22:56.858946+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:03.576372+00:00",
+  "method": "hint",
   "sources": [
    "workday:finastra/FINC/wd3"
   ],
@@ -1977,7 +1975,7 @@
   "tried": 22
  },
  "Fireblocks": {
-  "checked_at": "2026-09-12T22:08:10.621966+00:00",
+  "checked_at": "2026-10-13T01:56:35.941922+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:fireblocks"
@@ -2039,13 +2037,14 @@
   "tried": 1
  },
  "Flowdesk": {
-  "checked_at": "2026-09-12T22:08:36.671470+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:40.295921+00:00",
+  "method": "hint",
   "sources": [
-   "smartrecruiters:flowdesk"
+   "smartrecruiters:flowdesk",
+   "greenhouse:flowdesk"
   ],
   "status": "ok",
-  "tried": 5
+  "tried": 2
  },
  "Flutterwave": {
   "checked_at": "2026-10-11T14:53:28.715832+00:00",
@@ -2085,13 +2084,13 @@
   "tried": 22
  },
  "Freetrade": {
-  "checked_at": "2026-09-12T22:07:49.875436+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:24.877803+00:00",
+  "method": "hint",
   "sources": [
    "ashby:freetrade"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 2
  },
  "Fullerton Fund Management": {
   "checked_at": "2026-10-10T23:28:30.649900+00:00",
@@ -2149,13 +2148,13 @@
   "tried": 1
  },
  "GSR Markets": {
-  "checked_at": "2026-09-12T22:08:11.458754+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:31.333590+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:gsrmarkets"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 2
  },
  "GTS": {
   "checked_at": "2026-10-10T05:24:05.859722+00:00",
@@ -2165,8 +2164,8 @@
   "tried": 16
  },
  "Galaxy Digital": {
-  "checked_at": "2026-09-12T22:08:07.095615+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:33.619076+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:galaxydigitalservices"
   ],
@@ -2181,13 +2180,13 @@
   "tried": 22
  },
  "Gate.io": {
-  "checked_at": "2026-09-12T22:08:28.921293+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:38.939448+00:00",
+  "method": "hint",
   "sources": [
    "lever:gate"
   ],
   "status": "ok",
-  "tried": 6
+  "tried": 1
  },
  "Gelber Group": {
   "checked_at": "2026-10-12T05:27:59.982639+00:00",
@@ -2199,7 +2198,7 @@
   "tried": 1
  },
  "Gemini": {
-  "checked_at": "2026-09-12T22:08:08.626354+00:00",
+  "checked_at": "2026-10-13T01:56:33.994880+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:gemini"
@@ -2254,13 +2253,13 @@
   "tried": 2
  },
  "Grab Financial": {
-  "checked_at": "2026-09-12T22:08:07.809515+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:31.264436+00:00",
+  "method": "hint",
   "sources": [
    "smartrecruiters:grab"
   ],
   "status": "ok",
-  "tried": 11
+  "tried": 1
  },
  "Graham Capital Management": {
   "checked_at": "2026-10-12T17:39:41.777885+00:00",
@@ -2297,7 +2296,7 @@
   "tried": 1
  },
  "Grayscale Investments": {
-  "checked_at": "2026-09-12T22:08:41.972618+00:00",
+  "checked_at": "2026-10-13T01:56:39.944229+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:grayscale"
@@ -2336,17 +2335,17 @@
   "tried": 22
  },
  "Groww": {
-  "checked_at": "2026-09-12T18:18:53.608122+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:55:50.050360+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:groww"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "Guggenheim Partners": {
-  "checked_at": "2026-09-12T18:15:46.358932+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:55:50.137295+00:00",
+  "method": "hint",
   "sources": [
    "workday:guggenheiminvestment/External/wd5"
   ],
@@ -2382,8 +2381,8 @@
   "tried": 22
  },
  "Hargreaves Lansdown": {
-  "checked_at": "2026-09-12T22:07:46.052986+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:25.728579+00:00",
+  "method": "hint",
   "sources": [
    "workday:hargreaveslansdown/HargreavesLansdown/wd3"
   ],
@@ -2398,13 +2397,13 @@
   "tried": 22
  },
  "Hashed": {
-  "checked_at": "2026-09-12T22:09:03.851620+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:41.474643+00:00",
+  "method": "hint",
   "sources": [
    "smartrecruiters:hashed"
   ],
   "status": "ok",
-  "tried": 5
+  "tried": 1
  },
  "Headlands Technologies": {
   "checked_at": "2026-10-12T05:28:02.158916+00:00",
@@ -2523,7 +2522,7 @@
   "tried": 22
  },
  "IEX": {
-  "checked_at": "2026-09-12T18:19:37.369854+00:00",
+  "checked_at": "2026-10-13T01:55:51.064413+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:iex"
@@ -2532,8 +2531,8 @@
   "tried": 1
  },
  "IG Group": {
-  "checked_at": "2026-09-12T22:06:48.497006+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:07.329991+00:00",
+  "method": "hint",
   "sources": [
    "workday:ig/EXT_IG/wd103"
   ],
@@ -2564,13 +2563,13 @@
   "tried": 16
  },
  "ION Group": {
-  "checked_at": "2026-09-12T18:20:39.245800+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:55:53.033200+00:00",
+  "method": "hint",
   "sources": [
    "lever:ion"
   ],
   "status": "ok",
-  "tried": 7
+  "tried": 1
  },
  "ISAM": {
   "checked_at": "2026-10-12T17:39:42.154505+00:00",
@@ -2744,8 +2743,8 @@
   "tried": 1
  },
  "Jump Crypto": {
-  "checked_at": "2026-09-12T22:07:58.983463+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:29.286739+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:jumpcrypto"
   ],
@@ -2792,16 +2791,14 @@
   "tried": 22
  },
  "Kaiko": {
-  "checked_at": "2026-09-12T18:21:11.445985+00:00",
-  "method": "slug-guess",
-  "sources": [
-   "personio:kaiko"
-  ],
-  "status": "ok",
-  "tried": 8
+  "checked_at": "2026-10-13T01:56:03.771501+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 9
  },
  "Kalshi": {
-  "checked_at": "2026-09-12T22:07:46.684166+00:00",
+  "checked_at": "2026-10-13T01:56:27.311915+00:00",
   "method": "hint",
   "sources": [
    "ashby:kalshi"
@@ -2831,22 +2828,22 @@
   "tried": 16
  },
  "KeyBank": {
-  "checked_at": "2026-09-12T18:21:21.994836+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:54.855116+00:00",
+  "method": "hint",
   "sources": [
    "workday:keybank"
   ],
   "status": "ok",
-  "tried": 16
+  "tried": 1
  },
  "Keyrock": {
-  "checked_at": "2026-09-12T22:08:09.442933+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:33.184711+00:00",
+  "method": "hint",
   "sources": [
    "ashby:keyrock"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 2
  },
  "Keywise Capital": {
   "checked_at": "2026-10-10T23:27:01.212256+00:00",
@@ -2905,8 +2902,8 @@
   "tried": 22
  },
  "Kraken": {
-  "checked_at": "2026-09-12T22:08:10.124383+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:35.982507+00:00",
+  "method": "hint",
   "sources": [
    "ashby:kraken.com"
   ],
@@ -3027,8 +3024,8 @@
   "tried": 9
  },
  "Lloyds Banking Group": {
-  "checked_at": "2026-09-12T18:16:38.008924+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:49.564401+00:00",
+  "method": "hint",
   "sources": [
    "workday:lbg/lbg_Careers/wd3"
   ],
@@ -3045,7 +3042,7 @@
   "tried": 1
  },
  "London Stock Exchange Group": {
-  "checked_at": "2026-09-12T18:19:50.788098+00:00",
+  "checked_at": "2026-10-13T01:56:59.908725+00:00",
   "method": "hint",
   "sources": [
    "workday:lseg"
@@ -3098,8 +3095,8 @@
   "tried": 16
  },
  "M&T Bank": {
-  "checked_at": "2026-09-12T18:16:53.393507+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:33.199117+00:00",
+  "method": "hint",
   "sources": [
    "workday:mtb/MTB/wd5"
   ],
@@ -3107,16 +3104,16 @@
   "tried": 1
  },
  "M1 Finance": {
-  "checked_at": "2026-09-12T22:07:57.459173+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:26.917988+00:00",
+  "method": "hint",
   "sources": [
    "smartrecruiters:m1finance"
   ],
   "status": "ok",
-  "tried": 11
+  "tried": 2
  },
  "MEMX": {
-  "checked_at": "2026-09-12T18:19:37.805830+00:00",
+  "checked_at": "2026-10-13T01:55:51.395779+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:memx"
@@ -3338,8 +3335,8 @@
   "tried": 22
  },
  "Mercury": {
-  "checked_at": "2026-09-12T22:07:03.863148+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:12.540701+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:mercury"
   ],
@@ -3403,8 +3400,8 @@
   "tried": 9
  },
  "Modern Treasury": {
-  "checked_at": "2026-09-12T22:07:05.528152+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:13.774065+00:00",
+  "method": "hint",
   "sources": [
    "ashby:moderntreasury"
   ],
@@ -3419,8 +3416,8 @@
   "tried": 22
  },
  "Moelis & Company": {
-  "checked_at": "2026-09-12T18:16:13.129735+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:55:50.918189+00:00",
+  "method": "hint",
   "sources": [
    "workday:moelis/Experienced-Hires/wd1"
   ],
@@ -3428,13 +3425,13 @@
   "tried": 1
  },
  "Mollie": {
-  "checked_at": "2026-09-12T22:07:33.537587+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:21.455579+00:00",
+  "method": "hint",
   "sources": [
    "ashby:mollie"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 2
  },
  "Monarch Alternative Capital": {
   "checked_at": "2026-10-10T23:25:27.955971+00:00",
@@ -3458,7 +3455,7 @@
   "tried": 9
  },
  "Monzo": {
-  "checked_at": "2026-09-12T22:07:07.264698+00:00",
+  "checked_at": "2026-10-13T01:56:14.042761+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:monzo"
@@ -3548,7 +3545,7 @@
   "tried": 22
  },
  "N26": {
-  "checked_at": "2026-09-12T22:07:07.575053+00:00",
+  "checked_at": "2026-10-13T01:56:14.406100+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:n26"
@@ -3587,8 +3584,8 @@
   "tried": 22
  },
  "Nasdaq": {
-  "checked_at": "2026-09-12T18:19:41.619277+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:55.409564+00:00",
+  "method": "hint",
   "sources": [
    "workday:nasdaq/Global_External_Site/wd1"
   ],
@@ -3645,8 +3642,8 @@
   "tried": 16
  },
  "Neudata": {
-  "checked_at": "2026-09-12T22:06:36.871762+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:04.510443+00:00",
+  "method": "hint",
   "sources": [
    "ashby:neudata"
   ],
@@ -3689,8 +3686,8 @@
   "tried": 16
  },
  "Nium": {
-  "checked_at": "2026-09-12T22:07:50.597676+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:28.557804+00:00",
+  "method": "hint",
   "sources": [
    "lever:nium"
   ],
@@ -3758,13 +3755,13 @@
   "tried": 1
  },
  "Nubank": {
-  "checked_at": "2026-09-12T22:07:16.265651+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:17.305211+00:00",
+  "method": "hint",
   "sources": [
    "ashby:nubank"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 2
  },
  "Numerai": {
   "checked_at": "2026-10-10T14:26:31.565375+00:00",
@@ -3774,13 +3771,13 @@
   "tried": 9
  },
  "Numerix": {
-  "checked_at": "2026-09-12T18:20:32.554724+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:55:52.687995+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:numerix"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "Nuvama Wealth": {
   "checked_at": "2026-10-11T14:51:13.045207+00:00",
@@ -3797,13 +3794,13 @@
   "tried": 9
  },
  "Nuvei": {
-  "checked_at": "2026-09-12T22:07:26.224547+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:18.732589+00:00",
+  "method": "hint",
   "sources": [
    "workable:nuvei"
   ],
   "status": "ok",
-  "tried": 7
+  "tried": 1
  },
  "Nyenburgh Holding": {
   "checked_at": "2026-10-10T05:26:17.765388+00:00",
@@ -3820,13 +3817,13 @@
   "tried": 9
  },
  "OKX": {
-  "checked_at": "2026-09-12T22:08:13.032176+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:36.036110+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:okx"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 2
  },
  "OMERS": {
   "checked_at": "2026-10-10T14:26:26.058347+00:00",
@@ -3843,8 +3840,8 @@
   "tried": 16
  },
  "OakNorth": {
-  "checked_at": "2026-09-12T22:07:35.090915+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:22.812613+00:00",
+  "method": "hint",
   "sources": [
    "ashby:oaknorth"
   ],
@@ -3884,13 +3881,13 @@
   "tried": 1
  },
  "OneChronos": {
-  "checked_at": "2026-09-12T18:21:46.955574+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:55:54.407998+00:00",
+  "method": "hint",
   "sources": [
    "ashby:onechronos"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 2
  },
  "OneTick": {
   "checked_at": "2026-10-11T14:52:45.236229+00:00",
@@ -3930,22 +3927,22 @@
   "tried": 16
  },
  "Options Clearing Corporation": {
-  "checked_at": "2026-09-12T18:21:54.012336+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:34.317588+00:00",
+  "method": "hint",
   "sources": [
    "workday:theocc"
   ],
   "status": "ok",
-  "tried": 22
+  "tried": 1
  },
  "Options Technology": {
-  "checked_at": "2026-09-12T18:22:49.409068+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:55:56.795837+00:00",
+  "method": "hint",
   "sources": [
    "ashby:options-it"
   ],
   "status": "ok",
-  "tried": 9
+  "tried": 1
  },
  "Optiver": {
   "checked_at": "2026-10-12T05:27:52.686234+00:00",
@@ -4038,8 +4035,8 @@
   "tried": 9
  },
  "PJT Partners": {
-  "checked_at": "2026-09-12T18:16:12.067963+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:55:51.456819+00:00",
+  "method": "hint",
   "sources": [
    "workday:pjtpartners/Careers/wd1"
   ],
@@ -4047,7 +4044,7 @@
   "tried": 1
  },
  "PNC Financial Services": {
-  "checked_at": "2026-09-12T18:17:20.137130+00:00",
+  "checked_at": "2026-10-13T01:57:02.094344+00:00",
   "method": "hint",
   "sources": [
    "workday:pnc"
@@ -4079,8 +4076,8 @@
   "tried": 1
  },
  "Pantera Capital": {
-  "checked_at": "2026-09-12T22:08:43.680880+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:42.276668+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:panteracapitalcareers"
   ],
@@ -4109,16 +4106,16 @@
   "tried": 22
  },
  "Paxos": {
-  "checked_at": "2026-09-12T22:08:15.169696+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:38.821772+00:00",
+  "method": "hint",
   "sources": [
    "ashby:paxos"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 2
  },
  "PayPal": {
-  "checked_at": "2026-09-12T22:07:29.052436+00:00",
+  "checked_at": "2026-10-13T01:56:44.916357+00:00",
   "method": "hint",
   "sources": [
    "workday:paypal"
@@ -4127,7 +4124,7 @@
   "tried": 1
  },
  "Payoneer": {
-  "checked_at": "2026-09-12T22:07:21.581037+00:00",
+  "checked_at": "2026-10-13T01:56:18.936552+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:payoneer"
@@ -4136,8 +4133,8 @@
   "tried": 1
  },
  "Paytm": {
-  "checked_at": "2026-09-12T22:07:54.480046+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:28.870340+00:00",
+  "method": "hint",
   "sources": [
    "lever:paytm"
   ],
@@ -4224,13 +4221,13 @@
   "tried": 16
  },
  "Plaid": {
-  "checked_at": "2026-09-12T22:07:06.126378+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:11.757284+00:00",
+  "method": "hint",
   "sources": [
    "ashby:plaid"
   ],
   "status": "ok",
-  "tried": 4
+  "tried": 2
  },
  "Plus500": {
   "checked_at": "2026-10-11T14:53:02.628524+00:00",
@@ -4258,13 +4255,11 @@
   "tried": 1
  },
  "Polychain Capital": {
-  "checked_at": "2026-09-12T22:08:53.029890+00:00",
-  "method": "slug-guess",
-  "sources": [
-   "greenhouse:polychaincapital"
-  ],
-  "status": "ok",
-  "tried": 3
+  "checked_at": "2026-10-13T01:57:02.332597+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
  },
  "Polygon.io": {
   "checked_at": "2026-10-11T14:51:28.598677+00:00",
@@ -4274,7 +4269,7 @@
   "tried": 22
  },
  "Polymarket": {
-  "checked_at": "2026-09-12T22:07:47.063681+00:00",
+  "checked_at": "2026-10-13T01:56:27.891880+00:00",
   "method": "hint",
   "sources": [
    "ashby:polymarket"
@@ -4334,7 +4329,7 @@
   "tried": 22
  },
  "Public.com": {
-  "checked_at": "2026-09-12T22:07:44.636902+00:00",
+  "checked_at": "2026-10-13T01:56:25.631163+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:public"
@@ -4380,8 +4375,8 @@
   "tried": 1
  },
  "Quandl": {
-  "checked_at": "2026-09-12T22:06:48.593357+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:14.331695+00:00",
+  "method": "hint",
   "sources": [
    "workday:nasdaq/Global_External_Site/wd1"
   ],
@@ -4512,7 +4507,7 @@
   "tried": 22
  },
  "Raisin": {
-  "checked_at": "2026-09-12T22:07:43.375974+00:00",
+  "checked_at": "2026-10-13T01:56:25.203835+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:raisin"
@@ -4528,7 +4523,7 @@
   "tried": 22
  },
  "Ramp": {
-  "checked_at": "2026-09-12T22:07:02.285486+00:00",
+  "checked_at": "2026-10-13T01:56:11.905198+00:00",
   "method": "hint",
   "sources": [
    "ashby:ramp"
@@ -4551,8 +4546,8 @@
   "tried": 16
  },
  "Razorpay": {
-  "checked_at": "2026-09-12T22:07:58.170710+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:30.486579+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:razorpaysoftwareprivatelimited"
   ],
@@ -4595,7 +4590,7 @@
   "tried": 16
  },
  "Revolut": {
-  "checked_at": "2026-09-12T22:07:06.897892+00:00",
+  "checked_at": "2026-10-13T01:56:14.056410+00:00",
   "method": "hint",
   "sources": [
    "html:https://www.revolut.com/careers/"
@@ -4604,7 +4599,7 @@
   "tried": 1
  },
  "Ripple": {
-  "checked_at": "2026-09-12T22:08:09.853960+00:00",
+  "checked_at": "2026-10-13T01:56:35.595135+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:ripple"
@@ -4627,7 +4622,7 @@
   "tried": 22
  },
  "Robinhood": {
-  "checked_at": "2026-09-12T22:06:36.327874+00:00",
+  "checked_at": "2026-10-13T01:56:04.881312+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:robinhood"
@@ -4743,13 +4738,11 @@
   "tried": 22
  },
  "Samsung Securities": {
-  "checked_at": "2026-09-12T18:17:36.333728+00:00",
-  "method": "slug-guess",
-  "sources": [
-   "recruitee:samsung"
-  ],
-  "status": "ok",
-  "tried": 15
+  "checked_at": "2026-10-13T01:56:11.076581+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 22
  },
  "Sandbar Asset Management": {
   "checked_at": "2026-10-12T17:39:42.652811+00:00",
@@ -4768,7 +4761,7 @@
   "tried": 9
  },
  "Sardine": {
-  "checked_at": "2026-09-12T22:07:47.413023+00:00",
+  "checked_at": "2026-10-13T01:56:28.028755+00:00",
   "method": "hint",
   "sources": [
    "ashby:sardine"
@@ -4784,8 +4777,8 @@
   "tried": 22
  },
  "Scalable Capital": {
-  "checked_at": "2026-09-12T22:07:40.515176+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:24.507182+00:00",
+  "method": "hint",
   "sources": [
    "smartrecruiters:ScalableGmbH"
   ],
@@ -4851,8 +4844,8 @@
   "tried": 22
  },
  "Selini Capital": {
-  "checked_at": "2026-09-12T22:08:06.691845+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:32.788895+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:selinicapital"
   ],
@@ -4923,7 +4916,7 @@
   "tried": 9
  },
  "Similarweb": {
-  "checked_at": "2026-09-12T22:06:35.178014+00:00",
+  "checked_at": "2026-10-13T01:56:04.428147+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:similarweb"
@@ -4955,7 +4948,7 @@
   "tried": 16
  },
  "SoFi": {
-  "checked_at": "2026-09-12T22:07:10.282006+00:00",
+  "checked_at": "2026-10-13T01:56:15.656732+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:sofi"
@@ -5024,17 +5017,17 @@
   "tried": 16
  },
  "Starling Bank": {
-  "checked_at": "2026-09-12T22:07:27.307251+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:14.610666+00:00",
+  "method": "hint",
   "sources": [
    "workable:starling-bank"
   ],
   "status": "ok",
-  "tried": 19
+  "tried": 1
  },
  "Stash": {
-  "checked_at": "2026-09-12T22:07:48.523934+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:27.363254+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:stashinvest"
   ],
@@ -5058,22 +5051,22 @@
   "tried": 22
  },
  "Stifel Financial": {
-  "checked_at": "2026-09-12T18:18:26.995857+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:55:50.222823+00:00",
+  "method": "hint",
   "sources": [
    "smartrecruiters:stifel"
   ],
   "status": "ok",
-  "tried": 11
+  "tried": 1
  },
  "StoneCo": {
-  "checked_at": "2026-09-12T22:07:36.598043+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:20.594981+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:stone"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 1
  },
  "StoneX Group": {
   "checked_at": "2026-10-11T14:52:38.242510+00:00",
@@ -5083,7 +5076,7 @@
   "tried": 22
  },
  "Stripe": {
-  "checked_at": "2026-09-12T22:07:00.523474+00:00",
+  "checked_at": "2026-10-13T01:56:12.781513+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:stripe"
@@ -5092,7 +5085,7 @@
   "tried": 1
  },
  "SumUp": {
-  "checked_at": "2026-09-12T22:07:32.298374+00:00",
+  "checked_at": "2026-10-13T01:56:21.538093+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:sumup"
@@ -5221,8 +5214,8 @@
   "tried": 1
  },
  "TMX Group": {
-  "checked_at": "2026-09-12T18:19:34.622300+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:55:53.607009+00:00",
+  "method": "hint",
   "sources": [
    "workday:tmx/TMX_Careers/wd3"
   ],
@@ -5230,13 +5223,13 @@
   "tried": 1
  },
  "TP ICAP": {
-  "checked_at": "2026-09-12T18:15:57.338614+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:55:49.724951+00:00",
+  "method": "hint",
   "sources": [
    "smartrecruiters:tpicap"
   ],
   "status": "ok",
-  "tried": 8
+  "tried": 1
  },
  "TPG": {
   "checked_at": "2026-10-12T17:39:41.109626+00:00",
@@ -5285,13 +5278,13 @@
   "tried": 1
  },
  "Tastytrade": {
-  "checked_at": "2026-09-12T22:07:01.731060+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:07.677200+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:tastytrade"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "Taula Capital": {
   "checked_at": "2026-10-10T14:25:00.097601+00:00",
@@ -5322,8 +5315,8 @@
   "tried": 9
  },
  "Temenos": {
-  "checked_at": "2026-09-12T18:22:53.102418+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:55:59.962068+00:00",
+  "method": "hint",
   "sources": [
    "workday:temenos/Temenoscareers/wd103"
   ],
@@ -5363,13 +5356,13 @@
   "tried": 22
  },
  "Thunes": {
-  "checked_at": "2026-09-12T22:07:40.508135+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:19.355000+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:thunes"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "Tibra Capital": {
   "checked_at": "2026-10-10T05:24:21.658147+00:00",
@@ -5386,7 +5379,7 @@
   "tried": 22
  },
  "Tide": {
-  "checked_at": "2026-09-12T22:07:35.405035+00:00",
+  "checked_at": "2026-10-13T01:56:22.731220+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:tide"
@@ -5404,16 +5397,16 @@
   "tried": 1
  },
  "Titan": {
-  "checked_at": "2026-09-12T22:07:21.176301+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:18.179011+00:00",
+  "method": "hint",
   "sources": [
    "ashby:titan"
   ],
   "status": "ok",
-  "tried": 7
+  "tried": 1
  },
  "Toast": {
-  "checked_at": "2026-09-12T22:07:17.188646+00:00",
+  "checked_at": "2026-10-13T01:56:18.515468+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:toast"
@@ -5447,13 +5440,11 @@
   "tried": 22
  },
  "Trade Republic": {
-  "checked_at": "2026-09-12T22:07:36.942111+00:00",
-  "method": "hint",
-  "sources": [
-   "greenhouse:traderepublic"
-  ],
-  "status": "ok",
-  "tried": 1
+  "checked_at": "2026-10-13T01:56:49.145226+00:00",
+  "note": "",
+  "sources": [],
+  "status": "unresolved",
+  "tried": 16
  },
  "Tradebot Systems": {
   "checked_at": "2026-10-10T05:23:47.432359+00:00",
@@ -5477,13 +5468,13 @@
   "tried": 9
  },
  "Trading 212": {
-  "checked_at": "2026-09-12T22:07:45.862456+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:25.052133+00:00",
+  "method": "hint",
   "sources": [
    "ashby:trading212"
   ],
   "status": "ok",
-  "tried": 6
+  "tried": 1
  },
  "Trading Technologies": {
   "checked_at": "2026-10-11T14:53:14.858704+00:00",
@@ -5567,7 +5558,7 @@
   "tried": 22
  },
  "Truist Securities": {
-  "checked_at": "2026-09-12T18:16:43.186531+00:00",
+  "checked_at": "2026-10-13T01:56:20.899211+00:00",
   "method": "hint",
   "sources": [
    "workday:truist"
@@ -5627,8 +5618,8 @@
   "tried": 22
  },
  "U.S. Bancorp": {
-  "checked_at": "2026-09-12T18:17:32.944440+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:57:13.677943+00:00",
+  "method": "hint",
   "sources": [
    "workday:usbank/US_Bank_Careers/wd1"
   ],
@@ -5666,13 +5657,13 @@
   "tried": 9
  },
  "Uniswap Labs": {
-  "checked_at": "2026-09-12T22:17:12.334804+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:42.665632+00:00",
+  "method": "hint",
   "sources": [
    "ashby:uniswap"
   ],
   "status": "ok",
-  "tried": 9
+  "tried": 2
  },
  "Valkyrie Trading": {
   "checked_at": "2026-10-12T05:28:00.392365+00:00",
@@ -5746,8 +5737,8 @@
   "tried": 2
  },
  "Virtu ITG": {
-  "checked_at": "2026-09-12T18:19:54.600034+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:55:52.283302+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:virtu"
   ],
@@ -5835,8 +5826,8 @@
   "tried": 22
  },
  "Wealthfront": {
-  "checked_at": "2026-09-12T22:07:12.245630+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:18.162333+00:00",
+  "method": "hint",
   "sources": [
    "lever:wealthfront"
   ],
@@ -5902,13 +5893,13 @@
   "tried": 22
  },
  "William Blair": {
-  "checked_at": "2026-09-12T18:15:53.204987+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:55:49.783356+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:williamblair"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "Wintermute": {
   "checked_at": "2026-10-11T14:54:29.850811+00:00",
@@ -5927,7 +5918,7 @@
   "tried": 1
  },
  "Wise": {
-  "checked_at": "2026-09-12T22:07:07.951265+00:00",
+  "checked_at": "2026-10-13T01:56:14.827272+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:wise"
@@ -5959,13 +5950,13 @@
   "tried": 1
  },
  "XP Inc.": {
-  "checked_at": "2026-09-12T18:15:40.820390+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:55:49.852823+00:00",
+  "method": "hint",
   "sources": [
    "greenhouse:xpinc"
   ],
   "status": "ok",
-  "tried": 2
+  "tried": 1
  },
  "XR Trading": {
   "checked_at": "2026-10-10T05:23:44.286133+00:00",
@@ -5989,7 +5980,7 @@
   "tried": 22
  },
  "YipitData": {
-  "checked_at": "2026-09-12T22:06:34.796839+00:00",
+  "checked_at": "2026-10-13T01:56:04.036270+00:00",
   "method": "hint",
   "sources": [
    "greenhouse:yipitdata"
@@ -6035,13 +6026,13 @@
   "tried": 22
  },
  "Zopa": {
-  "checked_at": "2026-09-12T22:07:41.960701+00:00",
-  "method": "slug-guess",
+  "checked_at": "2026-10-13T01:56:22.321366+00:00",
+  "method": "hint",
   "sources": [
    "lever:zopa"
   ],
   "status": "ok",
-  "tried": 3
+  "tried": 2
  },
  "Zurcher Kantonalbank": {
   "checked_at": "2026-10-10T23:29:43.439104+00:00",
@@ -6060,8 +6051,8 @@
   "tried": 1
  },
  "dLocal": {
-  "checked_at": "2026-09-12T22:07:26.518001+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-13T01:56:20.235660+00:00",
+  "method": "hint",
   "sources": [
    "lever:dlocal"
   ],
