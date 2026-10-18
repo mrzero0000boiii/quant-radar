@@ -1,17 +1,19 @@
 {
  "firms_total": 795,
- "firms_resolved": 262,
+ "firms_resolved": 263,
  "firms_swept": 262,
- "raw_postings": 22999,
- "relevant": 4330,
- "live": 4335,
+ "raw_postings": 23169,
+ "relevant": 4361,
+ "live": 4370,
  "target_live": 847,
- "detected_this_run": 2,
- "new_this_run": 2,
- "baselined_this_run": 0,
- "backfilled_this_run": 0,
- "closed_this_run": 3,
+ "detected_this_run": 37,
+ "new_this_run": 4,
+ "baselined_this_run": 30,
+ "backfilled_this_run": 3,
+ "closed_this_run": 2,
  "baseline_run": false,
- "firms_first_read": [],
- "duration_s": 112.5
+ "firms_first_read": [
+  "Checkout.com"
+ ],
+ "duration_s": 693.4
 }
