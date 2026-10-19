@@ -1,11 +1,11 @@
 {
- "candidates_before": 10626,
- "candidates_now": 10635,
- "harvested": 9,
- "promoted_this_run": 0,
+ "candidates_before": 10635,
+ "candidates_now": 10661,
+ "harvested": 26,
+ "promoted_this_run": 1,
  "by_status": {
-  "no-board": 599,
-  "new": 10035,
-  "promoted": 1
+  "no-board": 718,
+  "new": 9941,
+  "promoted": 2
  }
 }

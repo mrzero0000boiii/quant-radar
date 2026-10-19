@@ -121,6 +121,15 @@
 "source": "edgar-13f",
 "status": "no-board"
 },
+"15wealthadvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:38.105818+00:00",
+"found_at": "2026-10-19T13:17:15.896818+00:00",
+"name": "15 Wealth Advisors",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "no-board"
+},
 "1607capitalpartners": {
 "attempts": 1,
 "checked_at": "2026-10-12T15:27:43.205346+00:00",
@@ -1099,11 +1108,13 @@
 "status": "no-board"
 },
 "aaronwealthadvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:03.329929+00:00",
 "found_at": "2026-09-14T12:48:57.635434+00:00",
 "name": "Aaron Wealth Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aarrowcapital": {
 "attempts": 1,
@@ -1273,18 +1284,22 @@
 "status": "no-board"
 },
 "abacusfcfadvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:56.083350+00:00",
 "found_at": "2026-09-14T12:48:57.635560+00:00",
 "name": "Abacus FCF Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "abacusglobalmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:09.199194+00:00",
 "found_at": "2026-09-14T12:49:26.417685+00:00",
 "name": "Abacus Global Management",
 "relevance": 3,
 "source": "edgar-sic-6282",
-"status": "new"
+"status": "no-board"
 },
 "abacusplanning": {
 "found_at": "2026-09-14T12:48:57.635686+00:00",
@@ -1294,11 +1309,13 @@
 "status": "new"
 },
 "abacuswealthpartners": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:50.152983+00:00",
 "found_at": "2026-09-14T12:48:57.635809+00:00",
 "name": "Abacus Wealth Partners",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aballast": {
 "found_at": "2026-09-14T12:48:58.994032+00:00",
@@ -1350,18 +1367,22 @@
 "status": "new"
 },
 "abbingtoninvestment": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:03.713088+00:00",
 "found_at": "2026-09-14T12:48:57.606885+00:00",
 "name": "Abbington Investment Group",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "abbotfinancialmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:05.344518+00:00",
 "found_at": "2026-09-14T12:48:57.635934+00:00",
 "name": "Abbot Financial Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "abbottfrankhiii": {
 "found_at": "2026-09-14T12:49:26.417831+00:00",
@@ -1380,11 +1401,13 @@
 "status": "no-board"
 },
 "abdielcapitaladvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:05.341574+00:00",
 "found_at": "2026-09-14T12:48:57.636056+00:00",
 "name": "Abdiel Capital Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "abeaconbank": {
 "found_at": "2026-09-14T12:48:58.670452+00:00",
@@ -1426,11 +1449,13 @@
 "status": "new"
 },
 "aberdeenwealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:06.803133+00:00",
 "found_at": "2026-09-14T12:48:57.636442+00:00",
 "name": "Aberdeen Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aberkleywr": {
 "found_at": "2026-09-14T12:48:58.669700+00:00",
@@ -1474,11 +1499,13 @@
 "status": "no-board"
 },
 "abichfinancialwealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:07.502807+00:00",
 "found_at": "2026-09-14T12:48:58.891009+00:00",
 "name": "Abich Financial Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "abits": {
 "found_at": "2026-09-14T12:49:26.512235+00:00",
@@ -1522,18 +1549,22 @@
 "status": "no-board"
 },
 "ablesiannonemooreassociates": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:09.079698+00:00",
 "found_at": "2026-09-14T12:48:57.607562+00:00",
 "name": "Ables, Iannone, Moore & Associates",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "ablewealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:17.195386+00:00",
 "found_at": "2026-09-14T12:48:57.636564+00:00",
 "name": "Able Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "ablodgettwealthadvisors": {
 "attempts": 1,
@@ -1597,18 +1628,22 @@
 "status": "no-board"
 },
 "aboundfinancial": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:03.683187+00:00",
 "found_at": "2026-09-14T12:48:57.607871+00:00",
 "name": "Abound Financial",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aboundwealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:09.715927+00:00",
 "found_at": "2026-09-14T12:48:57.636686+00:00",
 "name": "Abound Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aboxercapitalmanagement": {
 "attempts": 1,
@@ -1620,18 +1655,22 @@
 "status": "no-board"
 },
 "abramsbisoninvestments": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:09.790903+00:00",
 "found_at": "2026-09-14T12:48:57.607996+00:00",
 "name": "Abrams Bison Investments",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "abramscapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:16.914249+00:00",
 "found_at": "2026-09-14T12:48:57.608118+00:00",
 "name": "Abrams Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "abrasadacapitalmanagement": {
 "attempts": 1,
@@ -1730,11 +1769,13 @@
 "status": "no-board"
 },
 "absherwealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:25.450838+00:00",
 "found_at": "2026-09-14T12:48:57.608497+00:00",
 "name": "Absher Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "absinvestmentmanagement": {
 "attempts": 1,
@@ -1755,11 +1796,13 @@
 "status": "no-board"
 },
 "absolutecapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:19.745606+00:00",
 "found_at": "2026-09-14T12:48:57.608618+00:00",
 "name": "Absolute Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "absolutegestaodeinvestimentosltda": {
 "found_at": "2026-09-14T12:48:57.636819+00:00",
@@ -1769,32 +1812,40 @@
 "status": "new"
 },
 "absoluteinvestmentadvisers": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:20.847084+00:00",
 "found_at": "2026-09-14T12:48:57.608739+00:00",
 "name": "Absolute Investment Advisers",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "absolutopartnersgestaoderecursosltda": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:18.986427+00:00",
 "found_at": "2026-09-14T12:48:57.636948+00:00",
 "name": "Absoluto Partners Gestao de Recursos Ltda",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "abudhabiinvestmentcouncilpjsc": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:20.402854+00:00",
 "found_at": "2026-09-14T12:48:57.637083+00:00",
 "name": "Abu Dhabi Investment Council Co P.J.S.C",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "abundancewealthcounselors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:21.078982+00:00",
 "found_at": "2026-09-14T12:48:57.637211+00:00",
 "name": "Abundance Wealth Counselors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "ac2pcapitaladvisorydbaprosperitycapitalad": {
 "attempts": 1,
@@ -1806,11 +1857,13 @@
 "status": "no-board"
 },
 "academycapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:23.282117+00:00",
 "found_at": "2026-09-14T12:48:57.608861+00:00",
 "name": "Academy Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acaliforniastateteachersretirementsystem": {
 "found_at": "2026-09-14T12:48:58.670998+00:00",
@@ -1895,11 +1948,13 @@
 "status": "no-board"
 },
 "acastapartnersuk": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:23.183267+00:00",
 "found_at": "2026-09-14T12:48:57.637349+00:00",
 "name": "Acasta Partners UK",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acataliocapitalmanagement": {
 "attempts": 1,
@@ -1920,67 +1975,85 @@
 "status": "no-board"
 },
 "accelerateinvestmentadvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:27.935086+00:00",
 "found_at": "2026-09-14T12:48:57.638124+00:00",
 "name": "Accelerate Investment Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "accelgrowthfundvassociates": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:23.389695+00:00",
 "found_at": "2026-09-14T12:48:57.637476+00:00",
 "name": "Accel Growth Fund V Associates",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "accelleaders3associates": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:23.376662+00:00",
 "found_at": "2026-09-14T12:48:57.637612+00:00",
 "name": "Accel Leaders 3 Associates",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "accelleaders4associates": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:30.607850+00:00",
 "found_at": "2026-09-14T12:48:57.637740+00:00",
 "name": "Accel Leaders 4 Associates",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "accelwealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:25.961920+00:00",
 "found_at": "2026-09-14T12:48:57.637866+00:00",
 "name": "Accel Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "accelxiassociates": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:32.664363+00:00",
 "found_at": "2026-09-14T12:48:57.637996+00:00",
 "name": "Accel XI Associates",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "accentcapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:28.520369+00:00",
 "found_at": "2026-09-14T12:48:57.638248+00:00",
 "name": "Accent Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "accessfinancialservices": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:29.959273+00:00",
 "found_at": "2026-09-14T12:48:57.608988+00:00",
 "name": "Access Financial Services",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "accessinvestmentmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:33.948439+00:00",
 "found_at": "2026-09-14T12:48:57.638381+00:00",
 "name": "Access Investment Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "accordantadvisory": {
 "found_at": "2026-09-14T12:48:57.638508+00:00",
@@ -1990,11 +2063,13 @@
 "status": "new"
 },
 "accountmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:27.739158+00:00",
 "found_at": "2026-09-14T12:48:57.609111+00:00",
 "name": "Account Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "accreditedinvestors": {
 "found_at": "2026-09-14T12:48:57.638630+00:00",
@@ -2011,32 +2086,40 @@
 "status": "new"
 },
 "accreditedwealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:33.479995+00:00",
 "found_at": "2026-09-14T12:48:58.891251+00:00",
 "name": "Accredited Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "accretivewealthpartners": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:40.127353+00:00",
 "found_at": "2026-09-14T12:48:57.638752+00:00",
 "name": "Accretive Wealth Partners",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "accuratewealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:50.868331+00:00",
 "found_at": "2026-09-14T12:48:57.638875+00:00",
 "name": "Accurate Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "accuvestglobaladvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:44.328517+00:00",
 "found_at": "2026-09-14T12:48:57.638996+00:00",
 "name": "Accuvest Global Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acentennialbank": {
 "found_at": "2026-09-14T12:48:58.995225+00:00",
@@ -2073,11 +2156,13 @@
 "status": "no-board"
 },
 "achmeainvestmentmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:41.566656+00:00",
 "found_at": "2026-09-14T12:48:57.639117+00:00",
 "name": "Achmea Investment Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acibcbancorpusa": {
 "found_at": "2026-09-14T12:48:58.994721+00:00",
@@ -2087,11 +2172,13 @@
 "status": "new"
 },
 "acimaprivatewealth": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:37.710331+00:00",
 "found_at": "2026-09-14T12:48:57.609374+00:00",
 "name": "Acima Private Wealth",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acitadeladvisors": {
 "attempts": 1,
@@ -2112,18 +2199,22 @@
 "status": "no-board"
 },
 "ackermanassetmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:41.637264+00:00",
 "found_at": "2026-09-14T12:48:57.639237+00:00",
 "name": "Ackerman Asset Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "ackermancapitaladvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:42.171890+00:00",
 "found_at": "2026-09-14T12:48:57.639368+00:00",
 "name": "Ackerman Capital Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aclearharborassetmanagement": {
 "attempts": 1,
@@ -2169,18 +2260,22 @@
 "status": "no-board"
 },
 "acorncapitaladvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:42.937964+00:00",
 "found_at": "2026-09-14T12:48:57.609663+00:00",
 "name": "Acorn Capital Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acorncreekcapital": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:44.176920+00:00",
 "found_at": "2026-09-14T12:48:57.609785+00:00",
 "name": "Acorn Creek Capital",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acornerstonefinancialmanagement": {
 "attempts": 1,
@@ -2192,25 +2287,31 @@
 "status": "no-board"
 },
 "acornfinancialadvisoryservices": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:46.417664+00:00",
 "found_at": "2026-09-14T12:48:57.609913+00:00",
 "name": "Acorn Financial Advisory Services",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acornsadvisers": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:41.717934+00:00",
 "found_at": "2026-09-14T12:48:57.639621+00:00",
 "name": "Acorns Advisers",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acornwealthadvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:41.599550+00:00",
 "found_at": "2026-09-14T12:48:57.639489+00:00",
 "name": "Acorn Wealth Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acovaliscapital": {
 "attempts": 1,
@@ -2238,11 +2339,13 @@
 "status": "new"
 },
 "acropolisinvestmentmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:26:52.191517+00:00",
 "found_at": "2026-09-14T12:48:57.639746+00:00",
 "name": "Acropolis Investment Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "actadvisors": {
 "attempts": 1,
@@ -2254,25 +2357,31 @@
 "status": "no-board"
 },
 "actcapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:48.309507+00:00",
 "found_at": "2026-09-14T12:48:57.610300+00:00",
 "name": "Act Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "actionpointfinancialplanning": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:55.276464+00:00",
 "found_at": "2026-09-14T12:48:58.694707+00:00",
 "name": "Action Point Financial Planning",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "activestwealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:49.381800+00:00",
 "found_at": "2026-09-14T12:48:57.639997+00:00",
 "name": "Activest Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acttwoinvestors": {
 "found_at": "2026-09-14T12:48:57.639874+00:00",
@@ -2282,25 +2391,31 @@
 "status": "new"
 },
 "actwealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:52.646627+00:00",
 "found_at": "2026-09-14T12:48:57.610421+00:00",
 "name": "Act Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acuitasinvestments": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:50.367251+00:00",
 "found_at": "2026-09-14T12:48:57.640120+00:00",
 "name": "Acuitas Investments",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acumenwealthadvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:56.993369+00:00",
 "found_at": "2026-09-14T12:48:57.640242+00:00",
 "name": "Acumen Wealth Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acuratedwealthpartners": {
 "attempts": 1,
@@ -2312,18 +2427,22 @@
 "status": "no-board"
 },
 "acutacapitalpartners": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:56.877740+00:00",
 "found_at": "2026-09-14T12:48:57.610539+00:00",
 "name": "Acuta Capital Partners",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acuteinvestmentadvisory": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:58.225304+00:00",
 "found_at": "2026-09-14T12:48:57.610660+00:00",
 "name": "Acute Investment Advisory",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "acynosure": {
 "found_at": "2026-09-14T12:48:58.995746+00:00",
@@ -2342,11 +2461,13 @@
 "status": "no-board"
 },
 "adagecapitalpartnersgp": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:58.331352+00:00",
 "found_at": "2026-09-14T12:48:57.610781+00:00",
 "name": "Adage Capital Partners Gp",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adailyjournal": {
 "found_at": "2026-09-14T12:48:58.995876+00:00",
@@ -2365,53 +2486,68 @@
 "status": "no-board"
 },
 "adaltacapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:55.164257+00:00",
 "found_at": "2026-09-14T12:48:57.640371+00:00",
 "name": "Adalta Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adamsassetadvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:02.054548+00:00",
 "found_at": "2026-09-14T12:48:57.640492+00:00",
 "name": "Adams Asset Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adamsbrownwealthconsultants": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:06.502870+00:00",
 "found_at": "2026-09-14T12:48:57.611287+00:00",
 "name": "Adamsbrown Wealth Consultants",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adamsdiversifiedequityfund": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:03.038597+00:00",
 "found_at": "2026-09-14T12:48:57.610907+00:00",
 "name": "Adams Diversified Equity Fund",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adamsnaturalresourcesfund": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:03.995889+00:00",
 "found_at": "2026-09-14T12:48:57.611031+00:00",
 "name": "Adams Natural Resources Fund",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adamsstreetpartners": {
+"ats": "greenhouse:adamsstreetpartners",
+"checked_at": "2026-10-19T13:18:51.853407+00:00",
+"domain": "adamsstreetpartners.com",
 "found_at": "2026-09-14T12:48:57.611152+00:00",
 "name": "Adams Street Partners",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "promoted"
 },
 "adamswealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:01.593950+00:00",
 "found_at": "2026-09-14T12:48:57.640614+00:00",
 "name": "Adams Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adanicapensionlivsforsikringsaktieselskab": {
 "found_at": "2026-09-14T12:48:58.996634+00:00",
@@ -2437,11 +2573,13 @@
 "status": "no-board"
 },
 "adaptwealthadvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:03.754234+00:00",
 "found_at": "2026-09-14T12:48:57.611524+00:00",
 "name": "Adapt Wealth Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adar1capitalmanagement": {
 "attempts": 1,
@@ -2496,11 +2634,13 @@
 "status": "new"
 },
 "addendacapital": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:18:58.259405+00:00",
 "found_at": "2026-09-14T12:48:57.640751+00:00",
 "name": "Addenda Capital",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "addishill": {
 "found_at": "2026-09-14T12:48:57.640883+00:00",
@@ -2510,18 +2650,22 @@
 "status": "new"
 },
 "addisonadvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:11.784151+00:00",
 "found_at": "2026-09-14T12:48:57.641009+00:00",
 "name": "Addison Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "addisoncapital": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:04.592051+00:00",
 "found_at": "2026-09-14T12:48:57.641132+00:00",
 "name": "Addison Capital Co",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adeaninvestmentassociates": {
 "attempts": 1,
@@ -2542,11 +2686,13 @@
 "status": "no-board"
 },
 "adelantecapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:13.445153+00:00",
 "found_at": "2026-09-14T12:48:57.641257+00:00",
 "name": "Adelante Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adellharrimancarpenter": {
 "found_at": "2026-09-14T12:48:57.611769+00:00",
@@ -2588,11 +2734,13 @@
 "status": "new"
 },
 "adirondackcapitaladvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:12.887219+00:00",
 "found_at": "2026-09-14T12:48:57.641526+00:00",
 "name": "Adirondack Capital Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adisciplinedinvestments": {
 "attempts": 1,
@@ -2611,11 +2759,13 @@
 "status": "new"
 },
 "adkinssealecapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:12.404006+00:00",
 "found_at": "2026-09-14T12:48:57.612149+00:00",
 "name": "Adkins Seale Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adldassetmanagement": {
 "attempts": 1,
@@ -2636,18 +2786,22 @@
 "status": "no-board"
 },
 "advancecapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:11.238508+00:00",
 "found_at": "2026-09-14T12:48:57.641649+00:00",
 "name": "Advance Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "advancedassetmanagementadvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:15.819358+00:00",
 "found_at": "2026-09-14T12:48:57.641775+00:00",
 "name": "Advanced Asset Management Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "advancedenergyrecovery": {
 "found_at": "2026-09-14T12:49:26.512374+00:00",
@@ -2664,11 +2818,13 @@
 "status": "new"
 },
 "advancedportfoliomanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:19.596890+00:00",
 "found_at": "2026-09-14T12:48:58.781343+00:00",
 "name": "Advanced Portfolio Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "advantage": {
 "found_at": "2026-09-14T12:48:57.641904+00:00",
@@ -2694,11 +2850,13 @@
 "status": "new"
 },
 "adventcapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:17.325852+00:00",
 "found_at": "2026-09-14T12:48:57.612420+00:00",
 "name": "Advent Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adventinternational": {
 "found_at": "2026-09-14T12:48:57.612538+00:00",
@@ -2743,11 +2901,13 @@
 "status": "new"
 },
 "advisornetfinancial": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:34.429726+00:00",
 "found_at": "2026-09-14T12:48:57.642583+00:00",
 "name": "AdvisorNet Financial",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "advisoros": {
 "found_at": "2026-09-14T12:48:57.642334+00:00",
@@ -2764,46 +2924,58 @@
 "status": "new"
 },
 "advisorsassetmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:20.490880+00:00",
 "found_at": "2026-09-14T12:48:57.642824+00:00",
 "name": "Advisors Asset Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "advisorscapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:19.415480+00:00",
 "found_at": "2026-09-14T12:48:57.642945+00:00",
 "name": "Advisors Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "advisorsharesinvestments": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:22.552399+00:00",
 "found_at": "2026-09-14T12:48:57.642704+00:00",
 "name": "AdvisorShares Investments",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "advisorsmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:20.865480+00:00",
 "found_at": "2026-09-14T12:48:57.612792+00:00",
 "name": "Advisors Management Group",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "advisorspreferred": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:19.892595+00:00",
 "found_at": "2026-09-14T12:48:57.643070+00:00",
 "name": "Advisors Preferred",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "advisortrustpartners": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:23.972546+00:00",
 "found_at": "2026-09-14T12:48:57.612910+00:00",
 "name": "Advisortrust Partners",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "advisoryadvocates": {
 "found_at": "2026-09-14T12:48:57.643189+00:00",
@@ -2822,11 +2994,13 @@
 "status": "no-board"
 },
 "advisoryresearch": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:23.064353+00:00",
 "found_at": "2026-09-14T12:48:57.613034+00:00",
 "name": "Advisory Research",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "advisoryresource": {
 "found_at": "2026-09-14T12:48:57.643455+00:00",
@@ -2850,11 +3024,13 @@
 "status": "new"
 },
 "advocacywealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:29.434478+00:00",
 "found_at": "2026-09-14T12:48:57.643830+00:00",
 "name": "Advocacy Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "advocate": {
 "found_at": "2026-09-14T12:48:57.613162+00:00",
@@ -2871,18 +3047,22 @@
 "status": "new"
 },
 "advusfinancialpartners": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:26.024884+00:00",
 "found_at": "2026-09-14T12:48:57.644076+00:00",
 "name": "Advus Financial Partners",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "advyzoninvestmentmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:35.518122+00:00",
 "found_at": "2026-09-14T12:48:57.644345+00:00",
 "name": "Advyzon Investment Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "adwcapitalmanagement": {
 "attempts": 1,
@@ -2894,25 +3074,31 @@
 "status": "no-board"
 },
 "aegisfinancial": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:23:29.178638+00:00",
 "found_at": "2026-09-14T12:48:57.613663+00:00",
 "name": "Aegis Financial",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aegiswealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:28.229046+00:00",
 "found_at": "2026-09-14T12:48:57.644475+00:00",
 "name": "Aegis Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aegonassetmanagementuk": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:34.917992+00:00",
 "found_at": "2026-09-14T12:48:57.613787+00:00",
 "name": "Aegon Asset Management Uk",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aegonusainvestmentmanagement": {
 "attempts": 1,
@@ -2924,11 +3110,13 @@
 "status": "no-board"
 },
 "aeindustrialpartners": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:34.088062+00:00",
 "found_at": "2026-09-14T12:48:57.613415+00:00",
 "name": "Ae Industrial Partners",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aeldredrockpartners": {
 "attempts": 1,
@@ -3019,18 +3207,22 @@
 "status": "new"
 },
 "aequimalternativeinvestments": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:36.122532+00:00",
 "found_at": "2026-09-14T12:48:57.644610+00:00",
 "name": "Aequim Alternative Investments",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aerodigmwealth": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:31.147799+00:00",
 "found_at": "2026-09-14T12:48:57.644742+00:00",
 "name": "Aerodigm Wealth",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aevelynpartnersassetmanagement": {
 "attempts": 1,
@@ -3069,11 +3261,13 @@
 "status": "no-board"
 },
 "aewcapitalmanagementlp": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:37.819043+00:00",
 "found_at": "2026-09-14T12:48:57.614037+00:00",
 "name": "Aew Capital Management L P",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aewealthmanagement": {
 "attempts": 1,
@@ -3133,11 +3327,13 @@
 "status": "new"
 },
 "affiancefinancial": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:35.658263+00:00",
 "found_at": "2026-09-14T12:48:57.644871+00:00",
 "name": "Affiance Financial",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "affiliatedmanagers": {
 "found_at": "2026-09-14T12:49:26.418027+00:00",
@@ -3154,46 +3350,58 @@
 "status": "new"
 },
 "affinityassetadvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:41.923908+00:00",
 "found_at": "2026-09-14T12:48:57.644997+00:00",
 "name": "Affinity Asset Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "affinitycapitaladvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:43.820722+00:00",
 "found_at": "2026-09-14T12:48:57.645121+00:00",
 "name": "Affinity Capital Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "affinityinvestmentadvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:45.249866+00:00",
 "found_at": "2026-09-14T12:48:57.614346+00:00",
 "name": "Affinity Investment Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "affinitypartnersgp": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:49.936592+00:00",
 "found_at": "2026-09-14T12:48:57.645245+00:00",
 "name": "Affinity Partners GP",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "affinitywealth": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:43.648100+00:00",
 "found_at": "2026-09-14T12:48:57.614471+00:00",
 "name": "Affinity Wealth",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "affinitywealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:19:45.094860+00:00",
 "found_at": "2026-09-14T12:48:57.614628+00:00",
 "name": "Affinity Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "afgfiduciaryservicespartnership": {
 "found_at": "2026-09-14T12:48:57.614760+00:00",
@@ -3610,6 +3818,15 @@
 "source": "edgar-13f",
 "status": "no-board"
 },
+"ahowardfinancialservices": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:42.151256+00:00",
+"found_at": "2026-10-19T13:17:15.908437+00:00",
+"name": "/A Howard Financial Services",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "no-board"
+},
 "ahudsonbaycapitalmanagement": {
 "attempts": 1,
 "checked_at": "2026-09-28T14:01:53.334358+00:00",
@@ -3925,6 +4142,13 @@
 "found_at": "2026-09-14T12:48:57.617159+00:00",
 "name": "Ak Global Asset Management",
 "relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
+"akieckhefer": {
+"found_at": "2026-10-19T13:17:15.908546+00:00",
+"name": "/A Kieckhefer Group",
+"relevance": 0,
 "source": "edgar-13f",
 "status": "new"
 },
@@ -5303,6 +5527,15 @@
 "source": "edgar-13f",
 "status": "new"
 },
+"amanukafinancial": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:42.173737+00:00",
+"found_at": "2026-10-19T13:17:15.908652+00:00",
+"name": "/A Manuka Financial",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "no-board"
+},
 "amarafinancial": {
 "found_at": "2026-09-14T12:48:57.621572+00:00",
 "name": "Amara Financial",
@@ -6621,6 +6854,13 @@
 "source": "edgar-13f",
 "status": "no-board"
 },
+"aoftoledona": {
+"found_at": "2026-10-19T13:17:15.909101+00:00",
+"name": "/A Trust Co Of Toledo Na",
+"relevance": 0,
+"source": "edgar-13f",
+"status": "new"
+},
 "aomni360wealth": {
 "attempts": 1,
 "checked_at": "2026-10-05T14:42:04.334477+00:00",
@@ -6660,6 +6900,13 @@
 "aorix": {
 "found_at": "2026-09-14T12:48:59.005327+00:00",
 "name": "/A Orix",
+"relevance": 0,
+"source": "edgar-13f",
+"status": "new"
+},
+"aoslopensjonsforsikring": {
+"found_at": "2026-10-19T13:17:15.908757+00:00",
+"name": "/A Oslo Pensjonsforsikring As",
 "relevance": 0,
 "source": "edgar-13f",
 "status": "new"
@@ -7080,11 +7327,13 @@
 "status": "no-board"
 },
 "apsmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:51.735507+00:00",
 "found_at": "2026-09-14T12:48:57.626355+00:00",
 "name": "APS Management Group",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "aptuscapitaladvisors": {
 "found_at": "2026-09-14T12:48:57.667993+00:00",
@@ -7342,11 +7591,13 @@
 "status": "new"
 },
 "archventuremanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:42.218843+00:00",
 "found_at": "2026-09-14T12:48:57.627236+00:00",
 "name": "ARCH Venture Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "archvestwealthadvisors": {
 "found_at": "2026-09-14T12:48:57.670635+00:00",
@@ -7473,18 +7724,22 @@
 "status": "new"
 },
 "arexcapitalmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:42.244091+00:00",
 "found_at": "2026-09-14T12:48:58.696161+00:00",
 "name": "AREX Capital Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "argainvestmentmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:25:50.935291+00:00",
 "found_at": "2026-09-14T12:48:57.627494+00:00",
 "name": "ARGA Investment Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "argent": {
 "found_at": "2026-09-14T12:48:57.671676+00:00",
@@ -7750,11 +8005,13 @@
 "status": "new"
 },
 "arkinvestmentmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:42.363588+00:00",
 "found_at": "2026-09-14T12:48:57.628364+00:00",
 "name": "ARK Investment Management",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "arkosglobaladvisors": {
 "found_at": "2026-09-14T12:48:57.674653+00:00",
@@ -7924,11 +8181,13 @@
 "status": "no-board"
 },
 "arpglobalcapital": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:38.601655+00:00",
 "found_at": "2026-09-14T12:48:57.629101+00:00",
 "name": "ARP Global Capital",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "arqwealthadvisors": {
 "found_at": "2026-09-14T12:48:57.629221+00:00",
@@ -8008,18 +8267,22 @@
 "status": "new"
 },
 "arsinvestmentpartners": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:38.040808+00:00",
 "found_at": "2026-09-14T12:48:57.629657+00:00",
 "name": "ARS Investment Partners",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "arswealthadvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:25:49.080445+00:00",
 "found_at": "2026-09-14T12:48:57.629779+00:00",
 "name": "ARS Wealth Advisors Group",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "artafinancewealthmanagement": {
 "found_at": "2026-09-14T12:48:57.677135+00:00",
@@ -8271,6 +8534,15 @@
 "source": "edgar-13f",
 "status": "new"
 },
+"ashermanwealthmanagement": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:42.244899+00:00",
+"found_at": "2026-10-19T13:17:15.908882+00:00",
+"name": "/A Sherman Wealth Management",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "no-board"
+},
 "ashfordadvisors": {
 "found_at": "2026-09-14T12:48:57.679216+00:00",
 "name": "Ashford Advisors",
@@ -8307,6 +8579,13 @@
 "relevance": 10,
 "source": "edgar-13f",
 "status": "no-board"
+},
+"ashurstperkinscoie": {
+"found_at": "2026-10-19T13:17:15.897642+00:00",
+"name": "Ashurst Perkins Coie Trust Co",
+"relevance": 0,
+"source": "edgar-13f",
+"status": "new"
 },
 "asiemens": {
 "found_at": "2026-09-14T12:48:58.688555+00:00",
@@ -8349,6 +8628,13 @@
 "source": "edgar-13f",
 "status": "no-board"
 },
+"askcapitalinvestmentmanagers": {
+"found_at": "2026-10-19T13:17:15.897190+00:00",
+"name": "Ask Capital Investment Managers",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
 "askcapitalmanagement": {
 "found_at": "2026-09-14T12:48:57.630583+00:00",
 "name": "Ask Capital Management",
@@ -8357,11 +8643,13 @@
 "status": "new"
 },
 "aslfinancial": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:39.912049+00:00",
 "found_at": "2026-09-14T12:48:57.630722+00:00",
 "name": "ASL Financial",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "asmhcapitaladvisors": {
 "attempts": 1,
@@ -8825,11 +9113,13 @@
 "status": "new"
 },
 "atamptcapital": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:42.138320+00:00",
 "found_at": "2026-09-14T12:49:26.517075+00:00",
 "name": "AT&amp;T CAPITAL HOLDINGS",
 "relevance": 3,
 "source": "edgar-sic-6199",
-"status": "new"
+"status": "no-board"
 },
 "atcfgwealthmanagement": {
 "attempts": 1,
@@ -8987,11 +9277,13 @@
 "status": "new"
 },
 "atlasfinancialplanning": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:54.613080+00:00",
 "found_at": "2026-09-14T12:48:57.632160+00:00",
 "name": "ATLas Financial Planning",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "atlasfrm": {
 "found_at": "2026-09-14T12:48:57.685135+00:00",
@@ -9010,11 +9302,13 @@
 "status": "no-board"
 },
 "atlasinfrastructurepartnersuk": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:51.734573+00:00",
 "found_at": "2026-09-14T12:48:57.632026+00:00",
 "name": "ATLAS Infrastructure Partners (UK)",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "atlaslegacyadvisors": {
 "found_at": "2026-09-14T12:48:57.685262+00:00",
@@ -9180,6 +9474,13 @@
 "source": "edgar-13f",
 "status": "no-board"
 },
+"atruefg": {
+"found_at": "2026-10-19T13:17:15.908992+00:00",
+"name": "/A Truefg",
+"relevance": 0,
+"source": "edgar-13f",
+"status": "new"
+},
 "atruelinkfinancialadvisors": {
 "attempts": 1,
 "checked_at": "2026-10-05T14:43:14.411319+00:00",
@@ -9250,11 +9551,13 @@
 "status": "new"
 },
 "atxfinancialplanning": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:55.329194+00:00",
 "found_at": "2026-09-14T12:48:57.632827+00:00",
 "name": "ATX Financial Planning",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "atyrocapitalmanagement": {
 "attempts": 1,
@@ -10002,11 +10305,13 @@
 "status": "new"
 },
 "awhcapital": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:53.712135+00:00",
 "found_at": "2026-09-14T12:48:57.634051+00:00",
 "name": "AWH Capital",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "awhiteboxadvisors": {
 "attempts": 1,
@@ -10070,11 +10375,13 @@
 "status": "new"
 },
 "awminvestment": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:56.075965+00:00",
 "found_at": "2026-09-14T12:48:57.634310+00:00",
 "name": "AWM Investment",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "awolfhillcapitalmanagement": {
 "attempts": 1,
@@ -10163,11 +10470,13 @@
 "status": "new"
 },
 "axsinvestments": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:53.048003+00:00",
 "found_at": "2026-09-14T12:48:57.634930+00:00",
 "name": "AXS Investments",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "axxcesswealthmanagement": {
 "found_at": "2026-09-14T12:48:57.635058+00:00",
@@ -10191,11 +10500,13 @@
 "status": "new"
 },
 "ayalcapitaladvisors": {
+"attempts": 1,
+"checked_at": "2026-10-19T13:17:56.091328+00:00",
 "found_at": "2026-09-14T12:48:57.635183+00:00",
 "name": "AYAL Capital Advisors",
 "relevance": 3,
 "source": "edgar-13f",
-"status": "new"
+"status": "no-board"
 },
 "ayaloninsurancecomp": {
 "found_at": "2026-09-14T12:48:57.694486+00:00",
@@ -11065,6 +11376,13 @@
 "source": "edgar-13f",
 "status": "new"
 },
+"baschrockwealthmanagement": {
+"found_at": "2026-10-19T13:17:15.897912+00:00",
+"name": "B.A. Schrock Wealth Management",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
 "basecampwealthadvisors": {
 "found_at": "2026-09-14T12:48:57.731351+00:00",
 "name": "Basecamp Wealth Advisors",
@@ -11639,6 +11957,13 @@
 "beaumontfinancialadvisors": {
 "found_at": "2026-09-14T12:48:57.735869+00:00",
 "name": "Beaumont Financial Advisors",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
+"beauventures": {
+"found_at": "2026-10-19T13:17:15.898352+00:00",
+"name": "Beau Ventures",
 "relevance": 3,
 "source": "edgar-13f",
 "status": "new"
@@ -13193,6 +13518,13 @@
 "bnbplus": {
 "found_at": "2026-09-14T12:49:26.523343+00:00",
 "name": "Bnb Plus",
+"relevance": 0,
+"source": "edgar-sic-6199",
+"status": "new"
+},
+"bnbstandard": {
+"found_at": "2026-10-19T13:17:27.255593+00:00",
+"name": "BNB Standard",
 "relevance": 0,
 "source": "edgar-sic-6199",
 "status": "new"
@@ -15140,6 +15472,20 @@
 "name": "Cahaba Wealth Management",
 "relevance": 3,
 "source": "edgar-13f",
+"status": "new"
+},
+"caherokorva": {
+"found_at": "2026-10-19T13:17:27.255765+00:00",
+"name": "Cahero Korva Holding",
+"relevance": 0,
+"source": "edgar-sic-6199",
+"status": "new"
+},
+"caheronytra": {
+"found_at": "2026-10-19T13:17:27.255874+00:00",
+"name": "Cahero Nytra Holding",
+"relevance": 0,
+"source": "edgar-sic-6199",
 "status": "new"
 },
 "cahillfinancialadvisors": {
@@ -25144,6 +25490,13 @@
 "source": "edgar-sic-6199",
 "status": "new"
 },
+"enlivex": {
+"found_at": "2026-10-19T13:17:27.257118+00:00",
+"name": "Enlivex",
+"relevance": 0,
+"source": "edgar-sic-6199",
+"status": "new"
+},
 "enrichfinancialpartners": {
 "found_at": "2026-09-14T12:48:57.920749+00:00",
 "name": "EnRich Financial Partners",
@@ -25475,6 +25828,13 @@
 "source": "edgar-13f",
 "status": "new"
 },
+"erstetowarzystwofunduszyinwestycyjnych": {
+"found_at": "2026-10-19T13:17:15.900261+00:00",
+"name": "Erste Towarzystwo Funduszy Inwestycyjnych",
+"relevance": 0,
+"source": "edgar-13f",
+"status": "new"
+},
 "ervininvestmentmanagement": {
 "found_at": "2026-09-14T12:48:57.924957+00:00",
 "name": "Ervin Investment Management",
@@ -25485,6 +25845,13 @@
 "erwealthmanagement": {
 "found_at": "2026-09-14T12:48:57.898473+00:00",
 "name": "E&R Wealth Management",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
+"eschatonopportunitiesfundmanagement": {
+"found_at": "2026-10-19T13:17:15.900376+00:00",
+"name": "Eschaton Opportunities Fund Management",
 "relevance": 3,
 "source": "edgar-13f",
 "status": "new"
@@ -37808,6 +38175,13 @@
 "source": "edgar-13f",
 "status": "new"
 },
+"jamestborelloria": {
+"found_at": "2026-10-19T13:17:15.902400+00:00",
+"name": "James T. Borello RIA",
+"relevance": 0,
+"source": "edgar-13f",
+"status": "new"
+},
 "jamiesonedwardb": {
 "found_at": "2026-09-14T12:49:26.427953+00:00",
 "name": "Jamieson Edward B",
@@ -42357,6 +42731,13 @@
 "loews": {
 "found_at": "2026-09-14T12:48:58.149849+00:00",
 "name": "Loews",
+"relevance": 0,
+"source": "edgar-13f",
+"status": "new"
+},
+"loftuspeak": {
+"found_at": "2026-10-19T13:17:15.903023+00:00",
+"name": "Loftus Peak",
 "relevance": 0,
 "source": "edgar-13f",
 "status": "new"
@@ -58418,6 +58799,13 @@
 "source": "edgar-13f",
 "status": "new"
 },
+"rizvitraversemanagement": {
+"found_at": "2026-10-19T13:17:15.905311+00:00",
+"name": "Rizvi Traverse Management",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
 "rjaassetmanagement": {
 "found_at": "2026-09-14T12:48:58.389734+00:00",
 "name": "RJA Asset Management",
@@ -60497,6 +60885,13 @@
 "source": "edgar-13f",
 "status": "new"
 },
+"scheelerfinancial": {
+"found_at": "2026-10-19T13:17:15.905927+00:00",
+"name": "Scheeler Financial",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
 "scheerrowlettassociatesinvestmentmanagement": {
 "found_at": "2026-09-14T12:48:58.467946+00:00",
 "name": "Scheer, Rowlett & Associates Investment Management",
@@ -61414,6 +61809,13 @@
 "source": "edgar-13f",
 "status": "new"
 },
+"sevenhillsfinancial": {
+"found_at": "2026-10-19T13:17:15.906084+00:00",
+"name": "Seven Hills Financial",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
 "sevenmileadvisory": {
 "found_at": "2026-09-14T12:48:58.433391+00:00",
 "name": "Seven Mile Advisory",
@@ -61480,6 +61882,13 @@
 "sfiadvisors": {
 "found_at": "2026-09-14T12:48:58.433815+00:00",
 "name": "SFI Advisors",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
+"sfmdbasweeneyfinancialadvisors": {
+"found_at": "2026-10-19T13:17:15.905603+00:00",
+"name": "SFM, LLC d/b/a Sweeney Financial Advisors",
 "relevance": 3,
 "source": "edgar-13f",
 "status": "new"
@@ -69808,6 +70217,13 @@
 "source": "edgar-13f",
 "status": "new"
 },
+"ulrichconsultantsinvestment": {
+"found_at": "2026-10-19T13:17:15.907258+00:00",
+"name": "Ulrich Consultants & Investment Group",
+"relevance": 3,
+"source": "edgar-13f",
+"status": "new"
+},
 "ulyssesmanagement": {
 "found_at": "2026-09-14T12:48:58.581604+00:00",
 "name": "Ulysses Management",
@@ -70823,6 +71239,13 @@
 "vaneckjitosoletf": {
 "found_at": "2026-09-14T12:49:26.508086+00:00",
 "name": "VanEck JitoSOL ETF",
+"relevance": 0,
+"source": "edgar-sic-6221",
+"status": "new"
+},
+"vanecklidostakedethereumetf": {
+"found_at": "2026-10-19T13:17:27.254484+00:00",
+"name": "VanEck Lido Staked Ethereum ETF",
 "relevance": 0,
 "source": "edgar-sic-6221",
 "status": "new"
