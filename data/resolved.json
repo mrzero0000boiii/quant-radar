@@ -112,6 +112,15 @@
   "status": "ok",
   "tried": 2
  },
+ "Adams Street Partners": {
+  "checked_at": "2026-10-19T15:29:11.170698+00:00",
+  "method": "hint",
+  "sources": [
+   "greenhouse:adamsstreetpartners"
+  ],
+  "status": "ok",
+  "tried": 1
+ },
  "Adaptive Financial Consulting": {
   "checked_at": "2026-10-13T01:55:58.011634+00:00",
   "method": "hint",
@@ -1145,8 +1154,8 @@
   "tried": 22
  },
  "Caxton Associates": {
-  "checked_at": "2026-09-19T12:25:43.879249+00:00",
-  "method": "careers-page",
+  "checked_at": "2026-10-19T15:29:11.332945+00:00",
+  "method": "hint",
   "sources": [
    "workable:caxton"
   ],
@@ -5837,7 +5846,7 @@
   "tried": 2
  },
  "Webb Traders": {
-  "checked_at": "2026-10-12T05:28:21.634551+00:00",
+  "checked_at": "2026-10-19T15:29:24.902324+00:00",
   "note": "",
   "sources": [],
   "status": "unresolved",

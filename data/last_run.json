@@ -1,17 +1,19 @@
 {
- "firms_total": 795,
- "firms_resolved": 263,
+ "firms_total": 796,
+ "firms_resolved": 264,
  "firms_swept": 263,
- "raw_postings": 23143,
- "relevant": 4352,
- "live": 4357,
- "target_live": 846,
- "detected_this_run": 10,
- "new_this_run": 10,
- "baselined_this_run": 0,
+ "raw_postings": 23125,
+ "relevant": 4322,
+ "live": 4363,
+ "target_live": 852,
+ "detected_this_run": 103,
+ "new_this_run": 101,
+ "baselined_this_run": 2,
  "backfilled_this_run": 0,
- "closed_this_run": 24,
+ "closed_this_run": 97,
  "baseline_run": false,
- "firms_first_read": [],
- "duration_s": 110.5
+ "firms_first_read": [
+  "Adams Street Partners"
+ ],
+ "duration_s": 134.2
 }
