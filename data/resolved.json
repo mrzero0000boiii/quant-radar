@@ -3757,7 +3757,7 @@
   "tried": 2
  },
  "Northland Securities": {
-  "checked_at": "2026-09-21T14:59:58.444681+00:00",
+  "checked_at": "2026-10-21T20:00:18.356946+00:00",
   "method": "hint",
   "sources": [
    "workday:firstnational/northlandcareers/wd12"
